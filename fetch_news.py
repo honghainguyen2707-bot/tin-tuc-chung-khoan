@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """Tổng hợp RSS tài chính cho website Hồng Hải; chỉ lưu tóm tắt và liên kết nguồn."""
-import calendar
 import datetime as dt
 import email.utils
 import html
@@ -41,21 +40,24 @@ KEYWORDS = (
     'doanh nghiep', 'tai chinh', 'thi truong', 'kinh te', 'quy dau tu',
     'khoi ngoai', 'thanh khoan', 'dong tien', 'du an', 'ngan sach',
 )
-STRONG = ('chung khoan','co phieu','vn-index','vnindex','hose','hnx','upcom',
-          'co tuc','trai phieu','lai suat','ty gia','ngan hang','tin dung',
-          'loi nhuan','bao cao tai chinh','dau tu cong','fed','gia dau',
-          'gia vang','gdp','lam phat','khoi ngoai','thanh khoan')
+STRONG = ('chung khoan', 'co phieu', 'vn-index', 'vnindex', 'hose', 'hnx', 'upcom',
+          'co tuc', 'trai phieu', 'lai suat', 'ty gia', 'ngan hang', 'tin dung',
+          'loi nhuan', 'bao cao tai chinh', 'dau tu cong', 'fed', 'gia dau',
+          'gia vang', 'gdp', 'lam phat', 'khoi ngoai', 'thanh khoan')
 
 logging.basicConfig(level=logging.INFO, format='%(levelname)s %(message)s')
+
 
 def normalize(s):
     s = unicodedata.normalize('NFD', s or '')
     s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
     return s.replace('đ', 'd').replace('Đ', 'D').lower()
 
+
 def strip_html(s):
     s = re.sub(r'<[^>]+>', ' ', html.unescape(s or ''))
     return re.sub(r'\s+', ' ', s).strip()
+
 
 def child_text(element, names):
     for c in element:
@@ -64,6 +66,7 @@ def child_text(element, names):
             if text:
                 return text
     return ''
+
 
 def parse_date(value):
     if not value:
@@ -80,24 +83,47 @@ def parse_date(value):
     except ValueError:
         return None
 
+
 def canonical_url(url):
     parts = urlsplit(url.strip())
     if parts.scheme not in ('https', 'http') or not parts.netloc:
         return ''
     return urlunsplit((parts.scheme, parts.netloc.lower(), parts.path, '', ''))
 
+
 def relevant(title, description, source):
     text = normalize(title + ' ' + description)
     if any(word in text for word in STRONG):
         return True
-    # Chuyên mục chuyên ngành được ưu tiên, nhưng vẫn loại các tin không có tín hiệu kinh tế.
     return any(word in text for word in KEYWORDS) and any(
         tag in source for tag in ('Chứng khoán', 'Cổ phiếu', 'Doanh nghiệp', 'Đầu tư tài chính')
     )
 
+
+def clean_xml_payload(payload):
+    """Loại BOM/khoảng trắng đầu tài liệu; không tự ý cắt bỏ HTML hoặc XML hỏng."""
+    if not isinstance(payload, bytes) or not payload:
+        raise ValueError('Phản hồi RSS rỗng')
+    payload = payload.removeprefix(b'\xef\xbb\xbf').lstrip(b' \t\r\n')
+    # Một số server đặt BOM hoặc khoảng trắng trước khai báo XML.
+    payload = payload.removeprefix(b'\xef\xbb\xbf').lstrip(b' \t\r\n')
+    head = payload[:512].lower()
+    if (head.startswith(b'<!doctype html') or head.startswith(b'<html')
+            or b'<html' in head[:150]):
+        raise ValueError('Máy chủ trả về HTML thay vì RSS/XML; cần kiểm tra URL hoặc chặn truy cập')
+    if not payload.startswith((b'<?xml', b'<rss', b'<feed', b'<rdf:', b'<RDF:')):
+        raise ValueError('Phản hồi không bắt đầu bằng khai báo XML hoặc RSS hợp lệ')
+    return payload
+
+
 def parse_feed(xml_bytes, source):
+    xml_bytes = clean_xml_payload(xml_bytes)
     root = ET.fromstring(xml_bytes)
-    entries = [el for el in root.iter() if el.tag.rsplit('}', 1)[-1].lower() in ('item', 'entry')]
+    root_tag = root.tag.rsplit('}', 1)[-1].lower()
+    if root_tag not in ('rss', 'feed', 'rdf'):
+        raise ValueError(f'Gốc XML không phải RSS/Atom: {root_tag}')
+    entries = [el for el in root.iter()
+               if el.tag.rsplit('}', 1)[-1].lower() in ('item', 'entry')]
     result = []
     now = time.time()
     for entry in entries:
@@ -111,10 +137,7 @@ def parse_feed(xml_bytes, source):
                     break
         link = canonical_url(link)
         date = parse_date(child_text(entry, {'pubdate', 'published', 'updated', 'date'}))
-        if not title or not link or not relevant(title, description, source):
-            continue
-        if not date:
-            # Không gán thời gian hiện tại cho bài thiếu ngày xuất bản.
+        if not title or not link or not relevant(title, description, source) or not date:
             continue
         stamp = date.timestamp()
         if stamp > now + 3600 or stamp < now - MAX_AGE_DAYS * 86400:
@@ -127,12 +150,14 @@ def parse_feed(xml_bytes, source):
         })
     return result
 
+
 def read_previous():
     try:
         data = json.loads(OUTPUT.read_text(encoding='utf-8'))
         return data if isinstance(data, dict) and isinstance(data.get('items'), list) else {'items': []}
     except (OSError, ValueError):
         return {'items': []}
+
 
 def main():
     previous = read_previous()
@@ -152,7 +177,6 @@ def main():
             success += 1
         except Exception as exc:
             logging.warning('%s: %s', source, exc)
-    # Giữ bài cũ còn hạn khi một vài RSS tạm thời không truy cập được.
     combined = collected + previous['items']
     dedup = {}
     cutoff = time.time() - MAX_AGE_DAYS * 86400
@@ -172,6 +196,7 @@ def main():
         return
     OUTPUT.write_text(json.dumps({'items': ordered}, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     logging.info('Hoàn tất: %d nguồn đọc được, %d tin lưu', success, len(ordered))
+
 
 if __name__ == '__main__':
     main()
