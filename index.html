@@ -53,7 +53,33 @@ function validLink(s){try{const u=new URL(s,location.href);return ['https:','htt
 function dateOf(item){const n=Number(item.timestamp);if(Number.isFinite(n)&&n>1000000000)return new Date(n<1e12?n*1000:n);const d=new Date(item.published||item.date||'');return Number.isNaN(d.getTime())?null:d}
 function classify(item){const s=(item.title+' '+item.description).toLowerCase();return Object.entries(rules).filter(([,words])=>words.some(w=>s.includes(w))).map(([key])=>key)}
 function normalize(x){return {title:cleanText(x.title),description:cleanText(x.description||x.summary),source:cleanText(x.source||'Nguồn tin'),link:validLink(x.link||x.url),published:x.published||x.date||'',timestamp:x.timestamp,date:dateOf(x)}}
-function filtered(){const q=$('query').value.trim().toLocaleLowerCase('vi');const p=$('period').value,src=$('source').value,now=Date.now();return items.filter(x=>{if(src!=='all'&&x.source!==src)return false;if(q&&!(`${x.title} ${x.description} ${x.source}`).toLocaleLowerCase('vi').includes(q)))return false;if(selected!=='all'&&!classify(x).includes(selected))return false;if(p!=='all'){if(!x.date)return false;const age=now-x.date.getTime();if(age>Number(p)*3600000||age < -3600000)return false}return true})}
+
+function filtered(){
+  const q = $('query').value.trim().toLocaleLowerCase('vi');
+  const p = $('period').value;
+  const src = $('source').value;
+  const now = Date.now();
+
+  return items.filter(x => {
+    if(src !== 'all' && x.source !== src) return false;
+
+    if(q && !(`${x.title} ${x.description} ${x.source}`)
+      .toLocaleLowerCase('vi').includes(q)) return false;
+
+    if(selected !== 'all' && !classify(x).includes(selected))
+      return false;
+
+    if(p !== 'all'){
+      if(!x.date) return false;
+      const age = now - x.date.getTime();
+      if(age > Number(p) * 3600000 || age < -3600000)
+        return false;
+    }
+
+    return true;
+  });
+}
+
 function renderTabs(){const host=$('categories');host.replaceChildren();for(const [key,label,emoji] of categories){const count=key==='all'?items.length:items.filter(x=>classify(x).includes(key)).length;const b=document.createElement('button');b.type='button';b.className='tab'+(key===selected?' active':'');b.textContent=`${emoji} ${label} `;const s=document.createElement('span');s.textContent=count;b.append(s);b.onclick=()=>{selected=key;limit=25;render()};host.append(b)}}
 function renderSources(){const current=$('source').value;const list=[...new Set(items.map(x=>x.source))].sort((a,b)=>a.localeCompare(b,'vi'));$('source').replaceChildren(new Option('Tất cả nguồn','all'),...list.map(x=>new Option(x,x)));$('source').value=list.includes(current)?current:'all'}
 function renderFeed(){const list=filtered(),host=$('feed');host.replaceChildren();$('result-count').textContent=`${list.length} tin phù hợp`;for(const x of list.slice(0,limit)){const el=document.createElement('article');el.className='article';const top=document.createElement('div');top.className='article-top';const cat=document.createElement('span');cat.className='pill';const match=categories.find(([k])=>classify(x).includes(k));cat.textContent=match?match[1]:'Tin tổng hợp';const time=document.createElement('span');time.textContent=x.date?x.date.toLocaleString('vi-VN',{timeZone:'Asia/Ho_Chi_Minh',hour:'2-digit',minute:'2-digit',day:'2-digit',month:'2-digit'}):String(x.published||'');const src=document.createElement('span');src.className='source';src.textContent=x.source;top.append(cat,time,src);const h=document.createElement('h3'),a=document.createElement('a');a.href=x.link;a.target='_blank';a.rel='noopener noreferrer';a.textContent=x.title;h.append(a);el.append(top,h);if(x.description){const p=document.createElement('p');p.textContent=x.description;el.append(p)}host.append(el)}if(!list.length){const e=document.createElement('div');e.className='empty';e.textContent=items.length?'Không tìm thấy tin phù hợp. Hãy thử mở rộng thời gian hoặc đổi bộ lọc.':'Chưa có dữ liệu tin tức. Hãy kiểm tra news.json và GitHub Actions.';host.append(e)}$('more').hidden=list.length<=limit}
