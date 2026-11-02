@@ -1,1 +1,41 @@
-<!DOCTYPE html><html lang="vi"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Bản tin chứng khoán | Hồng Hải VCBS</title><style>body{margin:0;background:#f3f7f5;color:#17372e;font:16px Arial,sans-serif}header{background:linear-gradient(110deg,#004b39,#0a8a60);color:white;padding:40px 7%}main{max-width:1100px;margin:30px auto;padding:0 20px}.card{background:white;border-radius:16px;padding:24px;margin-bottom:18px;box-shadow:0 3px 14px #0001}input{padding:14px;width:90%;border:1px solid #ccc;border-radius:9px}a{color:#087a56}small{color:#777}.item{border-bottom:1px solid #eee;padding:15px 0}.tag{color:#07815b;font-size:13px}footer{text-align:center;padding:30px}</style></head><body><header><h1>📈 BẢN TIN CHỨNG KHOÁN</h1><h2>TVĐT Hồng Hải – VCBS Đà Nẵng</h2><p>Tin tức thị trường • Cập nhật định kỳ 15 phút</p></header><main><section class="card"><h2>🔎 Tìm kiếm tin tức</h2><input id="q" placeholder="Nhập mã cổ phiếu hoặc từ khóa..." oninput="render()"><p id="status">Đang tải dữ liệu...</p></section><section class="card"><h2>📰 Tin tức mới nhất</h2><div id="news"></div></section></main><footer>TVĐT Hồng Hải – VCBS Đà Nẵng | 0965 027 456</footer><script>let items=[];async function load(){try{let r=await fetch("news.json?t="+Date.now());if(!r.ok)throw Error();let d=await r.json();items=Array.isArray(d)?d:(d.items||[]);document.getElementById("status").textContent="Đã tải "+items.length+" tin | Tự kiểm tra mỗi 15 phút";render()}catch(e){document.getElementById("status").textContent="Chưa có dữ liệu. Cần thiết lập nguồn tin tự động."}}function render(){let q=document.getElementById("q").value.toLowerCase();document.getElementById("news").innerHTML=items.filter(x=>(x.title+" "+(x.description||"")).toLowerCase().includes(q)).slice(0,100).map(x=>"<div class=item><span class=tag>"+(x.source||"Tin thị trường")+"</span><h3><a target=_blank rel=noopener href="+JSON.stringify(x.link||x.url||"#")+">"+escapeHtml(x.title||"")+"</a></h3><small>"+escapeHtml(x.published||"")+"</small></div>").join("")||"Chưa có tin phù hợp."}function escapeHtml(s){return String(s).replace(/[&<>"\x27]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","\x27":"&#39;"}[c]))}load();setInterval(load,900000)</script></body></html>
+<!DOCTYPE html><html lang="vi"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Bản tin chứng khoán | Hồng Hải VCBS</title><style>body{margin:0;background:#f3f7f5;color:#17372e;font:16px Arial,sans-serif}header{background:linear-gradient(110deg,#004b39,#0a8a60);color:white;padding:40px 7%}main{max-width:1100px;margin:30px auto;padding:0 20px}.card{background:white;border-radius:16px;padding:24px;margin-bottom:18px;box-shadow:0 3px 14px #0001}input{padding:14px;width:90%;border:1px solid #ccc;border-radius:9px}a{color:#087a56}small{color:#777}.item{border-bottom:1px solid #eee;padding:15px 0}.tag{color:#07815b;font-size:13px}footer{text-align:center;padding:30px}</style></head><body>
+<header>
+  <div style="max-width:1100px;margin:auto">
+
+    <p style="font-size:14px;letter-spacing:2px;color:#d2f5e5">
+      VCBS ĐÀ NẴNG | BẢN TIN ĐẦU TƯ
+    </p>
+
+    <h1 style="font-size:38px;margin:18px 0 8px">
+      HỒNG HẢI
+    </h1>
+
+    <h2 style="font-size:19px;font-weight:normal">
+      Chuyên viên tư vấn đầu tư chứng khoán
+    </h2>
+
+    <a href="tel:0965027456"
+       style="display:inline-block;
+       background:#ffffff;
+       color:#07513d;
+       padding:16px 25px;
+       border-radius:12px;
+       text-decoration:none;
+       font-size:24px;
+       font-weight:bold;
+       margin:18px 0;
+       box-shadow:0 4px 12px #0002">
+      ☎ 0965 027 456
+    </a>
+
+    <p style="font-size:17px;font-weight:bold">
+      📈 BẢN TIN CHỨNG KHOÁN
+    </p>
+
+    <p>
+      Tin tức thị trường • Cập nhật định kỳ 15 phút
+    </p>
+
+  </div>
+</header>
+<main><section class="card"><h2>🔎 Tìm kiếm tin tức</h2><input id="q" placeholder="Nhập mã cổ phiếu hoặc từ khóa..." oninput="render()"><p id="status">Đang tải dữ liệu...</p></section><section class="card"><h2>📰 Tin tức mới nhất</h2><div id="news"></div></section></main><footer>TVĐT Hồng Hải – VCBS Đà Nẵng | 0965 027 456</footer><script>let items=[];async function load(){try{let r=await fetch("news.json?t="+Date.now());if(!r.ok)throw Error();let d=await r.json();items=Array.isArray(d)?d:(d.items||[]);document.getElementById("status").textContent="Đã tải "+items.length+" tin | Tự kiểm tra mỗi 15 phút";render()}catch(e){document.getElementById("status").textContent="Chưa có dữ liệu. Cần thiết lập nguồn tin tự động."}}function render(){let q=document.getElementById("q").value.toLowerCase();document.getElementById("news").innerHTML=items.filter(x=>(x.title+" "+(x.description||"")).toLowerCase().includes(q)).slice(0,100).map(x=>"<div class=item><span class=tag>"+(x.source||"Tin thị trường")+"</span><h3><a target=_blank rel=noopener href="+JSON.stringify(x.link||x.url||"#")+">"+escapeHtml(x.title||"")+"</a></h3><small>"+escapeHtml(x.published||"")+"</small></div>").join("")||"Chưa có tin phù hợp."}function escapeHtml(s){return String(s).replace(/[&<>"\x27]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","\x27":"&#39;"}[c]))}load();setInterval(load,900000)</script></body></html>
