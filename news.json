@@ -1,4 +1,340 @@
-
 {
-  "items": []
+  "items": [
+    {
+      "title": "SATRA - từ cửa hàng gần nhà đến 'bến cảng thương mại'",
+      "description": "Từ không gian nhỏ chứa đủ mặt hàng thiết yếu, cọng rau - con cá bản địa, SATRA dần mở rộng hệ sinh thái qua hàng chục năm, tạo \"bến cảng\" cho nhiều doanh nghiệp tiếp cận thị trường.",
+      "link": "https://vnexpress.net/satra-tu-cua-hang-gan-nha-den-ben-cang-thuong-mai-5137778.html",
+      "source": "VnExpress - Tin mới",
+      "published": "Mon, 02 Nov 2026 08:00:00 +0700",
+      "timestamp": 1793581200.0
+    },
+    {
+      "title": "Rút ngắn thủ tục vay thế chấp bất động sản qua công chứng điện tử",
+      "description": "Thay vì ký tay gần 100 lần trên hồ sơ vay vốn, vợ chồng anh Quân dù ở hai thành phố vẫn có thể ký hợp đồng thế chấp trong chưa đầy 25 phút nhờ giải pháp công chứng điện tử.",
+      "link": "https://vnexpress.net/rut-ngan-thu-tuc-vay-the-chap-bat-dong-san-qua-cong-chung-dien-tu-5139442.html",
+      "source": "VnExpress - Tin mới",
+      "published": "Mon, 02 Nov 2026 08:00:00 +0700",
+      "timestamp": 1793581200.0
+    },
+    {
+      "title": "Điểm tin 6h: Bộ Y tế đề xuất người dưới 18 tuổi chỉ hiến mô cho anh chị em ruột | Giá vàng trong nước rơi xuống mức thấp nhất 3 tháng",
+      "description": "Cô giáo Toán bị đình chỉ dạy sau vụ nam sinh bạt tai bạn giữa lớp; TP HCM đề xuất bổ sung 1.800 tỷ đồng cho quỹ đầu tư mạo hiểm...",
+      "link": "https://vnexpress.net/diem-tin-6h-bo-y-te-de-xuat-nguoi-duoi-18-tuoi-chi-hien-mo-cho-anh-chi-em-ruot-gia-vang-trong-nuoc-roi-xuong-muc-thap-nhat-3-thang-5139461.html",
+      "source": "VnExpress - Tin mới",
+      "published": "Mon, 02 Nov 2026 06:01:53 +0700",
+      "timestamp": 1793574113.0
+    },
+    {
+      "title": "Giá vàng có thể giảm tiếp sau khi chạm đáy một năm",
+      "description": "Phần lớn chuyên gia Phố Wall dự báo giá vàng tuần này tiếp tục lao dốc bởi áp lực xả hàng vẫn hiện hữu sau phiên bán tháo cuối tháng 10.",
+      "link": "https://vnexpress.net/gia-vang-co-the-giam-tiep-sau-khi-cham-day-mot-nam-5139438.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Mon, 02 Nov 2026 00:00:00 +0700",
+      "timestamp": 1793552400.0
+    },
+    {
+      "title": "Bộ Tài chính: Hơn 2,5 triệu doanh nghiệp ngừng hoạt động chưa đóng mã số thuế",
+      "description": "Còn hơn 2,5 triệu doanh nghiệp ngừng hoạt động, bỏ địa chỉ đăng ký nhiều năm nhưng chưa đóng mã số thuế, theo số liệu của Bộ Tài chính.",
+      "link": "https://vnexpress.net/bo-tai-chinh-hon-2-5-trieu-doanh-nghiep-ngung-hoat-dong-chua-dong-ma-so-thue-5138092.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sun, 01 Nov 2026 17:17:04 +0700",
+      "timestamp": 1793528224.0
+    },
+    {
+      "title": "Chủ nhà máy lọc dầu Dung Quất gửi ngân hàng hơn 2 tỷ USD",
+      "description": "Tổng công ty Lọc hóa dầu Việt Nam (BSR) gửi ngân hàng hơn 58.000 tỷ đồng, tức gần một nửa giá trị tài sản, trong giai đoạn lãi suất huy động neo cao.",
+      "link": "https://vnexpress.net/chu-nha-may-loc-dau-dung-quat-gui-ngan-hang-hon-2-ty-usd-5139328.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sun, 01 Nov 2026 15:15:00 +0700",
+      "timestamp": 1793520900.0
+    },
+    {
+      "title": "VNG lần đầu lãi hơn 1.000 tỷ đồng",
+      "description": "VNG lãi đậm trong quý III, nâng lũy kế 9 tháng đầu năm lên hơn 1.000 tỷ đồng, cao nhất từ khi giao dịch trên sàn chứng khoán.",
+      "link": "https://vnexpress.net/vng-lan-dau-lai-hon-1-000-ty-dong-5139288.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sun, 01 Nov 2026 11:20:00 +0700",
+      "timestamp": 1793506800.0
+    },
+    {
+      "title": "Chủ đầu tư sân bay Long Thành giảm gần 1.400 nhân sự trong ba tháng",
+      "description": "ACV giảm 1.360 nhân sự trong quý III, nâng tổng số lao động rời công ty từ đầu năm lên gần 3.700 người.",
+      "link": "https://vnexpress.net/chu-dau-tu-san-bay-long-thanh-giam-gan-1-400-nhan-su-trong-ba-thang-5139256.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sun, 01 Nov 2026 09:30:00 +0700",
+      "timestamp": 1793500200.0
+    },
+    {
+      "title": "Khối ngoại vừa rút gần một tỷ USD khỏi chứng khoán Việt Nam",
+      "description": "Nhà đầu tư nước ngoài bán ròng khoảng 930 triệu USD trong tháng 10, cao nhất kể từ đầu năm, nâng tổng giá trị rút ròng năm nay lên 4,7 tỷ USD.",
+      "link": "https://vnexpress.net/khoi-ngoai-vua-rut-gan-mot-ty-usd-khoi-chung-khoan-viet-nam-5139224.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sun, 01 Nov 2026 07:00:00 +0700",
+      "timestamp": 1793491200.0
+    },
+    {
+      "title": "Có nên giao dịch tiền số OTC để tránh rủi ro khóa tài khoản ngân hàng?",
+      "description": "Theo chuyên gia, OTC giải quyết một số bất tiện của P2P nhưng nhà đầu tư có thể vướng rủi ro nguồn tiền và phải giải trình khi cần thiết.",
+      "link": "https://vnexpress.net/co-nen-giao-dich-tien-so-otc-de-tranh-rui-ro-khoa-tai-khoan-ngan-hang-5138336.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sun, 01 Nov 2026 00:32:09 +0700",
+      "timestamp": 1793467929.0
+    },
+    {
+      "title": "Cổ tức, lãi tiền gửi đỡ lợi nhuận doanh nghiệp dịch vụ hàng không",
+      "description": "Sasco thu gần 48 tỷ đồng cổ tức, còn Saigon Cargo hưởng 34 tỷ đồng lãi tiền gửi trong quý III, góp phần cải thiện lợi nhuận giữa lúc hoạt động kinh doanh chịu sức ép.",
+      "link": "https://vnexpress.net/co-tuc-lai-tien-gui-do-loi-nhuan-doanh-nghiep-dich-vu-hang-khong-5137465.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 21:14:19 +0700",
+      "timestamp": 1793456059.0
+    },
+    {
+      "title": "Show Tinh Hà 'Say Hi' mang về 60 tỷ đồng cho DatVietVAC",
+      "description": "Tinh Hà \"Say Hi\" đóng góp tổng cộng khoảng 60 tỷ đồng doanh thu phát hành nhạc, cấp quyền thương hiệu và bán merchandise cho công ty sản xuất DatVietVAC.",
+      "link": "https://vnexpress.net/show-tinh-ha-say-hi-mang-ve-60-ty-dong-cho-datvietvac-5139147.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 16:54:23 +0700",
+      "timestamp": 1793440463.0
+    },
+    {
+      "title": "HDBank lãi trước thuế hơn 18.300 tỷ đồng sau 9 tháng",
+      "description": "HDBank ghi nhận lợi nhuận 18.379 tỷ đồng trong 9 tháng đầu năm, tăng 24,2% cùng kỳ, tổng tài sản hơn 1,14 triệu tỷ đồng.",
+      "link": "https://vnexpress.net/hdbank-lai-truoc-thue-hon-18-300-ty-dong-sau-9-thang-5139142.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 14:00:00 +0700",
+      "timestamp": 1793430000.0
+    },
+    {
+      "title": "Thống đốc: Người dân gửi tiền nhiều vì tin tưởng hệ thống ngân hàng",
+      "description": "Lý giải việc hệ thống tín dụng vẫn \"gánh\" phần lớn nhu cầu vốn, Thống đốc Phạm Đức Ấn cho rằng đây là \"một nét riêng\" của Việt Nam khi người dân vẫn gửi tiết kiệm nhiều và diễn biến này sẽ thay đổi khi thị trường vốn hấp dẫn hơn.",
+      "link": "https://vnexpress.net/thong-doc-nguoi-dan-gui-tien-nhieu-vi-tin-tuong-he-thong-ngan-hang-5139105.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 12:30:30 +0700",
+      "timestamp": 1793424630.0
+    },
+    {
+      "title": "Vietnam Airlines 'đội' thêm 4.360 tỷ đồng chi phí nhiên liệu",
+      "description": "Chi phí nhiên liệu của công ty mẹ Vietnam Airlines tăng hơn 61% trong quý III, vượt mức tăng doanh thu và thu nhập khác, khiến doanh nghiệp chuyển từ lãi sang lỗ.",
+      "link": "https://vnexpress.net/vietnam-airlines-doi-them-4-360-ty-dong-chi-phi-nhien-lieu-5139067.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 11:33:46 +0700",
+      "timestamp": 1793421226.0
+    },
+    {
+      "title": "Đại biểu Quốc hội: Nhà thầu xây dựng 'càng làm càng lỗ'",
+      "description": "Vì đơn giá công bố thấp hơn nhiều thị trường, nhà thầu xây dựng chưa thực hiện dự án đầu tư công đã có nguy cơ thua lỗ, theo Đại biểu Trần Thị Vân.",
+      "link": "https://vnexpress.net/dai-bieu-quoc-hoi-nha-thau-xay-dung-cang-lam-cang-lo-5139071.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 10:37:56 +0700",
+      "timestamp": 1793417876.0
+    },
+    {
+      "title": "Giá vàng miếng giảm hơn 2 triệu đồng",
+      "description": "Theo đà lao dốc của giá thế giới, các thương hiệu trong nước đồng loạt hạ giá bán vàng miếng 2,4 triệu đồng so với cuối ngày hôm qua, còn 139 triệu đồng một lượng.",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-31-10-5139058.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 10:06:57 +0700",
+      "timestamp": 1793416017.0
+    },
+    {
+      "title": "Chuyến bay đưa Bolsonaro tới Florida được trả bằng tài khoản tại Mỹ",
+      "description": "Chuyến bay đưa Flavio Bolsonaro, người rời khỏi Brazil sau thất bại bầu cử, tới Florida được thanh toán bằng tiền chuyển từ tài khoản ngân hàng tại Mỹ.",
+      "link": "https://vnexpress.net/chuyen-bay-dua-bolsonaro-toi-florida-duoc-tra-bang-tai-khoan-tai-my-5139031.html",
+      "source": "VnExpress - Thế giới",
+      "published": "Sat, 31 Oct 2026 09:29:31 +0700",
+      "timestamp": 1793413771.0
+    },
+    {
+      "title": "Sunshine Group lãi 5.900 tỷ đồng sau 9 tháng",
+      "description": "Sunshine Group ghi nhận lợi nhuận trước thuế khoảng 5.900 tỷ đồng sau 9 tháng, tăng gấp gần 3 lần cùng kỳ năm ngoái.",
+      "link": "https://vnexpress.net/sunshine-group-lai-5-900-ty-dong-sau-9-thang-5138914.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 08:53:07 +0700",
+      "timestamp": 1793411587.0
+    },
+    {
+      "title": "Giá USD ngân hàng xuống dưới 26.000 đồng",
+      "description": "Lần đầu tiên sau một năm rưỡi, nhiều ngân hàng trong nước mua lẫn bán USD dưới mốc 26.000 đồng.",
+      "link": "https://vnexpress.net/gia-usd-ngan-hang-xuong-duoi-26-000-dong-5139037.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 08:43:43 +0700",
+      "timestamp": 1793411023.0
+    },
+    {
+      "title": "Cổ phiếu Intel giảm mạnh nhất 50 năm",
+      "description": "Giá cổ phiếu hãng chip Mỹ giảm gần 30% một phiên, sau khi dự báo kết quả kinh doanh quý này thấp hơn dự kiến.",
+      "link": "https://vnexpress.net/co-phieu-intel-giam-manh-nhat-50-nam-5139027.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 08:17:08 +0700",
+      "timestamp": 1793409428.0
+    },
+    {
+      "title": "Giá vàng thế giới lao dốc, xuống thấp nhất một năm",
+      "description": "Vàng và loạt kim loại khác bị bán tháo trong phiên cuối tháng, hiện về mức thấp nhất kể từ cuối năm 2025.",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-xuong-thap-nhat-mot-nam-5139023.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 07:17:12 +0700",
+      "timestamp": 1793405832.0
+    },
+    {
+      "title": "VietinBank dẫn đầu lợi nhuận ngành ngân hàng trong quý III",
+      "description": "Vượt qua Vietcombank, VietinBank trở thành đơn vị lãi lớn nhất ngành ngân hàng trong quý III, với mức lợi nhuận trước thuế 13.688 tỷ đồng.",
+      "link": "https://vnexpress.net/vietinbank-dan-dau-loi-nhuan-nganh-ngan-hang-trong-quy-iii-5139002.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 07:12:17 +0700",
+      "timestamp": 1793405537.0
+    },
+    {
+      "title": "Doanh nghiệp, hộ kinh doanh được giảm 30% thuế từng kỳ kê khai",
+      "description": "Doanh nghiệp, hộ kinh doanh có doanh thu không quá 10 tỷ đồng mỗi năm được giảm 30% thuế thu nhập, ngay khi kê khai hoặc tạm nộp từng kỳ.",
+      "link": "https://vnexpress.net/doanh-nghiep-ho-kinh-doanh-duoc-giam-30-thue-tung-ky-ke-khai-5138953.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 00:15:00 +0700",
+      "timestamp": 1793380500.0
+    },
+    {
+      "title": "Vietcombank lãi hơn 40.000 tỷ đồng sau 9 tháng",
+      "description": "Vietcombank báo lãi trước thuế 9 tháng đạt khoảng 40.400 tỷ đồng, tiếp tục dẫn đầu ngành ngân hàng.",
+      "link": "https://vnexpress.net/vietcombank-lai-hon-40-000-ty-dong-sau-9-thang-5138942.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 00:03:00 +0700",
+      "timestamp": 1793379780.0
+    },
+    {
+      "title": "Lợi nhuận công ty bầu Đức tăng gấp đôi nhờ xóa nợ lãi trái phiếu",
+      "description": "Doanh thu thuần 9 tháng giảm gần 12%, nhưng Hoàng Anh Gia Lai vẫn lãi sau thuế hơn 2.674 tỷ đồng, tăng gấp đôi nhờ khoản được giảm nghĩa vụ trả lãi trái phiếu.",
+      "link": "https://vnexpress.net/loi-nhuan-cong-ty-bau-duc-tang-gap-doi-nho-xoa-no-lai-trai-phieu-5138964.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 31 Oct 2026 00:01:00 +0700",
+      "timestamp": 1793379660.0
+    },
+    {
+      "title": "Đề xuất thí điểm chứng chỉ vàng",
+      "description": "Đại biểu Lê Hoàng Anh đề xuất thí điểm chứng chỉ vàng nhằm thêm kênh dẫn vốn cho nền kinh tế, khi người dân đang nắm giữ khoảng 500 tấn kim loại quý này.",
+      "link": "https://vnexpress.net/de-xuat-thi-diem-chung-chi-vang-5138821.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 18:17:17 +0700",
+      "timestamp": 1793359037.0
+    },
+    {
+      "title": "Vingroup lần đầu lãi trước thuế hơn tỷ USD trong một quý",
+      "description": "Vingroup lãi trước thuế gần 29.940 tỷ đồng trong quý III, tương đương hơn 1,1 tỷ USD, nhờ kết quả tích cực của mảng bất động sản.",
+      "link": "https://vnexpress.net/vingroup-lan-dau-lai-truoc-thue-hon-ty-usd-trong-mot-quy-5138844.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 17:05:00 +0700",
+      "timestamp": 1793354700.0
+    },
+    {
+      "title": "Lợi nhuận trước thuế quý III MSB tăng 27%",
+      "description": "MSB ghi nhận lợi nhuận trước thuế quý III đạt 2.017 tỷ đồng, tăng 27,1% so với cùng kỳ, nhờ thu nhập lãi thuần và dịch vụ tăng trưởng.",
+      "link": "https://vnexpress.net/loi-nhuan-truoc-thue-quy-iii-msb-tang-27-5138878.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 17:00:00 +0700",
+      "timestamp": 1793354400.0
+    },
+    {
+      "title": "Giá dầu thế giới tăng 4 tháng liên tiếp",
+      "description": "Chỉ riêng trong tháng 10, giá dầu thô đã tăng khoảng 14%, nối dài chuỗi tăng lên 4 tháng do chiến sự tại Trung Đông.",
+      "link": "https://vnexpress.net/gia-dau-the-gioi-tang-4-thang-lien-tiep-5138802.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 16:33:05 +0700",
+      "timestamp": 1793352785.0
+    },
+    {
+      "title": "Con gái bà Cao Thị Ngọc Dung có thể phải bán hơn 2 triệu cổ phiếu PNJ",
+      "description": "Bà Trần Phương Ngọc Giao, con gái Chủ tịch Cao Thị Ngọc Dung, nhiều khả năng phải bán giải chấp 2,17 triệu cổ phiếu PNJ theo lệnh gọi ký quỹ.",
+      "link": "https://vnexpress.net/con-gai-ba-cao-thi-ngoc-dung-co-the-phai-ban-hon-2-trieu-co-phieu-pnj-5138856.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 16:26:09 +0700",
+      "timestamp": 1793352369.0
+    },
+    {
+      "title": "VN-Index giảm sâu phiên cuối tháng",
+      "description": "Gần 250 cổ phiếu đóng cửa dưới tham chiếu khiến VN-Index mất xấp xỉ 14 điểm, xuống 1.741 điểm trong phiên cuối tháng 10.",
+      "link": "https://vnexpress.net/vn-index-giam-sau-phien-cuoi-thang-5138832.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 16:01:56 +0700",
+      "timestamp": 1793350916.0
+    },
+    {
+      "title": "'Cá mập' đang ráo riết rút tiền số khỏi các sàn sau vụ Binance bị hack",
+      "description": "Sau vụ Binance bị hack, các nhà đầu tư tổ chức đang tăng tốc rút tài sản khỏi các sàn giao dịch tập trung để giảm rủi ro bảo mật.",
+      "link": "https://vnexpress.net/ca-map-dang-rao-riet-rut-tien-so-khoi-cac-san-sau-vu-binance-bi-hack-5138574.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 15:00:35 +0700",
+      "timestamp": 1793347235.0
+    },
+    {
+      "title": "TP HCM phát hành trái phiếu để huy động vốn cho các dự án trọng điểm",
+      "description": "TP HCM sẽ phát hành trái phiếu đô thị, công trình tại Trung tâm tài chính quốc tế, đồng thời huy động vốn trong nước qua nhiều loại trái phiếu, khoản vay phục vụ các dự án trọng điểm.",
+      "link": "https://vnexpress.net/tp-hcm-phat-hanh-trai-phieu-de-huy-dong-von-cho-cac-du-an-trong-diem-5138747.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 12:32:50 +0700",
+      "timestamp": 1793338370.0
+    },
+    {
+      "title": "Nhà đầu tư 'bắt đáy' cổ phiếu vừa giảm sàn 30 phiên liên tiếp",
+      "description": "Cổ phiếu Kosy sáng nay đột ngột đảo chiều từ giảm sàn thành tăng trần khi xuất hiện lệnh mua lớn sau chuỗi giảm sàn 30 phiên liên tiếp.",
+      "link": "https://vnexpress.net/nha-dau-tu-bat-day-co-phieu-vua-giam-san-30-phien-lien-tiep-5138736.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 11:53:04 +0700",
+      "timestamp": 1793335984.0
+    },
+    {
+      "title": "Ông Phạm Nhật Vượng góp thêm gần nửa tỷ USD vào VinFast Việt Nam",
+      "description": "Ông Phạm Nhật Vượng vừa rót thêm 436 triệu USD vào VinFast Việt Nam qua hình thức nhận cổ phiếu ưu đãi cổ tức, theo hồ sơ nộp lên SEC.",
+      "link": "https://vnexpress.net/ong-pham-nhat-vuong-gop-them-gan-nua-ty-usd-vao-vinfast-viet-nam-5138716.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 11:42:14 +0700",
+      "timestamp": 1793335334.0
+    },
+    {
+      "title": "Đề xuất cho bán dự án bỏ hoang chưa hoàn thành nghĩa vụ tài chính",
+      "description": "Đại biểu Hoàng Văn Nghĩa đề xuất các dự án bất động sản bỏ hoang, chưa nộp đủ tiền đất được bán cho nhà đầu tư khác để khơi thông nguồn lực.",
+      "link": "https://vnexpress.net/de-xuat-cho-ban-du-an-bo-hoang-chua-hoan-thanh-nghia-vu-tai-chinh-5138682.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 11:20:53 +0700",
+      "timestamp": 1793334053.0
+    },
+    {
+      "title": "CEO MAI chia sẻ chiến lược phát triển sân bay Gia Bình tại Routes World 2026",
+      "description": "Tổng giám đốc Công ty cổ phần Hạ tầng Hàng không Masterise (MAI) cho biết, sân bay Gia Bình định hướng trở thành trung tâm kinh tế hàng không thế hệ mới, nhằm nâng cao năng lực cạnh tranh của Việt Nam.",
+      "link": "https://vnexpress.net/ceo-mai-chia-se-chien-luoc-phat-trien-san-bay-gia-binh-tai-routes-world-2026-5138475.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 09:00:00 +0700",
+      "timestamp": 1793325600.0
+    },
+    {
+      "title": "Nợ vay của Hòa Phát lần đầu vượt 100.000 tỷ đồng",
+      "description": "Trong bối cảnh lãi suất vẫn ở mức cao, Hòa Phát tiếp tục tăng nợ vay lên mức 105.736 tỷ đồng, cao nhất từ trước đến nay.",
+      "link": "https://vnexpress.net/no-vay-cua-hoa-phat-lan-dau-vuot-100-000-ty-dong-5138556.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 06:06:53 +0700",
+      "timestamp": 1793315213.0
+    },
+    {
+      "title": "Hóa chất Đức Giang thu gần 2 tỷ đồng mỗi ngày nhờ gửi tiền ngân hàng",
+      "description": "Hóa chất Đức Giang thu về khoảng 528 tỷ đồng từ tiền gửi ngân hàng trong 9 tháng, tương ứng 1,9 tỷ đồng một ngày, tăng 18% so với năm ngoái.",
+      "link": "https://vnexpress.net/hoa-chat-duc-giang-thu-gan-2-ty-dong-moi-ngay-nho-gui-tien-ngan-hang-5138552.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 05:49:50 +0700",
+      "timestamp": 1793314190.0
+    },
+    {
+      "title": "Đăk Lăk phát triển 75.000 ha cà phê thích ứng biến đổi khí hậu",
+      "description": "Đăk Lăk lên kế hoạch phát triển vùng trồng cà phê bền vững khoảng 75.000 ha đến 2030, hướng đến giảm phát thải, thích ứng biến đổi khí hậu và đáp ứng yêu cầu xanh của thị trường xuất khẩu.",
+      "link": "https://vnexpress.net/dak-lak-phat-trien-75-000-ha-ca-phe-thich-ung-bien-doi-khi-hau-5138317.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 30 Oct 2026 00:00:31 +0700",
+      "timestamp": 1793293231.0
+    },
+    {
+      "title": "Kinh tế Mỹ tăng trưởng vượt dự báo",
+      "description": "Tiêu dùng sôi động và đầu tư cho AI giúp GDP Mỹ quý III tăng mạnh hơn kỳ vọng của các nhà kinh tế.",
+      "link": "https://vnexpress.net/kinh-te-my-tang-truong-vuot-du-bao-5138539.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Thu, 29 Oct 2026 22:34:18 +0700",
+      "timestamp": 1793288058.0
+    }
+  ]
 }
