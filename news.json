@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Giá vàng bạc 3/11 tiếp tục tăng mạnh: Doji, Phú Quý, SJC, BTMH đồng loạt \"lấy lại những gì đã mất\"",
+      "description": "Giá vàng trong nước hôm nay bứt phá mạnh trong bối cảnh vàng thế giới thoát đáy một năm.",
+      "link": "https://cafef.vn/gia-vang-bac-3-11-tiep-tuc-tang-manh-doji-phu-quy-sjc-btmh-dong-loat-lay-lai-nhung-gi-da-mat-188261103125537989.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Tue, 03 Nov 2026 12:55:00 +0700",
+      "timestamp": 1793685300.0
+    },
+    {
       "title": "Ngân hàng tăng cường kiểm soát nguy cơ lộ lọt dữ liệu",
       "description": "Ngân hàng Nhà nước Việt Nam (NHNN) đang xây dựng dự thảo Thông tư thay thế Thông tư 09/2020/TT-NHNN, bổ sung các yêu cầu về bảo mật dữ liệu khách hàng, phòng ngừa thất thoát, lộ lọt thông tin; quản lý dịch vụ công nghệ thuê ngoài và bảo đảm hoạt động liên tục của hệ thống ngân hàng.",
       "link": "https://cafef.vn/ngan-hang-tang-cuong-kiem-soat-nguy-co-lo-lot-du-lieu-188261103113048294.chn",
@@ -17,12 +25,28 @@
       "timestamp": 1793682471.0
     },
     {
+      "title": "Nhịp đập Thị trường 03/11: Lực mua trở lại, VN-Index hồi về tham chiếu",
+      "description": "Trong giai đoạn nửa cuối phiên sáng, VN-Index trở lại với tình trạng giằng co. Chỉ số tạm nghỉ trưa ở mức gần 1,710 điểm. Trong khi đó, HNX-Index dừng ở sát tham chiếu. Thanh khoản khá ảm đạm trong phiên sáng với giá trị giao dịch hơn 6 ngàn tỷ đồng.",
+      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-0311-luc-mua-tro-lai-vn-index-hoi-ve-tham-chieu-1636-1510812.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Tue, 03 Nov 2026 11:52:00 +0700",
+      "timestamp": 1793681520.0
+    },
+    {
       "title": "Đợt bán tháo vàng và bạc là cơ hội mua vào \"có một không hai\"?",
       "description": "Sau đợt lao dốc mạnh nhất trong tháng 10 kể từ năm 2008, một chuyên gia cho rằng đợt bán tháo hiện tại có thể mở ra cơ hội mua vào hiếm có trên thị trường kim loại quý.",
       "link": "https://cafef.vn/dot-ban-thao-vang-va-bac-la-co-hoi-mua-vao-co-mot-khong-hai-188261103105458275.chn",
       "source": "CafeF - Chứng khoán",
       "published": "Tue, 03 Nov 2026 11:45:00 +0700",
       "timestamp": 1793681100.0
+    },
+    {
+      "title": "Australia tăng lãi suất lên cao nhất 18 năm",
+      "description": "Để hạ nhiệt lạm phát hơn 4% hiện tại, Australia đã nâng lãi 5 lần năm nay, lên cao nhất kể từ 2008.",
+      "link": "https://vnexpress.net/australia-tang-lai-suat-len-cao-nhat-18-nam-5140080.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Tue, 03 Nov 2026 11:41:29 +0700",
+      "timestamp": 1793680889.0
     },
     {
       "title": "ĐHĐCĐ AgriS (SBT): Mở rộng hệ sinh thái nông nghiệp, mục tiêu tăng trưởng dài hạn",
@@ -95,6 +119,14 @@
       "source": "VnEconomy - Chứng khoán",
       "published": "Tue, 03 Nov 2026 03:39:23 +0000",
       "timestamp": 1793677163.0
+    },
+    {
+      "title": "Giá vàng miếng tăng hơn 1 triệu đồng",
+      "description": "Mỗi lượng vàng miếng trong nước lên 141,2 triệu đồng, tăng 1,2 triệu so với chiều qua.",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-3-11-5140057.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Tue, 03 Nov 2026 10:34:21 +0700",
+      "timestamp": 1793676861.0
     },
     {
       "title": "Lãi sau thuế quý 3 giảm 26%, Thủy điện Cần Đơn vẫn chi hơn 110 tỷ trả cổ tức 2025",
@@ -1524,7 +1556,7 @@
       "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 02-06/11/2026",
       "description": "Chiến lược đầu tư & Phân tích kỹ thuật chuyên sâu thị trường chứng khoán Việt Nam.",
       "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-02-06112026-585-1509760.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Sun, 01 Nov 2026 07:30:00 +0700",
       "timestamp": 1793493000.0
     },
@@ -2367,38 +2399,6 @@
       "source": "VnEconomy - Chứng khoán",
       "published": "Fri, 30 Oct 2026 08:24:34 +0000",
       "timestamp": 1793348674.0
-    },
-    {
-      "title": "Cổ phiếu lao dốc hàng loạt, ngân hàng tạo sức ép lớn",
-      "description": "Mặc dù VN-Index có một nhịp phục hồi chiều nay nhưng chỉ là nhờ vài trụ, còn đa số cổ phiếu lao dốc nặng thêm. Sàn HoSE chứng kiến số mã đỏ nhiều gấp 3,5 lần số xanh, trong đó tròn 100 mã giảm vượt 2%, chưa kể gần 70 mã khác giảm từ 1% tới 2%.",
-      "link": "https://vneconomy.vn/co-phieu-lao-doc-hang-loat-ngan-hang-tao-suc-ep-lon.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Fri, 30 Oct 2026 08:23:37 +0000",
-      "timestamp": 1793348617.0
-    },
-    {
-      "title": "'Cá mập' đang ráo riết rút tiền số khỏi các sàn sau vụ Binance bị hack",
-      "description": "Sau vụ Binance bị hack, các nhà đầu tư tổ chức đang tăng tốc rút tài sản khỏi các sàn giao dịch tập trung để giảm rủi ro bảo mật.",
-      "link": "https://vnexpress.net/ca-map-dang-rao-riet-rut-tien-so-khoi-cac-san-sau-vu-binance-bi-hack-5138574.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Fri, 30 Oct 2026 15:00:35 +0700",
-      "timestamp": 1793347235.0
-    },
-    {
-      "title": "Đồng yên Nhật đang hưởng lợi từ bầu cử Mỹ, bán tháo cổ phiếu AI và biến động ở Pháp",
-      "description": "Đồng yên Nhật Bản đã tương đối ổn định trong tháng 10 này, cho thấy vai trò “hầm trú ẩn” truyền thống của đồng tiền này đang được phát huy...",
-      "link": "https://vneconomy.vn/dong-yen-nhat-dang-huong-loi-tu-bau-cu-my-ban-thao-co-phieu-ai-va-bien-dong-o-phap.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Fri, 30 Oct 2026 07:03:48 +0000",
-      "timestamp": 1793343828.0
-    },
-    {
-      "title": "Phân tích kỹ thuật phiên chiều 30/10: Tâm lý bi quan bao trùm",
-      "description": "VN-Index giảm điểm đồng thời xuất hiện mẫu hình nến Big Black Candle cho thấy tâm lý bi quan của nhà đầu tư hiện hữu. HNX-Index giảm điểm đồng thời xuất hiện mẫu hình nến gần giống Inverted Hammer và tiếp tục nằm dưới đường Middle của Bollinger Bands cho thấy áp lực bán tiếp tục chiếm ưu thế.",
-      "link": "http://vietstock.vn/2026/10/phan-tich-ky-thuat-phien-chieu-3010-tam-ly-bi-quan-bao-trum-585-1509092.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Fri, 30 Oct 2026 13:03:50 +0700",
-      "timestamp": 1793340230.0
     }
   ]
 }
