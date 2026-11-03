@@ -1,12 +1,84 @@
 {
   "items": [
     {
+      "title": "Giá vàng nhẫn trơn, vàng miếng tối 3/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+      "description": "Giá vàng trong nước kết phiên ngày 3/11 tiếp tục tăng so với phiên trước, với vàng miếng SJC tăng 600.000 đồng/lượng, lên 140,6 triệu đồng/lượng ở chiều bán ra. Giá vàng nhẫn cũng tăng từ 500.000 đến 900.000 đồng/lượng tùy thương hiệu, trong khi giá vàng thế giới đầu phiên tối giảm 0,55%, xuống 3.925 USD/ounce.",
+      "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-toi-3-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261103075423102.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Tue, 03 Nov 2026 19:58:00 +0700",
+      "timestamp": 1793710680.0
+    },
+    {
+      "title": "Lộ diện doanh nghiệp gửi 'núi tiền' trong ngân hàng",
+      "description": "Nhiều doanh nghiệp lớn đang duy trì lượng tiền gửi hàng chục nghìn tỷ đồng tại ngân hàng. Không chỉ gia tăng quy mô tiền gửi, một số doanh nghiệp còn dịch chuyển sang các kỳ hạn dài hơn, hưởng lãi suất lên tới 9,15%/năm.",
+      "link": "https://cafef.vn/lo-dien-doanh-nghiep-gui-nui-tien-trong-ngan-hang-18826110317500729.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Tue, 03 Nov 2026 19:49:00 +0700",
+      "timestamp": 1793710140.0
+    },
+    {
+      "title": "Cổ đông một doanh nghiệp trên sàn sắp nhận 3.000 đồng/cp",
+      "description": "Với hơn 9,33 triệu cổ phiếu đang lưu hành, Pharmedic dự kiến chi khoảng 28 tỷ đồng để hoàn tất đợt trả cổ tức này.",
+      "link": "https://cafef.vn/co-dong-mot-doanh-nghiep-tren-san-sap-nhan-3000-dong-cp-188261103162355352.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Tue, 03 Nov 2026 19:32:00 +0700",
+      "timestamp": 1793709120.0
+    },
+    {
+      "title": "HGI chính thức chốt ngày giao dịch UPCoM, vốn hóa hơn 11.350 tỷ đồng",
+      "description": "Trong bối cảnh thị trường chứng khoán điều chỉnh và dòng tiền thận trọng, CTCP Đầu tư Quốc tế Hoàng Anh Gia Lai (HGI) đã phân phối thành công 100% số cổ phiếu chào bán lần đầu ra công chúng, hơn 187 triệu cổ phiếu sẽ bắt đầu giao dịch trên UPCoM vào ngày 09/11/2026.",
+      "link": "https://cafef.vn/hgi-chinh-thuc-chot-ngay-giao-dich-upcom-von-hoa-hon-11350-ty-dong-188261103191955296.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Tue, 03 Nov 2026 19:30:00 +0700",
+      "timestamp": 1793709000.0
+    },
+    {
+      "title": "Chứng khoán phái sinh ngày 04/11/2026: Chưa thể khởi sắc?",
+      "description": "Các hợp đồng tương lai VN30 và VN100 tăng giảm đan xen trong phiên giao dịch ngày 03/11/2026. VN30-Index diễn biến giằng co đồng thời xuất hiện mẫu hình nến gần giống Long-legged Doji và đang bám dải dưới của Bollinger Bands.",
+      "link": "http://vietstock.vn/2026/11/chung-khoan-phai-sinh-ngay-04112026-chua-the-khoi-sac-1636-1511033.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Tue, 03 Nov 2026 19:30:00 +0700",
+      "timestamp": 1793709000.0
+    },
+    {
+      "title": "Australia nâng lãi suất lên mức cao nhất 18 năm",
+      "description": "Ngày thứ Ba (3/11), Ngân hàng Dự trữ Australia (RBA) nâng lãi suất thêm 0,25 điểm phần trăm lên 4,85%, mức cao nhất kể từ tháng 11/2008, trong bối cảnh lạm phát tiếp tục ở mức cao. Tuy nhiên, kết quả bỏ phiếu sít sao cho thấy chu kỳ thắt chặt tiền tệ của RBA có thể sắp kết thúc...",
+      "link": "https://vneconomy.vn/australia-nang-lai-suat-len-muc-cao-nhat-18-nam.htm",
+      "source": "VnEconomy - Kinh tế thế giới",
+      "published": "Tue, 03 Nov 2026 12:29:58 +0000",
+      "timestamp": 1793708998.0
+    },
+    {
+      "title": "Chứng khoán UP thay CEO",
+      "description": "CTCP Chứng khoán UP (UPCoM: UPS) vừa thông báo thay đổi người đứng đầu Ban điều hành từ ông Trần Văn Chiến sang bà Phạm Thị Thùy.",
+      "link": "http://vietstock.vn/2026/11/chung-khoan-up-thay-ceo-214-1511289.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Tue, 03 Nov 2026 19:29:51 +0700",
+      "timestamp": 1793708991.0
+    },
+    {
+      "title": "Ngày 3/11, gửi 200 triệu đồng kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+      "description": "Với khoản tiền gửi 200 triệu đồng kỳ hạn 12 tháng, số tiền lãi khách hàng nhận được tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB dao động từ 9,6 triệu đến 13,6 triệu đồng nếu gửi theo biểu lãi suất tại quầy và online đã cung cấp. Trong khi đó, lãi suất được chào mời trực tiếp trong một số trường hợp có thể lên tới 8–9%/năm, nhưng đi kèm những điều kiện nhất định.",
+      "link": "https://cafef.vn/ngay-3-11-gui-200-trieu-dong-ky-han-12-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261103170626883.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Tue, 03 Nov 2026 19:26:00 +0700",
+      "timestamp": 1793708760.0
+    },
+    {
       "title": "Ngay tuần sau, một doanh nghiệp đầu ngành \"lăn chốt\" cổ tức tiền mặt 65%, đại gia Thái Lan vớ bẫm",
       "description": "Thời gian thanh toán dự kiến vào 8/12.",
       "link": "https://cafef.vn/ngay-tuan-sau-mot-doanh-nghiep-dau-nganh-lan-chot-co-tuc-tien-mat-65-dai-gia-thai-lan-vo-bam-188261103152939771.chn",
       "source": "CafeF - Chứng khoán",
       "published": "Tue, 03 Nov 2026 19:01:00 +0700",
       "timestamp": 1793707260.0
+    },
+    {
+      "title": "NHNN chấp thuận cho Vietcombank tăng vốn điều lệ thêm 5,431 tỷ đồng",
+      "description": "Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank, HOSE: VCB) cho biết đã nhận được Công văn của Ngân hàng Nhà nước (NHNN) về việc chấp thuận tăng vốn điều lệ theo phương án phát hành cổ phiếu riêng lẻ đã được ĐHĐCĐ thông qua ngày 26/04/2025 và 24/04/2026.",
+      "link": "http://vietstock.vn/2026/11/nhnn-chap-thuan-cho-vietcombank-tang-von-dieu-le-them-5431-ty-dong-757-1511237.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Tue, 03 Nov 2026 18:53:13 +0700",
+      "timestamp": 1793706793.0
     },
     {
       "title": "Chứng khoán Thành Công bổ nhiệm Phó Tổng Giám đốc và Phó Giám đốc chi nhánh Hà Nội",
@@ -55,14 +127,6 @@
       "source": "Vietstock - Doanh nghiệp",
       "published": "Tue, 03 Nov 2026 17:04:26 +0700",
       "timestamp": 1793700266.0
-    },
-    {
-      "title": "Ngày 3/11, gửi 200 triệu đồng kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
-      "description": "Với khoản tiền gửi 200 triệu đồng kỳ hạn 12 tháng, số tiền lãi khách hàng nhận được tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB dao động từ 9,6 triệu đến 13,6 triệu đồng nếu gửi theo biểu lãi suất tại quầy và online đã cung cấp. Trong khi đó, lãi suất được chào mời trực tiếp trong một số trường hợp có thể lên tới 8–9%/năm, nhưng đi kèm những điều kiện nhất định.",
-      "link": "https://cafef.vn/ngay-3-11-gui-200-trieu-dong-ky-han-12-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261103170626883.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Tue, 03 Nov 2026 17:04:00 +0700",
-      "timestamp": 1793700240.0
     },
     {
       "title": "Doanh thu và lãi gộp đi lên, May Sông Hồng vẫn hụt lãi ròng sau 9 tháng",
@@ -2335,70 +2399,6 @@
       "source": "CafeF - Chứng khoán",
       "published": "Sat, 31 Oct 2026 07:50:00 +0700",
       "timestamp": 1793407800.0
-    },
-    {
-      "title": "Giá vàng thế giới lao dốc, xuống thấp nhất một năm",
-      "description": "Vàng và loạt kim loại khác bị bán tháo trong phiên cuối tháng, hiện về mức thấp nhất kể từ cuối năm 2025.",
-      "link": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-xuong-thap-nhat-mot-nam-5139023.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Sat, 31 Oct 2026 07:17:12 +0700",
-      "timestamp": 1793405832.0
-    },
-    {
-      "title": "VietinBank dẫn đầu lợi nhuận ngành ngân hàng trong quý III",
-      "description": "Vượt qua Vietcombank, VietinBank trở thành đơn vị lãi lớn nhất ngành ngân hàng trong quý III, với mức lợi nhuận trước thuế 13.688 tỷ đồng.",
-      "link": "https://vnexpress.net/vietinbank-dan-dau-loi-nhuan-nganh-ngan-hang-trong-quy-iii-5139002.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Sat, 31 Oct 2026 07:12:17 +0700",
-      "timestamp": 1793405537.0
-    },
-    {
-      "title": "Doanh nghiệp, hộ kinh doanh được giảm 30% thuế từng kỳ kê khai",
-      "description": "Doanh nghiệp, hộ kinh doanh có doanh thu không quá 10 tỷ đồng mỗi năm được giảm 30% thuế thu nhập, ngay khi kê khai hoặc tạm nộp từng kỳ.",
-      "link": "https://vnexpress.net/doanh-nghiep-ho-kinh-doanh-duoc-giam-30-thue-tung-ky-ke-khai-5138953.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Sat, 31 Oct 2026 00:15:00 +0700",
-      "timestamp": 1793380500.0
-    },
-    {
-      "title": "Khối ngoại bán ròng gần 3.000 tỷ trong tuần cuối tháng 10, FPT bị \"xả\" mạnh nhất",
-      "description": "Khối ngoại bán ròng mạnh xuyên suốt tuần qua.",
-      "link": "https://cafef.vn/khoi-ngoai-ban-rong-gan-3000-ty-trong-tuan-cuoi-thang-10-fpt-bi-xa-manh-nhat-188261031001137094.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sat, 31 Oct 2026 00:11:00 +0700",
-      "timestamp": 1793380260.0
-    },
-    {
-      "title": "\"Đại gia\" khai thác vàng bạc lớn nhất Việt Nam báo lãi quý 3 gấp 4 lần cùng kỳ",
-      "description": "Lãi sau thuế quý 3 của KSV đóng góp tới 74% lợi nhuận lũy kế 9 tháng.",
-      "link": "https://cafef.vn/dai-gia-khai-thac-vang-bac-lon-nhat-viet-nam-bao-lai-quy-3-gap-4-lan-cung-ky-188261030235713868.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sat, 31 Oct 2026 00:06:00 +0700",
-      "timestamp": 1793379960.0
-    },
-    {
-      "title": "Vietcombank lãi hơn 40.000 tỷ đồng sau 9 tháng",
-      "description": "Vietcombank báo lãi trước thuế 9 tháng đạt khoảng 40.400 tỷ đồng, tiếp tục dẫn đầu ngành ngân hàng.",
-      "link": "https://vnexpress.net/vietcombank-lai-hon-40-000-ty-dong-sau-9-thang-5138942.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Sat, 31 Oct 2026 00:03:00 +0700",
-      "timestamp": 1793379780.0
-    },
-    {
-      "title": "Tỷ phú Phạm Nhật Vượng huy động 10.000 nhân sự, đưa máy đào hầm khổng lồ vào siêu dự án đường sắt 350 km/h",
-      "description": "Doanh nghiệp do tỷ phú Phạm Nhật Vượng sáng lập đang tăng tốc triển khai tuyến đường sắt tốc độ cao Bến Thành – Cần Giờ, với kế hoạch huy động tới 10.000 công nhân, kỹ sư, sản xuất 1.300 dầm bê tông và sử dụng máy đào hầm đường kính 13 m.",
-      "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-huy-dong-10000-nhan-su-dua-may-dao-ham-khong-lo-vao-sieu-du-an-duong-sat-350-km-h-188261030172140235.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sat, 31 Oct 2026 00:03:00 +0700",
-      "timestamp": 1793379780.0
-    },
-    {
-      "title": "Hé lộ mức lương, thưởng ông Trịnh Văn Tuệ vừa bị khởi tố",
-      "description": "Tổng Giám đốc Vimico Trịnh Văn Tuệ bị khởi tố về tội “Nhận hối lộ”. Trước đó một ngày, HĐQT doanh nghiệp đã miễn nhiệm chức vụ Tổng giám đốc đối với ông Tuệ và giao quyền điều hành cho một Phó Tổng giám đốc.",
-      "link": "https://cafef.vn/he-lo-muc-luong-thuong-ong-trinh-van-tue-vua-bi-khoi-to-188261030225511617.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sat, 31 Oct 2026 00:02:00 +0700",
-      "timestamp": 1793379720.0
     }
   ]
 }
