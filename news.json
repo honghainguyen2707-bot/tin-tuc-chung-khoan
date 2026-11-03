@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Giá vàng thế giới tăng mạnh, thoát đáy một năm",
+      "description": "Mỗi ounce vàng có thời điểm tăng gần 100 USD trong phiên đầu tuần, lên sát 4.000 USD, nhờ giá dầu giảm gần 8%.",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-manh-thoat-day-mot-nam-5139951.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Tue, 03 Nov 2026 07:30:34 +0700",
+      "timestamp": 1793665834.0
+    },
+    {
+      "title": "Vì sao nhiều cổ phiếu ngân hàng rẻ ngang bó rau dù lãi nghìn tỷ mỗi quý?",
+      "description": "Hiện có tới 14/28 mã cổ phiếu ngân hàng giao dịch dưới 15.000 đồng/cổ phiếu, trong đó 3 mã thấp hơn mệnh giá.",
+      "link": "https://cafef.vn/vi-sao-nhieu-co-phieu-ngan-hang-re-ngang-bo-rau-du-lai-nghin-ty-moi-quy-188261103013715388.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Tue, 03 Nov 2026 07:22:00 +0700",
+      "timestamp": 1793665320.0
+    },
+    {
       "title": "Chân dung Quyền Tổng Giám đốc Sacombank Nguyễn Thị Kiều Anh: Từ chuyên viên tín dụng VPBank đến ghế điều hành ngân hàng tư nhân hàng đầu Việt Nam",
       "description": "Bà Nguyễn Thị Kiều Anh được bổ nhiệm Quyền Tổng Giám đốc Sacombank từ ngày 2/11, sau hơn 20 năm hoạt động trong lĩnh vực ngân hàng, trong đó có 18 năm gắn bó với VPBank và từng đảm nhiệm nhiều vị trí lãnh đạo tại LPBank.",
       "link": "https://cafef.vn/chan-dung-quyen-tong-giam-doc-sacombank-nguyen-thi-kieu-anh-tu-chuyen-vien-tin-dung-vpbank-den-ghe-dieu-hanh-ngan-hang-tu-nhan-hang-dau-viet-nam-188261102223859348.chn",
@@ -2383,22 +2399,6 @@
       "source": "CafeF - Ngân hàng",
       "published": "Fri, 30 Oct 2026 06:44:00 +0700",
       "timestamp": 1793317440.0
-    },
-    {
-      "title": "Thẻ tín dụng bị trừ gần 100 triệu sau khi đặt hàng qua fanpage giả mạo",
-      "description": "Đặt mua ba thùng giấy giảm giá hơn 200.000 đồng qua fanpage giả mạo siêu thị, thẻ tín dụng của chị Hạnh bị trừ hơn 92 triệu đồng.",
-      "link": "https://vnexpress.net/the-tin-dung-bi-tru-gan-100-trieu-sau-khi-dat-hang-qua-fanpage-gia-mao-5137415.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Fri, 30 Oct 2026 06:20:29 +0700",
-      "timestamp": 1793316029.0
-    },
-    {
-      "title": "Nợ vay của Hòa Phát lần đầu vượt 100.000 tỷ đồng",
-      "description": "Trong bối cảnh lãi suất vẫn ở mức cao, Hòa Phát tiếp tục tăng nợ vay lên mức 105.736 tỷ đồng, cao nhất từ trước đến nay.",
-      "link": "https://vnexpress.net/no-vay-cua-hoa-phat-lan-dau-vuot-100-000-ty-dong-5138556.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Fri, 30 Oct 2026 06:06:53 +0700",
-      "timestamp": 1793315213.0
     }
   ]
 }
