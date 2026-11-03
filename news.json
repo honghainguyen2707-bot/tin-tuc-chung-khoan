@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "S&P 500 và Nasdaq mất điểm vì cổ phiếu công nghệ vẫn bị bán, giá dầu “bốc hơi” gần 8%",
+      "description": "Giá dầu thô lao dốc, với giá dầu WTI trượt sâu dưới ngưỡng 100 USD/thùng, khi xuất hiện những tín hiệu tích cực về đàm phán hòa bình ở Trung Đông...",
+      "link": "https://vneconomy.vn/sp-500-va-nasdaq-mat-diem-vi-co-phieu-cong-nghe-van-bi-ban-gia-dau-boc-hoi-gan-8.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Tue, 03 Nov 2026 01:17:01 +0000",
+      "timestamp": 1793668621.0
+    },
+    {
+      "title": "Giá vàng 9999 SJC hôm nay 3/11/2026 bao nhiêu 1 chỉ?",
+      "description": "Giá vàng hôm nay, cập nhật chi tiết giá vàng 9999 hôm nay 3/11/2026 tại SJC và nhiều thương hiệu lớn trên thị trường.",
+      "link": "https://cafef.vn/gia-vang-9999-sjc-hom-nay-3-11-2026-bao-nhieu-1-chi-188261103074619968.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Tue, 03 Nov 2026 08:15:00 +0700",
+      "timestamp": 1793668500.0
+    },
+    {
+      "title": "Một người thừa kế không đồng ý ký tên, có rút được tiền tiết kiệm của người đã mất?",
+      "description": "Bạn đọc Ngọc Diệp (Thanh Hóa) hỏi: Bố tôi qua đời và để lại một khoản tiền tiết kiệm tại ngân hàng. Gia đình có nhiều người thuộc diện thừa kế nhưng một người không đồng ý ký vào văn bản thỏa thuận phân chia di sản. Xin hỏi, trong trường hợp này, những người còn lại có thể làm thủ tục rút tiền tiết kiệm của bố tôi hay không?",
+      "link": "https://cafef.vn/mot-nguoi-thua-ke-khong-dong-y-ky-ten-co-rut-duoc-tien-tiet-kiem-cua-nguoi-da-mat-188261103080454601.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Tue, 03 Nov 2026 08:04:00 +0700",
+      "timestamp": 1793667840.0
+    },
+    {
+      "title": "Top cổ phiếu đáng chú ý đầu phiên 03/11",
+      "description": "Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.",
+      "link": "http://vietstock.vn/2026/11/top-co-phieu-dang-chu-y-dau-phien-0311-830-1510438.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Tue, 03 Nov 2026 08:00:00 +0700",
+      "timestamp": 1793667600.0
+    },
+    {
+      "title": "Giá vàng nhẫn trơn, vàng miếng sáng 3/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+      "description": "Giá vàng trong nước sáng 3/11 đi ngang, với vàng miếng SJC duy trì mức bán ra 140 triệu đồng/lượng, trong khi giá vàng nhẫn tại các thương hiệu dao động từ 136,8 đến 139 triệu đồng/lượng. Trên thị trường quốc tế, giá vàng giao ngay phục hồi lên 3.952 USD/ounce sau khi tăng 1,84% trong phiên trước, nhờ giá dầu giảm và đồng USD suy yếu, trong bối cảnh giới đầu tư theo dõi cuộc bầu cử giữa nhiệm kỳ tại Mỹ.",
+      "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-3-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261103075423102.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Tue, 03 Nov 2026 07:53:00 +0700",
+      "timestamp": 1793667180.0
+    },
+    {
+      "title": "Giá vàng hồi mạnh khi giá dầu lao dốc, SPDR Gold Trust bán ròng",
+      "description": "Giá vàng thế giới tăng mạnh trong phiên giao dịch ngày thứ Hai (2/11) nhờ lực hỗ trợ từ cú giảm sâu của giá dầu và trong bối cảnh nhà đầu tư chờ cuộc bầu cử giữa nhiệm kỳ ở Mỹ...",
+      "link": "https://vneconomy.vn/gia-vang-hoi-manh-khi-gia-dau-lao-doc-spdr-gold-trust-ban-rong.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Tue, 03 Nov 2026 00:46:07 +0000",
+      "timestamp": 1793666767.0
+    },
+    {
       "title": "Giá vàng thế giới tăng mạnh, thoát đáy một năm",
       "description": "Mỗi ounce vàng có thời điểm tăng gần 100 USD trong phiên đầu tuần, lên sát 4.000 USD, nhờ giá dầu giảm gần 8%.",
       "link": "https://vnexpress.net/gia-vang-the-gioi-tang-manh-thoat-day-mot-nam-5139951.html",
@@ -2351,54 +2399,6 @@
       "source": "CafeF - Ngân hàng",
       "published": "Fri, 30 Oct 2026 08:05:00 +0700",
       "timestamp": 1793322300.0
-    },
-    {
-      "title": "VietCredit lãi trước thuế gần 1.559 tỷ đồng sau 9 tháng, dư nợ vượt 20.900 tỷ đồng",
-      "description": "Lũy kế 9 tháng đầu năm 2026, VietCredit ghi nhận lợi nhuận trước thuế 1.558,6 tỷ đồng, gần gấp đôi cùng kỳ. Tổng tài sản và dư nợ cho vay đều tăng hơn gấp đôi sau một năm. Song song, chi phí dịch vụ và dự phòng cũng tăng theo quy mô hoạt động.",
-      "link": "https://cafef.vn/vietcredit-lai-truoc-thue-gan-1559-ty-dong-sau-9-thang-du-no-vuot-20900-ty-dong-188261029202125114.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Fri, 30 Oct 2026 08:00:00 +0700",
-      "timestamp": 1793322000.0
-    },
-    {
-      "title": "Giá vàng trượt nhanh về gần 4.000 USD/oz sau báo cáo lạm phát PCE Mỹ",
-      "description": "Đồng USD, giá dầu và lợi suất trái phiếu kho bạc Mỹ cùng giảm, giúp hạn chế mức giảm của giá vàng, nhưng quỹ vàng SPDR Gold Trust vẫn bán ròng...",
-      "link": "https://vneconomy.vn/gia-vang-truot-nhanh-ve-gan-4000-usdoz-sau-bao-cao-lam-phat-pce-my.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Fri, 30 Oct 2026 00:39:43 +0000",
-      "timestamp": 1793320783.0
-    },
-    {
-      "title": "Giá trị Alphabet bốc hơi gần 500 tỷ USD một ngày",
-      "description": "Công ty mẹ Google có phiên giao dịch thấp nhất kể từ khi niêm yết, sau khi công bố báo cáo tài chính quý III.",
-      "link": "https://vnexpress.net/gia-tri-alphabet-boc-hoi-gan-500-ty-usd-mot-ngay-5138575.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Fri, 30 Oct 2026 07:39:25 +0700",
-      "timestamp": 1793320765.0
-    },
-    {
-      "title": "Bà Christine Lagarde từ chức Chủ tịch ECB",
-      "description": "Bà Christine Lagarde sẽ rời cương vị Chủ tịch Ngân hàng Trung ương châu Âu (ECB) vào tháng 2/2027, sớm hơn 9 tháng so với kế hoạch...",
-      "link": "https://vneconomy.vn/ba-christine-lagarde-tu-chuc-chu-tich-ecb.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Fri, 30 Oct 2026 00:22:22 +0000",
-      "timestamp": 1793319742.0
-    },
-    {
-      "title": "Ngân hàng phát cảnh báo khẩn về mã độc tấn công điện thoại iPhone",
-      "description": "Các ngân hàng đưa ra cảnh báo khẩn cấp tới người dùng iOS về sự xuất hiện của các chuỗi mã độc nguy hiểm như Coruna, DarkSword và biến thể P7 DarkSword. Các mã độc này có khả năng khai thác lỗ hổng bảo mật để đánh cắp mật khẩu, mã OTP và chiếm quyền kiểm soát tài khoản ngân hàng.",
-      "link": "https://cafef.vn/ngan-hang-phat-canh-bao-khan-ve-ma-doc-tan-cong-dien-thoai-iphone-188261030070706223.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Fri, 30 Oct 2026 07:06:00 +0700",
-      "timestamp": 1793318760.0
-    },
-    {
-      "title": "Ngân hàng Nhà nước xem xét cơ chế giao dịch vốn cho Trung tâm Tài chính quốc tế",
-      "description": "Trong thời gian chưa có ngân hàng thành viên ở Trung tâm Tài chính quốc tế Việt Nam tại TP. Hồ Chí Minh (VIFC-HCMC), Ngân hàng Nhà nước dự kiến xem xét cho phép thực hiện một số giao dịch vốn thông qua tài khoản tại các ngân hàng đang hoạt động trong nước. Giải pháp nhằm tháo gỡ vướng mắc cho nhà đầu tư, và bảo đảm kiểm soát dòng tiền và tuân thủ quy định pháp luật.",
-      "link": "https://cafef.vn/ngan-hang-nha-nuoc-xem-xet-co-che-giao-dich-von-cho-trung-tam-tai-chinh-quoc-te-188261030064427379.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Fri, 30 Oct 2026 06:44:00 +0700",
-      "timestamp": 1793317440.0
     }
   ]
 }
