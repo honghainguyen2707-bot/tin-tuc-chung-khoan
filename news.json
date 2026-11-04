@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "title": "Một cổ phiếu ngân hàng được tự doanh CTCK mua ròng trăm tỷ phiên tăng điểm",
+      "description": "Tự doanh CTCK mua ròng 303 tỷ đồng trên HOSE.",
+      "link": "https://cafef.vn/mot-co-phieu-ngan-hang-duoc-tu-doanh-ctck-mua-rong-tram-ty-phien-tang-diem-188261104171741595.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Wed, 04 Nov 2026 17:17:00 +0700",
+      "timestamp": 1793787420.0
+    },
+    {
+      "title": "Taseco Land giải thể một công ty con chỉ sau 3 tháng thành lập",
+      "description": "Taseco Land phê duyệt chủ trương giải thể CTCP Đầu tư Hạ tầng Khu công nghiệp Kim Bảng với lý do không còn nhu cầu tiếp tục kinh doanh. Đáng chú ý, doanh nghiệp này mới thành lập hồi tháng 8/2026.",
+      "link": "https://cafef.vn/taseco-land-giai-the-mot-cong-ty-con-chi-sau-3-thang-thanh-lap-18826110416021595.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Wed, 04 Nov 2026 17:10:00 +0700",
+      "timestamp": 1793787000.0
+    },
+    {
+      "title": "Lỗ sau thuế quý 3, MVB vẫn chi hơn 110 tỷ trả cổ tức 2025",
+      "description": "Tổng Công ty Công nghiệp Việt Bắc TKV - CTCP (HNX: MVB) thông báo chốt quyền trả cổ tức năm 2025. Ngày giao dịch không hưởng quyền là 09/11.",
+      "link": "http://vietstock.vn/2026/11/lo-sau-thue-quy-3-mvb-van-chi-hon-110-ty-tra-co-tuc-2025-738-1511466.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Wed, 04 Nov 2026 17:00:00 +0700",
+      "timestamp": 1793786400.0
+    },
+    {
+      "title": "Tất cả 46/46 ngân hàng đã giảm lãi suất huy động, làn sóng giảm lãi suất cho vay lan rộng",
+      "description": "Lãnh đạo Vietcombank, Agribank, MB,... cũng cho biết đã giảm lãi suất cho cả khoản vay cũ lẫn khoản vay mới, có lĩnh vực được giảm tới 3%/năm. Ở phía doanh nghiệp, chi phí lãi vay đã giảm hàng trăm triệu đồng mỗi tháng, đúng lúc nhu cầu vốn cuối năm tăng cao.",
+      "link": "https://cafef.vn/tat-ca-46-46-ngan-hang-da-giam-lai-suat-huy-dong-lan-song-giam-lai-suat-cho-vay-lan-rong-188261104164801648.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Wed, 04 Nov 2026 16:47:00 +0700",
+      "timestamp": 1793785620.0
+    },
+    {
+      "title": "Blog chứng khoán: Lịch sử có lặp lại?",
+      "description": "Phiên tăng mạnh hôm nay khá giống phiên ngày 21/10 thậm chí “chất lượng” có phần cao hơn. Tâm lý mua đuổi mạnh mẽ ở các cổ phiếu vừa và nhỏ cho thấy lượng tiền lớn đã nhập cuộc một cách chủ động.",
+      "link": "https://vneconomy.vn/blog-chung-khoan-lich-su-co-lap-lai.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Wed, 04 Nov 2026 09:37:14 +0000",
+      "timestamp": 1793785034.0
+    },
+    {
+      "title": "Nhịp đập Thị trường 04/11: Sắc xanh lan tỏa, VN-Index phục hồi trở lại từ vùng đáy 1,700 điểm",
+      "description": "Kết thúc phiên giao dịch, VN-Index tăng 33.4 điểm (+1.97%), lên mức 1,733.02 điểm; HNX-Index tăng 6.46 điểm (+2.57%), lên mức 257.88 điểm. Độ rộng toàn thị trường với sắc xanh áp đảo khi bên mua có 548 mã tăng và bên bán có 186 mã giảm. Tương tự, sắc xanh áp đảo trong rổ VN30 với 29 mã tăng và 1 mã tham chiếu.",
+      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-0411-sac-xanh-lan-toa-vn-index-phuc-hoi-tro-lai-tu-vung-day-1700-diem-1636-1511394.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Wed, 04 Nov 2026 16:37:00 +0700",
+      "timestamp": 1793785020.0
+    },
+    {
+      "title": "Hơn 20 ngân hàng triển khai gói tín dụng ưu đãi, giảm lãi suất 1,5 - 2%",
+      "description": "Phó Thống đốc Ngân hàng Nhà nước Phạm Thanh Hà cho biết, đã có hơn 20 ngân hàng đã công bố các chương trình tín dụng ưu đãi với mức giảm lãi suất từ 1,5 - 2%. Ngân hàng Nhà nước khẳng định sẽ tiếp tục triển khai các giải pháp hỗ trợ thanh khoản, thúc đẩy xu hướng giảm lãi suất.",
+      "link": "https://cafef.vn/hon-20-ngan-hang-trien-khai-goi-tin-dung-uu-dai-giam-lai-suat-15-2-188261104145029726.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Wed, 04 Nov 2026 16:36:00 +0700",
+      "timestamp": 1793784960.0
+    },
+    {
+      "title": "Angimex thoát lỗ nhờ thanh lý đầu tư, Chủ tịch liên tục đăng ký bán sạch cổ phiếu",
+      "description": "Quý 3/2026, CTCP Xuất Nhập khẩu An Giang (Angimex, HOSE: AGM) thoát lỗ nhờ nguồn thu đột biến từ hoạt động thanh lý đầu tư, bất chấp mảng kinh doanh cốt lõi tiếp tục dưới giá vốn. Trước tình hình tài chính nhiều thách thức, Chủ tịch HĐQT Lương Đức Tâm tiếp tục đăng ký thoái toàn bộ vốn sau nhiều lần giao dịch bất thành.",
+      "link": "http://vietstock.vn/2026/11/angimex-thoat-lo-nho-thanh-ly-dau-tu-chu-tich-lien-tuc-dang-ky-ban-sach-co-phieu-737-1511494.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Wed, 04 Nov 2026 16:22:59 +0700",
+      "timestamp": 1793784179.0
+    },
+    {
+      "title": "Ông Nguyễn Đỗ Lăng muốn bán 20 triệu cp APS và API giữa lúc kết quả kinh doanh lao dốc",
+      "description": "Ông Nguyễn Đỗ Lăng vừa đăng ký bán tổng cộng 20 triệu cp của 2 doanh nghiệp thuộc hệ sinh thái Apec do ông sáng lập, trong giai đoạn từ 05/11-04/12, theo phương thức khớp lệnh hoặc thỏa thuận. Nếu hoàn tất, lượng cổ phiếu ông nắm giữ tại 2 tổ chức này đồng loạt giảm mạnh.",
+      "link": "http://vietstock.vn/2026/11/ong-nguyen-do-lang-muon-ban-20-trieu-cp-aps-va-api-giua-luc-ket-qua-kinh-doanh-lao-doc-739-1511488.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Wed, 04 Nov 2026 16:00:00 +0700",
+      "timestamp": 1793782800.0
+    },
+    {
       "title": "Chứng khoán bất ngờ tăng dựng đứng 33 điểm, chuyện gì đang xảy ra?",
       "description": "Việc thị trường nhanh chóng lấy lại ngưỡng này cho thấy tâm lý nhà đầu tư đã có sự chuyển biến rõ rệt, từ thận trọng quan sát sang chủ động giải ngân tại nhiều nhóm cổ phiếu.",
       "link": "https://cafef.vn/chung-khoan-bat-ngo-tang-dung-dung-33-diem-chuyen-gi-dang-xay-ra-188261104155350133.chn",
@@ -1492,7 +1564,7 @@
       "title": "Nhịp đập Thị trường 02/11: Khối ngoại bán ròng mạnh nhóm ngân hàng, VN-Index tiếp tục bốc hơi hơn 30 điểm",
       "description": "Kết thúc phiên giao dịch, VN-Index giảm 30.9 điểm (-1.77%), xuống mức 1,710.72 điểm; HNX-Index giảm 2.19 điểm (-0.87%), xuống mức 250.55 điểm. Độ rộng toàn thị trường với sắc đỏ áp đảo hơn khi bên bán có 564 mã giảm và bên mua có 141 mã tăng. Tương tự, sắc đỏ áp đảo trong rổ VN30 với 27 mã giảm, 2 mã tăng và 1 mã tham chiếu.",
       "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-0211-khoi-ngoai-ban-rong-manh-nhom-ngan-hang-vn-index-tiep-tuc-boc-hoi-hon-30-diem-1636-1509945.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Mon, 02 Nov 2026 16:32:00 +0700",
       "timestamp": 1793611920.0
     },
@@ -1740,7 +1812,7 @@
       "title": "Phân tích kỹ thuật phiên chiều 02/11: Triển vọng tiếp tục xấu đi",
       "description": "VN-Index giảm điểm phiên thứ 3 liên tiếp đồng thời xuất hiện mẫu hình Inverted Hammer cho thấy áp lực bán vẫn hiện hữu. Tương tự, HNX-Index giảm điểm phiên thứ 3 liên tiếp và bám sát Lower Band của Bollinger Bands cho thấy bên bán tiếp tục chiếm ưu thế.",
       "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-0211-trien-vong-tiep-tuc-xau-di-585-1510129.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Mon, 02 Nov 2026 13:06:32 +0700",
       "timestamp": 1793599592.0
     },
@@ -2327,78 +2399,6 @@
       "source": "CafeF - Chứng khoán",
       "published": "Sun, 01 Nov 2026 11:31:00 +0700",
       "timestamp": 1793507460.0
-    },
-    {
-      "title": "VNG lần đầu lãi hơn 1.000 tỷ đồng",
-      "description": "VNG lãi đậm trong quý III, nâng lũy kế 9 tháng đầu năm lên hơn 1.000 tỷ đồng, cao nhất từ khi giao dịch trên sàn chứng khoán.",
-      "link": "https://vnexpress.net/vng-lan-dau-lai-hon-1-000-ty-dong-5139288.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Sun, 01 Nov 2026 11:20:00 +0700",
-      "timestamp": 1793506800.0
-    },
-    {
-      "title": "Chứng khoán tuần qua: VN-Index 'trả điểm', dòng tiền lùi về phòng thủ",
-      "description": "Khép lại tuần giao dịch cuối tháng 10, VN-Index quay đầu giảm hơn 32 điểm với sắc đỏ bao trùm. Thanh khoản sụt giảm cùng đà bán ròng của khối ngoại phản ánh rõ tâm lý dòng tiền đang vô cùng thận trọng.",
-      "link": "https://cafef.vn/chung-khoan-tuan-qua-vn-index-tra-diem-dong-tien-lui-ve-phong-thu-188261101110143488.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sun, 01 Nov 2026 11:01:00 +0700",
-      "timestamp": 1793505660.0
-    },
-    {
-      "title": "Nhu cầu vốn trong nước ngày càng lớn, ngân hàng Việt tìm trợ lực từ thị trường quốc tế",
-      "description": "Nhu cầu vốn cho tăng trưởng kinh tế, đặc biệt là các dự án hạ tầng quy mô lớn, đang gia tăng sức ép lên hệ thống ngân hàng khi tín dụng vẫn tăng nhanh hơn huy động. Trong bối cảnh đó, các ngân hàng Việt Nam đẩy mạnh vay hợp vốn, vay song phương và lên kế hoạch phát hành trái phiếu quốc tế nhằm bổ sung nguồn vốn trung, dài hạn, đa dạng hóa nguồn lực và duy trì khả năng cung ứng tín dụng cho nền kinh tế.",
-      "link": "https://cafef.vn/nhu-cau-von-trong-nuoc-ngay-cang-lon-ngan-hang-viet-tim-tro-luc-tu-thi-truong-quoc-te-188261101105855755.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Sun, 01 Nov 2026 10:58:00 +0700",
-      "timestamp": 1793505480.0
-    },
-    {
-      "title": "Doanh nghiệp liên quan Chủ tịch Kosy Group bị bán giải chấp hơn 2 triệu cổ phiếu KOS",
-      "description": "Đầu tư Địa ốc Kosy- doanh nghiệp có liên quan đến Chủ tịch Nguyễn Việt Cường, vừa bị công ty chứng khoán bán giải chấp gần 2,3 triệu cổ phiếu KOS.",
-      "link": "https://cafef.vn/doanh-nghiep-lien-quan-chu-tich-kosy-group-bi-ban-giai-chap-hon-2-trieu-co-phieu-kos-188261101105825649.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sun, 01 Nov 2026 10:58:00 +0700",
-      "timestamp": 1793505480.0
-    },
-    {
-      "title": "Lãi suất đầu tháng 11/2026: Tiền gửi tiết kiệm đồng loạt hạ nhiệt, chứng chỉ tiền gửi điều chỉnh nhẹ",
-      "description": "Biểu lãi suất tại các ngân hàng trong ngày đầu tháng 11/2026 cho thấy, thị trường tiền gửi tiết kiệm ghi nhận đợt điều chỉnh lãi suất trên diện rộng. Động thái này diễn ra sau chỉ đạo điều hành của Ngân hàng Nhà nước (NHNN) nhằm ổn định mặt bằng lãi suất, tạo điều kiện giảm chi phí vốn cho nền kinh tế. Cùng với tiền gửi tiết kiệm, một số ngân hàng cũng bắt đầu điều chỉnh giảm lãi suất chứng chỉ tiền gửi.",
-      "link": "https://cafef.vn/lai-suat-dau-thang-11-2026-tien-gui-tiet-kiem-dong-loat-ha-nhiet-chung-chi-tien-gui-dieu-chinh-nhe-188261030160856073.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Sun, 01 Nov 2026 10:48:00 +0700",
-      "timestamp": 1793504880.0
-    },
-    {
-      "title": "Tồn kho nhà phân phối xe MG tăng mạnh giữa lúc doanh thu lao dốc",
-      "description": "Cuối quý 3, hàng tồn kho PTM lên 437 tỷ đồng, gần gấp ba cuối quý trước; doanh thu trong quý lại giảm gần 40% so với cùng kỳ. Công nợ với SAIC Motor cũng tăng vọt, còn nhân sự thu hẹp đáng kể.",
-      "link": "http://vietstock.vn/2026/11/ton-kho-nha-phan-phoi-xe-mg-tang-manh-giua-luc-doanh-thu-lao-doc-737-1509225.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Sun, 01 Nov 2026 10:02:00 +0700",
-      "timestamp": 1793502120.0
-    },
-    {
-      "title": "KOS nằm sàn 29 phiên, nhưng không phải kỷ lục, đây mới là cái tên nắm chuỗi giảm sàn kinh hoàng nhất lịch sử chứng khoán Việt Nam",
-      "description": "29 phiên liên tiếp vẫn chưa phải chuỗi lao dốc dài nhất lịch sử chứng khoán Việt Nam.",
-      "link": "https://cafef.vn/kos-nam-san-29-phien-nhung-day-moi-la-chuoi-giam-san-kinh-hoang-nhat-lich-su-chung-khoan-viet-nam-188261101095155328.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sun, 01 Nov 2026 09:51:00 +0700",
-      "timestamp": 1793501460.0
-    },
-    {
-      "title": "Những chính sách mới liên quan hoạt động ngân hàng có hiệu lực từ tháng 11/2026",
-      "description": "Quỹ tín dụng nhân dân phải duy trì tỷ lệ an toàn vốn tối thiểu 8%; Sửa quy định giao dịch ngoại tệ với tổ chức tín dụng được phép; Quy định về an toàn, quản lý rủi ro khi ứng dụng AI trong ngành Ngân hàng;... là nội dung một số chính sách mới liên quan đến hoạt động ngân hàng có hiệu lực từ tháng 11/2026.",
-      "link": "https://cafef.vn/nhung-chinh-sach-moi-lien-quan-hoat-dong-ngan-hang-co-hieu-luc-tu-thang-11-2026-188261101083216965.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Sun, 01 Nov 2026 09:30:00 +0700",
-      "timestamp": 1793500200.0
-    },
-    {
-      "title": "Chủ đầu tư sân bay Long Thành giảm gần 1.400 nhân sự trong ba tháng",
-      "description": "ACV giảm 1.360 nhân sự trong quý III, nâng tổng số lao động rời công ty từ đầu năm lên gần 3.700 người.",
-      "link": "https://vnexpress.net/chu-dau-tu-san-bay-long-thanh-giam-gan-1-400-nhan-su-trong-ba-thang-5139256.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Sun, 01 Nov 2026 09:30:00 +0700",
-      "timestamp": 1793500200.0
     }
   ]
 }
