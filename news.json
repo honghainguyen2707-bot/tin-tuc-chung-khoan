@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Tỷ giá USD giảm mạnh nhất một tháng",
+      "description": "Chiều tối 5/11, nhiều ngân hàng trong nước đồng loạt hạ giá mua bán USD 150-200 đồng so với buổi sáng, mức giảm mạnh nhất một tháng qua.",
+      "link": "https://vnexpress.net/ty-gia-usd-giam-manh-nhat-mot-thang-5141334.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Thu, 05 Nov 2026 20:53:50 +0700",
+      "timestamp": 1793886830.0
+    },
+    {
       "title": "Thị trường chứng quyền ngày 06/11/2026: Sắc xanh đỏ đan xen",
       "description": "Kết thúc phiên giao dịch ngày 05/11/2026, toàn thị trường có 142 mã tăng, 132 mã giảm và 75 mã tham chiếu. Khối ngoại tiếp tục mua ròng với tổng mức mua ròng đạt 909.54 triệu đồng.",
       "link": "http://vietstock.vn/2026/11/thi-truong-chung-quyen-ngay-06112026-sac-xanh-do-dan-xen-1636-1511940.htm",
@@ -2391,14 +2399,6 @@
       "source": "VnEconomy - Chứng khoán",
       "published": "Mon, 02 Nov 2026 13:02:30 +0000",
       "timestamp": 1793624550.0
-    },
-    {
-      "title": "Thị trường chứng quyền ngày 03/11/2026: Tiếp tục áp đảo",
-      "description": "Kết thúc phiên giao dịch ngày 02/11/2026, toàn thị trường có 22 mã tăng, 268 mã giảm và 45 mã tham chiếu. Khối ngoại quay lại bán ròng với tổng mức bán ròng đạt 984.99 triệu đồng.",
-      "link": "http://vietstock.vn/2026/11/thi-truong-chung-quyen-ngay-03112026-tiep-tuc-ap-dao-1636-1510379.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Mon, 02 Nov 2026 20:00:00 +0700",
-      "timestamp": 1793624400.0
     }
   ]
 }
