@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "VN-Index hồi phục hai phiên liên tiếp nhưng chưa đủ cơ sở để kỳ vọng một xu hướng tăng bền vững",
+      "description": "VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường ngày 6/11/2026.",
+      "link": "https://vneconomy.vn/vn-index-hoi-phuc-hai-phien-lien-tiep-nhung-chua-du-co-so-de-ky-vong-mot-xu-huong-tang-ben-vung.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Thu, 05 Nov 2026 15:55:32 +0000",
+      "timestamp": 1793894132.0
+    },
+    {
+      "title": "Khối ngoại mua ròng đột biến ở VIX",
+      "description": "Nhà đầu tư nước ngoài tập trung mua ròng khớp lệnh ở nhóm dịch vụ tài chính và bảo hiểm. Các mã được mua ròng nhiều nhất gồm VIX, CTG, VIC, HVN, MBB, BVH, DXG, HPG, DIG và CTD.",
+      "link": "https://vneconomy.vn/khoi-ngoai-mua-rong-dot-bien-o-vix.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Thu, 05 Nov 2026 15:54:36 +0000",
+      "timestamp": 1793894076.0
+    },
+    {
       "title": "Tỷ giá USD giảm mạnh nhất một tháng",
       "description": "Chiều tối 5/11, nhiều ngân hàng trong nước đồng loạt hạ giá mua bán USD 150-200 đồng so với buổi sáng, mức giảm mạnh nhất một tháng qua.",
       "link": "https://vnexpress.net/ty-gia-usd-giam-manh-nhat-mot-thang-5141334.html",
@@ -2383,22 +2399,6 @@
       "source": "CafeF - Ngân hàng",
       "published": "Mon, 02 Nov 2026 21:02:00 +0700",
       "timestamp": 1793628120.0
-    },
-    {
-      "title": "Cổ phiếu chứng khoán bị rút tiền, dòng tiền ở nhóm bất động sản phân hóa",
-      "description": "Thanh khoản thị trường diễn biến ảm đạm trong tuần giao dịch cuối tháng 10. Trong đó, diễn biến nổi bật diễn ra ở nhóm chứng khoán và bất động sản.",
-      "link": "http://vietstock.vn/2026/11/co-phieu-chung-khoan-bi-rut-tien-dong-tien-o-nhom-bat-dong-san-phan-hoa-830-1510447.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Mon, 02 Nov 2026 20:30:00 +0700",
-      "timestamp": 1793626200.0
-    },
-    {
-      "title": "Bản đồ lạm phát thế giới năm 2026",
-      "description": "Theo dự báo mới nhất của Quỹ Tiền tệ Quốc tế (IMF), lạm phát toàn cầu năm 2026 ở mức 4,7%, trong bối cảnh chiến tranh Mỹ - Iran và căng thẳng thương mại tiếp tục gây sức ép lên giá cả...",
-      "link": "https://vneconomy.vn/ban-do-lam-phat-the-gioi-nam-2026.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Mon, 02 Nov 2026 13:03:40 +0000",
-      "timestamp": 1793624620.0
     }
   ]
 }
