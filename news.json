@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Cổ phiếu vừa và nhỏ hút dòng tiền",
+      "description": "Đà hưng phấn tiếp tục giảm đáng kể trong phiên chiều nay khi thanh khoản chậm lại đáng kể. So với chiều qua giá trị khớp lệnh HoSE chiều nay đã giảm 42% và giảm 30% so với phiên sáng. Tuy vậy khả năng duy trì phân hóa vẫn khá tích cực nhờ nhóm cổ phiếu vừa và nhỏ.",
+      "link": "https://vneconomy.vn/co-phieu-vua-va-nho-hut-dong-tien.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Thu, 05 Nov 2026 08:31:06 +0000",
+      "timestamp": 1793867466.0
+    },
+    {
+      "title": "Việt Nam có thêm 2,5 triệu tài khoản chứng khoán từ đầu năm",
+      "description": "Tính đến cuối tháng 10, nhà đầu tư cá nhân có tổng cộng hơn 14,3 triệu tài khoản, tương đương hơn 14% dân số.",
+      "link": "https://cafef.vn/viet-nam-co-them-25-trieu-tai-khoan-chung-khoan-tu-dau-nam-188261105151047551.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Thu, 05 Nov 2026 15:10:00 +0700",
+      "timestamp": 1793866200.0
+    },
+    {
+      "title": "Doanh nghiệp cảng Hải Phòng đổ ngàn tỷ đầu tư cổ phiếu GEX, VIX, PET, EIB",
+      "description": "Danh mục chứng khoán kinh doanh của Viconship tăng lên gần 2.7 ngàn tỷ đồng cuối tháng 9, gấp gần 4 lần chỉ trong quý 3.",
+      "link": "http://vietstock.vn/2026/11/doanh-nghiep-cang-hai-phong-do-ngan-ty-dau-tu-co-phieu-gex-vix-pet-eib-737-1511836.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Thu, 05 Nov 2026 15:02:39 +0700",
+      "timestamp": 1793865759.0
+    },
+    {
+      "title": "Cập nhật diễn biến dòng vốn tỷ USD FTSE giải ngân vào 27 cổ phiếu Việt Nam: Một cột mốc quan trọng đang đến gần",
+      "description": "Theo ước tính, tổng dòng vốn thụ động từ các quỹ theo dõi chỉ số FTSE vào chứng khoán Việt Nam có thể đạt khoảng 2,1 tỷ USD khi hoàn tất lộ trình nâng hạng.",
+      "link": "https://cafef.vn/cap-nhat-dien-bien-dong-von-ty-usd-ftse-giai-ngan-vao-27-co-phieu-viet-nam-mot-cot-moc-quan-trong-dang-den-gan-188261105150235851.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Thu, 05 Nov 2026 15:02:00 +0700",
+      "timestamp": 1793865720.0
+    },
+    {
+      "title": "Giá vàng nhẫn trơn, vàng miếng chiều 5/11 tại SJC, PNJ, Bảo Tín Minh Châu, DOJI và Bảo Tín Mạnh Hải",
+      "description": "Giá vàng trong nước chiều 5/11 tiếp tục neo ở vùng cao nhưng đã hạ nhiệt so với buổi sáng, khi vàng miếng SJC giảm 1,5 triệu đồng/lượng so với 9h30, xuống 143 triệu đồng/lượng ở chiều bán ra. Trong khi đó, giá vàng thế giới lên 4.125 USD/ounce, tăng 1,6% sau khi đã tăng 3,4% trong phiên trước.",
+      "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-5-11-tai-sjc-pnj-bao-tin-minh-chau-doji-va-bao-tin-manh-hai-dong-loat-tang-toi-25-trieu-dong-luong-188261105065603864.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Thu, 05 Nov 2026 14:58:00 +0700",
+      "timestamp": 1793865480.0
+    },
+    {
+      "title": "1.6 ngàn tỷ đồng thu từ đợt chào bán cổ phiếu, IJC đã giải ngân ra sao?",
+      "description": "Tính đến đầu tháng 11/2026, CTCP Phát triển Hạ tầng Kỹ thuật (Becamex IJC, HOSE: IJC) đã giải ngân 1,592 tỷ đồng từ đợt chào bán cổ phiếu cuối năm 2025. Doanh nghiệp đã tái cơ cấu kế hoạch, rút toàn bộ nguồn tiền khỏi hai dự án bất động sản để thanh toán nợ vay ngân hàng.",
+      "link": "http://vietstock.vn/2026/11/16-ngan-ty-dong-thu-tu-dot-chao-ban-co-phieu-ijc-da-giai-ngan-ra-sao-737-1511834.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Thu, 05 Nov 2026 14:45:50 +0700",
+      "timestamp": 1793864750.0
+    },
+    {
       "title": "Bước chuyển mới trong thương vụ tập đoàn Nhật Bản tiếp quản Thiên Long: Nhà sáng lập Cô Gia Thọ cùng 4 Thành viên từ nhiệm HĐQT",
       "description": "Trong ngày 04/11, Tập đoàn Thiên Long (HOSE: TLG) đã công bố tài liệu cho cuộc họp ĐHĐCĐ bất thường dự kiến tổ chức vào tháng 12. Nội dung đáng chú ý nhất là đề xuất miễn nhiệm và bầu bổ sung một loạt vị trí tại HĐQT nhiệm kỳ 2025-2028.",
       "link": "http://vietstock.vn/2026/11/buoc-chuyen-moi-trong-thuong-vu-tap-doan-nhat-ban-tiep-quan-thien-long-nha-sang-lap-co-gia-tho-cung-4-thanh-vien-tu-nhiem-hdqt-214-1511826.htm",
@@ -319,14 +367,6 @@
       "source": "Vietstock - Doanh nghiệp",
       "published": "Thu, 05 Nov 2026 10:00:00 +0700",
       "timestamp": 1793847600.0
-    },
-    {
-      "title": "Giá vàng nhẫn trơn, vàng miếng sáng 5/11 tại SJC, PNJ, Bảo Tín Minh Châu, DOJI và Bảo Tín Mạnh Hải đồng loạt tăng tới 2,5 triệu đồng/lượng",
-      "description": "Giá vàng trong nước lúc 9h30 sáng 5/11 tiếp tục tăng, với vàng nhẫn bán ra phổ biến 142,3-143 triệu đồng/lượng, trong khi vàng miếng SJC đồng loạt được các thương hiệu khảo sát bán ra ở 144,5 triệu đồng/lượng.",
-      "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-5-11-tai-sjc-pnj-bao-tin-minh-chau-doji-va-bao-tin-manh-hai-dong-loat-tang-toi-25-trieu-dong-luong-188261105065603864.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Thu, 05 Nov 2026 09:49:00 +0700",
-      "timestamp": 1793846940.0
     },
     {
       "title": "Giá vàng hôm nay 5/11: Tăng tới 4,6 triệu đồng mỗi lượng, trở lại mức đỉnh sau 1 tuần",
@@ -1201,18 +1241,18 @@
       "timestamp": 1793754120.0
     },
     {
-      "title": "ĐHĐCĐ thường niên AgriS: Định hình động lực tăng trưởng mới đến niên độ 2030–2031",
-      "description": "Ngày 02/11/2026 tại TP.HCM, CTCP Thành Thành Công – Biên Hòa (AgriS, HOSE: SBT) tổ chức ĐHĐCĐ thường niên niên độ 2025-2026 theo hình thức hybrid. Đại hội thông qua 14 tờ trình với tỷ lệ đồng thuận trên 98%, trong đó có các nội dung về kiện toàn HĐQT, phương án cổ tức, định hướng phát triển các động lực tăng trưởng mới đến niên độ 2030-2031.",
-      "link": "https://cafef.vn/dhdcd-thuong-nien-agris-dinh-hinh-dong-luc-tang-truong-moi-den-nien-do-20302031-188261104074407483.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Wed, 04 Nov 2026 08:00:00 +0700",
-      "timestamp": 1793754000.0
-    },
-    {
       "title": "Top cổ phiếu đáng chú ý đầu phiên 04/11",
       "description": "Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.",
       "link": "http://vietstock.vn/2026/11/top-co-phieu-dang-chu-y-dau-phien-0411-830-1511318.htm",
       "source": "Vietstock - Chứng khoán",
+      "published": "Wed, 04 Nov 2026 08:00:00 +0700",
+      "timestamp": 1793754000.0
+    },
+    {
+      "title": "ĐHĐCĐ thường niên AgriS: Định hình động lực tăng trưởng mới đến niên độ 2030–2031",
+      "description": "Ngày 02/11/2026 tại TP.HCM, CTCP Thành Thành Công – Biên Hòa (AgriS, HOSE: SBT) tổ chức ĐHĐCĐ thường niên niên độ 2025-2026 theo hình thức hybrid. Đại hội thông qua 14 tờ trình với tỷ lệ đồng thuận trên 98%, trong đó có các nội dung về kiện toàn HĐQT, phương án cổ tức, định hướng phát triển các động lực tăng trưởng mới đến niên độ 2030-2031.",
+      "link": "https://cafef.vn/dhdcd-thuong-nien-agris-dinh-hinh-dong-luc-tang-truong-moi-den-nien-do-20302031-188261104074407483.chn",
+      "source": "CafeF - Chứng khoán",
       "published": "Wed, 04 Nov 2026 08:00:00 +0700",
       "timestamp": 1793754000.0
     },
@@ -2359,46 +2399,6 @@
       "source": "Vietstock - Doanh nghiệp",
       "published": "Mon, 02 Nov 2026 16:17:00 +0700",
       "timestamp": 1793611020.0
-    },
-    {
-      "title": "Rót hơn 4,300 tỷ đồng tạm ứng đền bù, hai dự án lớn của DIG chờ ngày khởi công",
-      "description": "Hơn 4,300 tỷ đồng đã được DIG ghi nhận là khoản tạm ứng đền bù tại các dự án, trong đó Long Tân và Bắc Vũng Tàu chiếm phần lớn. Tuy nhiên, đã qua mốc dự kiến khởi công nhưng vẫn chưa có xác nhận chính thức từ doanh nghiệp.",
-      "link": "http://vietstock.vn/2026/11/rot-hon-4300-ty-dong-tam-ung-den-bu-hai-du-an-lon-cua-dig-cho-ngay-khoi-cong-737-1510131.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Mon, 02 Nov 2026 16:12:46 +0700",
-      "timestamp": 1793610766.0
-    },
-    {
-      "title": "QCG lỗ sau khi bán mảng thủy điện, tăng vay dài hạn từ gia đình lãnh đạo",
-      "description": "Sau khi chuyển nhượng ba nhà máy thủy điện, Quốc Cường Gia Lai của gia đình bà Nguyễn Thị Như Loan mất nguồn thu bán điện, góp phần khiến Doanh nghiệp lỗ gần 7 tỷ đồng trong quý 3/2026.",
-      "link": "http://vietstock.vn/2026/11/qcg-lo-sau-khi-ban-mang-thuy-dien-tang-vay-dai-han-tu-gia-dinh-lanh-dao-737-1510180.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Mon, 02 Nov 2026 16:02:51 +0700",
-      "timestamp": 1793610171.0
-    },
-    {
-      "title": "Doanh thu Vietjet tăng 41% nhờ mở rộng mạng bay",
-      "description": "Doanh thu hợp nhất của Vietjet 9 tháng đầu năm đạt 74.385 tỷ đồng, tăng 41% so với cùng kỳ, trong bối cảnh hãng mở rộng mạng bay quốc tế, đầu tư công nghệ và đội tàu bay.",
-      "link": "https://vnexpress.net/doanh-thu-vietjet-tang-41-nho-mo-rong-mang-bay-5139808.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Mon, 02 Nov 2026 16:00:00 +0700",
-      "timestamp": 1793610000.0
-    },
-    {
-      "title": "Chi phí tăng mạnh, PTB vẫn tăng 8% lãi sau thuế 9 tháng",
-      "description": "Theo BCTC quý 3/2026, CTCP Phú Tài (HOSE: PTB) ghi nhận chi phí 9 tháng đầu năm tăng mạnh. Dù vậy, lợi nhuận sau thuế vẫn đạt hơn 418 tỷ đồng, tăng 8% so với cùng kỳ.",
-      "link": "http://vietstock.vn/2026/11/chi-phi-tang-manh-ptb-van-tang-8-lai-sau-thue-9-thang-737-1510278.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Mon, 02 Nov 2026 15:47:00 +0700",
-      "timestamp": 1793609220.0
-    },
-    {
-      "title": "Bốn cổ phiếu ngân hàng bị khối ngoại “xả” 560 tỷ đồng trong ngày VN-Index mất 31 điểm",
-      "description": "Khối ngoại tiếp tục là điểm trừ khi bán ròng 453 tỷ đồng trên toàn thị trường.",
-      "link": "https://cafef.vn/bon-co-phieu-ngan-hang-bi-khoi-ngoai-xa-560-ty-dong-trong-ngay-vn-index-mat-31-diem-188261102153042689.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 02 Nov 2026 15:45:00 +0700",
-      "timestamp": 1793609100.0
     }
   ]
 }
