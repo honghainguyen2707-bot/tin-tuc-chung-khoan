@@ -1,12 +1,68 @@
 {
   "items": [
     {
+      "title": "Novaland phát thông báo quan trọng, hiệu lực từ ngày mai - 6/11",
+      "description": "Thông báo liên quan đến đợt chuyển đổi 10 trái phiếu chuyển đổi quốc tế của Novaland, với tổng giá trị chuyển đổi khoảng 2,37 triệu USD.",
+      "link": "https://cafef.vn/novaland-phat-thong-bao-quan-trong-hieu-luc-tu-ngay-mai-6-11-188261105164301298.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Thu, 05 Nov 2026 16:42:00 +0700",
+      "timestamp": 1793871720.0
+    },
+    {
+      "title": "HAGL Invest bị xử phạt và truy thu thuế",
+      "description": "Do đã thực hiện hành vi khai sai dẫn đến thiếu số thuế thu nhập doanh nghiệp phải nộp, HAGL Invest bị xử phạt hành chính và truy thu thuế tổng số tiền gần 436 triệu đồng.",
+      "link": "https://cafef.vn/hagl-invest-bi-xu-phat-va-truy-thu-thue-188261105163427787.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Thu, 05 Nov 2026 16:34:00 +0700",
+      "timestamp": 1793871240.0
+    },
+    {
+      "title": "Thiên Long khẳng định nội lực phát triển trên hành trình 45 năm",
+      "description": "Kết quả kinh doanh khả quan trong Quý 3/2026, cùng 8 danh hiệu giải thưởng và danh hiệu uy tín của Quốc gia và địa phương được đón nhận trong tháng 10, đánh dấu một giai đoạn nhiều chuyển biến tích cực của Thiên Long trong năm 2026 – năm kỷ niệm 45 năm hình thành và phát triển. Đây là cú chạy đà tạo thêm động lực để doanh nghiệp tiếp tục đổi mới và nâng cao năng lực cạnh tranh trong giai đoạn mới.",
+      "link": "http://vietstock.vn/2026/11/thien-long-khang-dinh-noi-luc-phat-trien-tren-hanh-trinh-45-nam-737-1511910.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Thu, 05 Nov 2026 16:00:00 +0700",
+      "timestamp": 1793869200.0
+    },
+    {
+      "title": "Cổ phiếu trụ tiếp tục đỡ chứng khoán",
+      "description": "Cổ phiếu Vingroup cùng các mã trụ thu hút lực mua vào, tiếp tục đóng vai trò bệ đỡ cho chứng khoán phục hồi, giúp VN-Index tăng gần 8 điểm.",
+      "link": "https://vnexpress.net/co-phieu-tru-tiep-tuc-do-chung-khoan-5141208.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Thu, 05 Nov 2026 15:58:52 +0700",
+      "timestamp": 1793869132.0
+    },
+    {
+      "title": "Khối ngoại \"tung\" hơn 450 tỷ đồng gom một cổ phiếu chứng khoán phiên 5/11",
+      "description": "Giao dịch của khối ngoại là điểm trừ khi bán ròng khoảng 225 tỷ đồng cổ phiếu trên toàn thị trường.",
+      "link": "https://cafef.vn/khoi-ngoai-tung-hon-450-ty-dong-gom-mot-co-phieu-chung-khoan-phien-5-11-188261105151531765.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Thu, 05 Nov 2026 15:45:00 +0700",
+      "timestamp": 1793868300.0
+    },
+    {
+      "title": "Chủ tịch Đặng Huỳnh Ức My: AgriS (SBT) đặt mục tiêu làm chủ chuỗi giá trị, hướng đến doanh nghiệp trăm tuổi",
+      "description": "Tại ĐHĐCĐ thường niên niên độ 2025-2026, Chủ tịch HĐQT AgriS (HOSE: SBT) Đặng Huỳnh Ức My chia sẻ về hành trình 5 năm xây dựng nền kinh tế nông nghiệp. Trong giai đoạn tới, Doanh nghiệp tập trung phát triển 3 trụ cột kinh doanh, hoàn thiện hệ thống quản trị và tăng cường ứng dụng khoa học công nghệ, tạo nền tảng cho chiến lược phát triển dài hạn.",
+      "link": "http://vietstock.vn/2026/11/chu-tich-dang-huynh-uc-my-agris-sbt-dat-muc-tieu-lam-chu-chuoi-gia-tri-huong-den-doanh-nghiep-tram-tuoi-214-1511870.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Thu, 05 Nov 2026 15:40:53 +0700",
+      "timestamp": 1793868053.0
+    },
+    {
       "title": "Cổ phiếu vừa và nhỏ hút dòng tiền",
       "description": "Đà hưng phấn tiếp tục giảm đáng kể trong phiên chiều nay khi thanh khoản chậm lại đáng kể. So với chiều qua giá trị khớp lệnh HoSE chiều nay đã giảm 42% và giảm 30% so với phiên sáng. Tuy vậy khả năng duy trì phân hóa vẫn khá tích cực nhờ nhóm cổ phiếu vừa và nhỏ.",
       "link": "https://vneconomy.vn/co-phieu-vua-va-nho-hut-dong-tien.htm",
       "source": "VnEconomy - Chứng khoán",
       "published": "Thu, 05 Nov 2026 08:31:06 +0000",
       "timestamp": 1793867466.0
+    },
+    {
+      "title": "Cổ phiếu Tôn Đông Á sẽ giao dịch trên HOSE từ 12/11, giá tham chiếu 12,000 đồng/cp",
+      "description": "Sở Giao dịch Chứng khoán TPHCM (HOSE) thông báo hơn 149 triệu cp GDA của CTCP Tôn Đông Á sẽ chính thức giao dịch trên HOSE từ ngày 12/11, với giá tham chiếu 12,000 đồng/cp.",
+      "link": "http://vietstock.vn/2026/11/co-phieu-ton-dong-a-se-giao-dich-tren-hose-tu-1211-gia-tham-chieu-12000-dongcp-737-1511850.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Thu, 05 Nov 2026 15:30:00 +0700",
+      "timestamp": 1793867400.0
     },
     {
       "title": "Việt Nam có thêm 2,5 triệu tài khoản chứng khoán từ đầu năm",
@@ -1580,7 +1636,7 @@
       "title": "Nhịp đập Thị trường 03/11: Cổ phiếu thép có phiên tích cực",
       "description": "Dù có nhịp hồi phục đầu phiên chiều, diễn biến thị trường trong phần còn lại của phiên chiều lại thiên về hướng tiêu cực. Kết phiên, VN-Index giảm hơn 11 điểm, tạm dừng ở dưới mốc 1,700. HNX-Index lại diễn biến tích cực với mức tăng gần 1 điểm, đạt hơn 251.4 điểm.",
       "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-0311-co-phieu-thep-co-phien-tich-cuc-1636-1510812.htm",
-      "source": "Vietstock - Cổ phiếu",
+      "source": "Vietstock - Chứng khoán",
       "published": "Tue, 03 Nov 2026 16:47:00 +0700",
       "timestamp": 1793699220.0
     },
@@ -2343,62 +2399,6 @@
       "source": "CafeF - Chứng khoán",
       "published": "Mon, 02 Nov 2026 17:09:00 +0700",
       "timestamp": 1793614140.0
-    },
-    {
-      "title": "'Trùm thương mại thép' SMC chuyển lỗ thành lãi, đã xử lý xong nhiều khoản nợ xấu",
-      "description": "Sau hơn 1 năm tái cấu trúc, CTCP Đầu tư Thương mại SMC (HOSE: SMC) đã tinh gọn, “khỏe mạnh” hơn về cả khía cạnh tài chính lẫn kinh doanh, dù phần lớn lợi nhuận vẫn đến từ việc bán tài sản. Công ty đã xử lý xong nhiều khoản nợ xấu, giảm nợ vay tài chính đáng kể.",
-      "link": "http://vietstock.vn/2026/11/trum-thuong-mai-thep-smc-chuyen-lo-thanh-lai-da-xu-ly-xong-nhieu-khoan-no-xau-737-1510367.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Mon, 02 Nov 2026 17:00:00 +0700",
-      "timestamp": 1793613600.0
-    },
-    {
-      "title": "Một cổ phiếu ngân hàng tăng 5% trong phiên đỏ lửa ngày 2/11",
-      "description": "Đây là cổ phiếu ngân hàng tăng giá duy nhất phiên hôm nay.",
-      "link": "https://cafef.vn/mot-co-phieu-ngan-hang-tang-5-trong-phien-do-lua-ngay-2-11-188261102152932675.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Mon, 02 Nov 2026 16:51:00 +0700",
-      "timestamp": 1793613060.0
-    },
-    {
-      "title": "PVcomBank tăng 35% lợi nhuận trước thuế 9 tháng",
-      "description": "Theo BCTC hợp nhất vừa công bố, Ngân hàng TMCP Đại chúng Việt Nam (PVcomBank, UPCoM: PCB) ghi nhận lợi nhuận trước thuế 9 tháng đầu năm 2026 tăng 35% lên gần 1,878 tỷ đồng, nhờ tăng trưởng của hoạt động kinh doanh chính và giảm chi phí dự phòng rủi ro tín dụng.",
-      "link": "http://vietstock.vn/2026/11/pvcombank-tang-35-loi-nhuan-truoc-thue-9-thang-737-1510321.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Mon, 02 Nov 2026 16:45:00 +0700",
-      "timestamp": 1793612700.0
-    },
-    {
-      "title": "Nhịp đập Thị trường 02/11: Khối ngoại bán ròng mạnh nhóm ngân hàng, VN-Index tiếp tục bốc hơi hơn 30 điểm",
-      "description": "Kết thúc phiên giao dịch, VN-Index giảm 30.9 điểm (-1.77%), xuống mức 1,710.72 điểm; HNX-Index giảm 2.19 điểm (-0.87%), xuống mức 250.55 điểm. Độ rộng toàn thị trường với sắc đỏ áp đảo hơn khi bên bán có 564 mã giảm và bên mua có 141 mã tăng. Tương tự, sắc đỏ áp đảo trong rổ VN30 với 27 mã giảm, 2 mã tăng và 1 mã tham chiếu.",
-      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-0211-khoi-ngoai-ban-rong-manh-nhom-ngan-hang-vn-index-tiep-tuc-boc-hoi-hon-30-diem-1636-1509945.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Mon, 02 Nov 2026 16:32:00 +0700",
-      "timestamp": 1793611920.0
-    },
-    {
-      "title": "Blog chứng khoán: Cắt lỗ dữ dội",
-      "description": "Một phiên mở biên độ cực mạnh xuất hiện hôm nay khi bên bán mất kiên nhẫn. Từ chỗ bán hạ giá buổi sáng tới đợt bán tháo mạnh buổi chiều cho thấy sự tự tin nắm giữ cổ phiếu đã mất sạch.",
-      "link": "https://vneconomy.vn/blog-chung-khoan-cat-lo-du-doi.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Mon, 02 Nov 2026 09:27:53 +0000",
-      "timestamp": 1793611673.0
-    },
-    {
-      "title": "VN-Index giảm hơn 30 điểm",
-      "description": "Áp lực gọi ký quỹ (call margin) khiến VN-Index đầu tuần này có lúc mất gần 50 điểm, sau đó thu hẹp dần biên độ giảm còn 30 điểm.",
-      "link": "https://vnexpress.net/vn-index-giam-hon-30-diem-5139827.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Mon, 02 Nov 2026 16:19:29 +0700",
-      "timestamp": 1793611169.0
-    },
-    {
-      "title": "DPR muốn tăng vốn gấp đôi thông qua thưởng cổ phiếu, chốt chia hơn 120 tỷ đồng cổ tức",
-      "description": "CTCP Cao su Đồng Phú (HOSE: DPR) dự trình cổ đông phương án phát hành gần 86.9 triệu cp thưởng, tỷ lệ 1:1, để tăng vốn điều lệ lên gần 1,738 tỷ đồng. Cùng thời điểm, Công ty dự kiến chi gần 122 tỷ đồng trả cổ tức năm 2025 bằng tiền.",
-      "link": "http://vietstock.vn/2026/11/dpr-muon-tang-von-gap-doi-thong-qua-thuong-co-phieu-chot-chia-hon-120-ty-dong-co-tuc-764-1510285.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Mon, 02 Nov 2026 16:17:00 +0700",
-      "timestamp": 1793611020.0
     }
   ]
 }
