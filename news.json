@@ -1,12 +1,28 @@
 {
   "items": [
     {
+      "title": "Theo dấu dòng tiền cá mập 06/11: Khối ngoại quay lại mua ròng, tự doanh gom mạnh nhóm ngân hàng",
+      "description": "Phiên giao dịch ngày 06/11 chứng kiến sự đồng thuận giải ngân từ cả hai dòng tiền lớn. Trong khi khối ngoại đảo chiều mua ròng 446 tỷ đồng, khối tự doanh công ty chứng khoán cũng gom 228 tỷ đồng.",
+      "link": "http://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-0611-khoi-ngoai-quay-lai-mua-rong-tu-doanh-gom-manh-nhom-ngan-hang-830-1512594.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Fri, 06 Nov 2026 19:00:00 +0700",
+      "timestamp": 1793966400.0
+    },
+    {
       "title": "Giá USD ngân hàng giảm 2,8% trong ba tháng",
       "description": "Giá USD ngân hàng chiều nay tiếp tục giảm xuống 25.780 đồng, về ngang với thời điểm cuối tháng 3 năm ngoái.",
       "link": "https://vnexpress.net/gia-usd-ngan-hang-giam-2-8-trong-ba-thang-5141708.html",
       "source": "VnExpress - Kinh doanh",
       "published": "Fri, 06 Nov 2026 18:17:08 +0700",
       "timestamp": 1793963828.0
+    },
+    {
+      "title": "Chứng khoán Tuần 02-06/11/2026: Giằng co mạnh",
+      "description": "VN-Index điều chỉnh trở lại trong phiên cuối tuần và ghi nhận tuần giảm điểm thứ hai liên tiếp. Dù lực cầu bắt đáy tích cực xuất hiện tại các vùng giá thấp, sự phân hóa vẫn hiện hữu khiến nhịp phục hồi thiếu tính lan tỏa và nhanh chóng gặp trở ngại trước áp lực bán. Diễn biến này cho thấy thị trường vẫn đang trong trạng thái giằng co và chưa xác lập được xu hướng rõ ràng trong ngắn hạn.",
+      "link": "http://vietstock.vn/2026/11/chung-khoan-tuan-02-06112026-giang-co-manh-1636-1512517.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Fri, 06 Nov 2026 18:17:00 +0700",
+      "timestamp": 1793963820.0
     },
     {
       "title": "Bách Hoá Xanh sắp ra mắt mô hình mini, tăng tốc mở chuỗi để hướng tới doanh thu 10 tỷ USD",
@@ -1548,7 +1564,7 @@
       "title": "Cổ phiếu DatViet VAC giảm sàn hai phiên liên tiếp ngay khi vừa niêm yết",
       "description": "Trong ngày 04/11, cổ phiếu của CTCP DatViet VAC Group Holdings (HOSE: DVV) - nhà sản xuất show giải trí \"Tinh Hà Say Hi\" - bất ngờ giảm sàn phiên thứ 2 liên tiếp, bất chấp thị trường chung đang tăng hứng khởi.",
       "link": "http://vietstock.vn/2026/11/co-phieu-datviet-vac-giam-san-hai-phien-lien-tiep-ngay-khi-vua-niem-yet-830-1511700.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Wed, 04 Nov 2026 19:47:00 +0700",
       "timestamp": 1793796420.0
     },
@@ -2383,22 +2399,6 @@
       "source": "CafeF - Ngân hàng",
       "published": "Tue, 03 Nov 2026 19:26:00 +0700",
       "timestamp": 1793708760.0
-    },
-    {
-      "title": "Ngay tuần sau, một doanh nghiệp đầu ngành \"lăn chốt\" cổ tức tiền mặt 65%, đại gia Thái Lan vớ bẫm",
-      "description": "Thời gian thanh toán dự kiến vào 8/12.",
-      "link": "https://cafef.vn/ngay-tuan-sau-mot-doanh-nghiep-dau-nganh-lan-chot-co-tuc-tien-mat-65-dai-gia-thai-lan-vo-bam-188261103152939771.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 03 Nov 2026 19:01:00 +0700",
-      "timestamp": 1793707260.0
-    },
-    {
-      "title": "NHNN chấp thuận cho Vietcombank tăng vốn điều lệ thêm 5,431 tỷ đồng",
-      "description": "Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank, HOSE: VCB) cho biết đã nhận được Công văn của Ngân hàng Nhà nước (NHNN) về việc chấp thuận tăng vốn điều lệ theo phương án phát hành cổ phiếu riêng lẻ đã được ĐHĐCĐ thông qua ngày 26/04/2025 và 24/04/2026.",
-      "link": "http://vietstock.vn/2026/11/nhnn-chap-thuan-cho-vietcombank-tang-von-dieu-le-them-5431-ty-dong-757-1511237.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Tue, 03 Nov 2026 18:53:13 +0700",
-      "timestamp": 1793706793.0
     }
   ]
 }
