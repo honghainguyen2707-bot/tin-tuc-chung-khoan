@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Bitcoin và tiền số bị bán tháo",
+      "description": "Bitcoin giảm mạnh khi làn sóng bán tháo cổ phiếu công nghệ Mỹ lan sang thị trường tiền số, thổi bay hơn 1 tỷ USD vị thế phái sinh.",
+      "link": "https://vnexpress.net/bitcoin-va-tien-so-bi-ban-thao-5141422.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 06 Nov 2026 09:16:10 +0700",
+      "timestamp": 1793931370.0
+    },
+    {
+      "title": "Ngành thép quý 3/2026 xuất hiện một số khoản lãi đột biến",
+      "description": "Nhu cầu thép từ đầu tư công và hoạt động xây dựng tiếp tục là lực đỡ chính cho ngành thép Việt không chỉ trong quý 3/2026 mà còn có thể là nhiều quý sắp tới. Giữa bối cảnh đó, nhiều ông lớn ngành thép công bố các khoản lãi đột biến.",
+      "link": "http://vietstock.vn/2026/11/nganh-thep-quy-32026-xuat-hien-mot-so-khoan-lai-dot-bien-737-1511829.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Fri, 06 Nov 2026 09:02:00 +0700",
+      "timestamp": 1793930520.0
+    },
+    {
       "title": "Nasdaq chỉ mất 6 phút để xóa sạch thành quả Phố Wall",
       "description": "Chỉ một ngày sau đà tăng nhờ kết quả bầu cử giữa nhiệm kỳ Mỹ, Phố Wall bất ngờ đảo chiều. Làn sóng bán tháo cổ phiếu công nghệ và bán dẫn khiến hàng nghìn tỷ USD vốn hóa thị trường bị thổi bay, trong bối cảnh nhà đầu tư lo ngại triển vọng chi tiêu cho AI.",
       "link": "https://cafef.vn/nasdaq-chi-mat-6-phut-de-xoa-sach-thanh-qua-pho-wall-188261106081704607.chn",
@@ -2383,22 +2399,6 @@
       "source": "CafeF - Chứng khoán",
       "published": "Tue, 03 Nov 2026 09:00:00 +0700",
       "timestamp": 1793671200.0
-    },
-    {
-      "title": "S&P 500 và Nasdaq mất điểm vì cổ phiếu công nghệ vẫn bị bán, giá dầu “bốc hơi” gần 8%",
-      "description": "Giá dầu thô lao dốc, với giá dầu WTI trượt sâu dưới ngưỡng 100 USD/thùng, khi xuất hiện những tín hiệu tích cực về đàm phán hòa bình ở Trung Đông...",
-      "link": "https://vneconomy.vn/sp-500-va-nasdaq-mat-diem-vi-co-phieu-cong-nghe-van-bi-ban-gia-dau-boc-hoi-gan-8.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Tue, 03 Nov 2026 01:17:01 +0000",
-      "timestamp": 1793668621.0
-    },
-    {
-      "title": "Giá vàng 9999 SJC hôm nay 3/11/2026 bao nhiêu 1 chỉ?",
-      "description": "Giá vàng hôm nay, cập nhật chi tiết giá vàng 9999 hôm nay 3/11/2026 tại SJC và nhiều thương hiệu lớn trên thị trường.",
-      "link": "https://cafef.vn/gia-vang-9999-sjc-hom-nay-3-11-2026-bao-nhieu-1-chi-188261103074619968.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 03 Nov 2026 08:15:00 +0700",
-      "timestamp": 1793668500.0
     }
   ]
 }
