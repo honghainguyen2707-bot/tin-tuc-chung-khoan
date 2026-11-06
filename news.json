@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "DNSE Future Tech Summit 2026: Góc nhìn công nghệ và quản lý đầu tư",
+      "description": "DNSE Future Tech Summit 2026, sự kiện công nghệ thường niên ngành chứng khoán sẽ trở lại vào ngày 20/11 tại TP. Hồ Chí Minh, quy tụ các chuyên gia, diễn giả hàng đầu trong lĩnh vực tài chính, đầu tư và công nghệ, mang đến góc nhìn chuyên sâu về thị trường và xu hướng ứng dụng AI tối ưu chiến lược đầu tư.",
+      "link": "https://vneconomy.vn/dnse-future-tech-summit-2026-goc-nhin-cong-nghe-va-quan-ly-dau-tu.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Fri, 06 Nov 2026 03:52:37 +0000",
+      "timestamp": 1793937157.0
+    },
+    {
+      "title": "Phó Tổng Giám đốc sinh năm 1991 được giao điều hành một công ty chứng khoán",
+      "description": "Theo giới thiệu, vị này có hơn 10 năm kinh nghiệm trong lĩnh vực tài chính - ngân hàng, với chuyên môn sâu về thẩm định tín dụng, tài trợ vốn.",
+      "link": "https://cafef.vn/pho-tong-giam-doc-sinh-nam-1991-duoc-giao-dieu-hanh-mot-cong-ty-chung-khoan-188261106104118616.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Fri, 06 Nov 2026 10:47:00 +0700",
+      "timestamp": 1793936820.0
+    },
+    {
+      "title": "Con gái Chủ tịch Cao Thị Ngọc Dung tiếp tục bị bán giải chấp hơn 2,3 triệu cổ phiếu PNJ",
+      "description": "Bà Trần Phương Ngọc Giao- con gái Chủ tịch Cao Thị Ngọc Dung, tiếp tục bị bán giải chấp hơn 2,3 triệu cổ phiếu PNJ trong phiên 4/11/2026.",
+      "link": "https://cafef.vn/con-gai-chu-tich-cao-thi-ngoc-dung-tiep-tuc-bi-ban-giai-chap-hon-23-trieu-co-phieu-pnj-188261106104258622.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Fri, 06 Nov 2026 10:44:00 +0700",
+      "timestamp": 1793936640.0
+    },
+    {
+      "title": "Giá vàng nhẫn trơn, vàng miếng sáng 6/11 tại SJC, PNJ, Bảo Tín Minh Châu, DOJI và Bảo Tín Mạnh Hải đồng loạt giảm",
+      "description": "Giá vàng trong nước sáng 6/11 đảo chiều giảm so với cuối phiên trước, với vàng nhẫn mất tới 1,8 triệu đồng/lượng, trong khi vàng miếng SJC đồng loạt giảm 1,5 triệu đồng/lượng ở chiều bán ra, xuống 141 triệu đồng/lượng. Trên thị trường quốc tế, giá vàng cũng quay đầu giảm 0,9% sau khi tăng tổng cộng hơn 4% trong hai phiên giao dịch trước đó.",
+      "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-6-11-tai-sjc-pnj-bao-tin-minh-chau-doji-va-bao-tin-manh-hai-dong-loat-giam-188261106073345843.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Fri, 06 Nov 2026 10:21:00 +0700",
+      "timestamp": 1793935260.0
+    },
+    {
+      "title": "VIB One Card được vinh danh là sáng tạo nổi bật trong lĩnh vực thẻ tín dụng cá nhân hóa",
+      "description": "Với triết lý “ONE là ĐỦ”, VIB One Card mang đến cách tiếp cận mới trong cá nhân hóa thẻ tín dụng: một chiếc thẻ đáp ứng đa dạng nhu cầu chi tiêu, phát triển cùng khách hàng qua các giai đoạn tài chính và tích hợp nhiều đặc quyền tài chính, phong cách sống.",
+      "link": "https://cafef.vn/vib-one-card-duoc-vinh-danh-la-sang-tao-noi-bat-trong-linh-vuc-the-tin-dung-ca-nhan-hoa-188261106101418559.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Fri, 06 Nov 2026 10:14:00 +0700",
+      "timestamp": 1793934840.0
+    },
+    {
       "title": "Bitcoin và tiền số bị bán tháo",
       "description": "Bitcoin giảm mạnh khi làn sóng bán tháo cổ phiếu công nghệ Mỹ lan sang thị trường tiền số, thổi bay hơn 1 tỷ USD vị thế phái sinh.",
       "link": "https://vnexpress.net/bitcoin-va-tien-so-bi-ban-thao-5141422.html",
@@ -1305,18 +1345,18 @@
       "timestamp": 1793782254.0
     },
     {
-      "title": "Khối ngoại giảm bán phiên VN-Index bứt phá, \"tung\" 350 tỷ gom 2 cổ phiếu VN30",
-      "description": "Ở chiều ngược lại, khối ngoại bán ròng mạnh nhất trên HoSE là MBB với giá trị gần 199 tỷ đồng.",
-      "link": "https://cafef.vn/khoi-ngoai-giam-ban-phien-vn-index-but-pha-tung-350-ty-gom-2-co-phieu-vn30-188261104152719074.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Wed, 04 Nov 2026 15:45:00 +0700",
-      "timestamp": 1793781900.0
-    },
-    {
       "title": "Phó thống đốc: Lãi suất cho vay mới giảm 0,2-0,5%",
       "description": "Lãi suất các khoản vay mới cuối tháng 10 giảm 0,2-0,5 điểm phần trăm so với đầu tháng, theo Phó thống đốc Ngân hàng Nhà nước Phạm Thanh Hà.",
       "link": "https://vnexpress.net/pho-thong-doc-lai-suat-cho-vay-moi-giam-0-2-0-5-5140740.html",
       "source": "VnExpress - Kinh doanh",
+      "published": "Wed, 04 Nov 2026 15:45:00 +0700",
+      "timestamp": 1793781900.0
+    },
+    {
+      "title": "Khối ngoại giảm bán phiên VN-Index bứt phá, \"tung\" 350 tỷ gom 2 cổ phiếu VN30",
+      "description": "Ở chiều ngược lại, khối ngoại bán ròng mạnh nhất trên HoSE là MBB với giá trị gần 199 tỷ đồng.",
+      "link": "https://cafef.vn/khoi-ngoai-giam-ban-phien-vn-index-but-pha-tung-350-ty-gom-2-co-phieu-vn30-188261104152719074.chn",
+      "source": "CafeF - Chứng khoán",
       "published": "Wed, 04 Nov 2026 15:45:00 +0700",
       "timestamp": 1793781900.0
     },
@@ -2359,46 +2399,6 @@
       "source": "Vietstock - Cổ phiếu",
       "published": "Tue, 03 Nov 2026 10:00:00 +0700",
       "timestamp": 1793674800.0
-    },
-    {
-      "title": "Trung Quốc dùng lại công cụ giải cứu chứng khoán 2 năm trước, nhà đầu tư vẫn hoài nghi",
-      "description": "Ngày thứ Hai (2/11), Trung Quốc tái khởi động các công cụ bơm thanh khoản từng sử dụng trong đợt bán tháo chứng khoán năm 2024. Tuy nhiên, giới đầu tư cho rằng các biện pháp này có thể giúp chặn đà giảm nhưng khó đưa thị trường trở lại xu hướng tăng...",
-      "link": "https://vneconomy.vn/trung-quoc-dung-lai-cong-cu-giai-cuu-chung-khoan-2-nam-truoc-nha-dau-tu-van-hoai-nghi.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Tue, 03 Nov 2026 02:54:34 +0000",
-      "timestamp": 1793674474.0
-    },
-    {
-      "title": "Môi giới chứng khoán thời khó khăn: Doanh thu giảm 58%, lãi gộp bốc hơi 93%",
-      "description": "Doanh thu môi giới công ty chứng khoán trong quý 3/2026 giảm 58% so với cùng kỳ, trong khi lãi gộp giảm tới 93%. Hai phần ba số công ty chịu cảnh lỗ gộp môi giới, cho thấy sức ép ngày càng lớn từ thanh khoản suy giảm và cuộc đua “zero-fee”.",
-      "link": "http://vietstock.vn/2026/11/moi-gioi-chung-khoan-thoi-kho-khan-doanh-thu-giam-58-lai-gop-boc-hoi-93-737-1509920.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Tue, 03 Nov 2026 09:35:30 +0700",
-      "timestamp": 1793673330.0
-    },
-    {
-      "title": "Vượt hơn 58% kế hoạch lợi nhuận năm, ILS lãi sau thuế quý 3 gấp 5.5 lần",
-      "description": "Theo BCTC quý 3/2026, CTCP Đầu tư Thương mại và Dịch vụ Quốc tế (UPCoM: ILS) ghi nhận lợi nhuận sau thuế gần 16 tỷ đồng, gấp hơn 5.5 lần cùng kỳ do tiết giảm mạnh các chi phí. Bên cạnh đó, các công ty con đều có lãi.",
-      "link": "http://vietstock.vn/2026/11/vuot-hon-58-ke-hoach-loi-nhuan-nam-ils-lai-sau-thue-quy-3-gap-55-lan-737-1510064.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Tue, 03 Nov 2026 09:35:00 +0700",
-      "timestamp": 1793673300.0
-    },
-    {
-      "title": "Tổng chi bồi thường giảm hơn 50%, BHI thoát lỗ quý 3 và 9 tháng",
-      "description": "Tổng CTCP Bảo hiểm Sài Gòn - Hà Nội (BSH, UPCoM: BHI) thoát lỗ quý 3 và 9 tháng đầu năm nhờ giảm mạnh tổng chi phí hoạt động kinh doanh bảo hiểm. Biên lãi 9 tháng tăng vọt từ 1.07% lên 6.59%.",
-      "link": "http://vietstock.vn/2026/11/tong-chi-boi-thuong-giam-hon-50-bhi-thoat-lo-quy-3-va-9-thang-737-1510382.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Tue, 03 Nov 2026 09:10:00 +0700",
-      "timestamp": 1793671800.0
-    },
-    {
-      "title": "VN-Index chưa thủng đáy, vì sao nhiều cổ phiếu đã giảm sâu?",
-      "description": "Thị trường chứng khoán bước vào tháng 11 với một nghịch lý đáng chú ý: VN-Index vẫn đứng trên vùng đáy tháng 10, nhưng nhiều nhóm cổ phiếu đã giảm xuống dưới mức thấp nhất của tháng trước. Sau hai tháng điều chỉnh liên tiếp, thanh khoản suy yếu và khối ngoại bán ròng mạnh, khả năng phục hồi không chỉ phụ thuộc vào các ngưỡng điểm số mà còn ở sự trở lại của dòng tiền trên diện rộng.",
-      "link": "https://cafef.vn/vn-index-chua-thung-day-vi-sao-nhieu-co-phieu-da-giam-sau-188261103090011814.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 03 Nov 2026 09:00:00 +0700",
-      "timestamp": 1793671200.0
     }
   ]
 }
