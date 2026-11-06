@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "title": "Digital Banker, xu hướng phát triển nhân lực ngân hàng thế hệ mới",
+      "description": "Chuyển đổi số không chỉ làm thay đổi cách ngân hàng cung cấp sản phẩm, dịch vụ mà còn thay đổi cả cách một nhân viên ngân hàng (banker) làm việc và kết nối với khách hàng. Ngày nay, bên cạnh kiến thức nghiệp vụ, banker cần biết tận dụng công nghệ, sử dụng mạng xã hội hiệu quả và truyền tải những thông tin tài chính theo cách gần gũi, dễ hiểu hơn.",
+      "link": "https://cafef.vn/digital-banker-xu-huong-phat-trien-nhan-luc-ngan-hang-the-he-moi-188261106174151904.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Fri, 06 Nov 2026 17:41:00 +0700",
+      "timestamp": 1793961660.0
+    },
+    {
+      "title": "Thiên Long về tay tập đoàn Nhật Bản",
+      "description": "Tập đoàn Kokuyo của Nhật Bản vừa hoàn tất nhận 47% vốn của Thiên Long từ cổ đông lớn TLAT, trước khi chào mua công khai thêm cổ phiếu.",
+      "link": "https://vnexpress.net/thien-long-ve-tay-tap-doan-nhat-ban-5141686.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 06 Nov 2026 17:08:34 +0700",
+      "timestamp": 1793959714.0
+    },
+    {
+      "title": "Phó Chủ tịch QNS liên tục gom cổ phiếu, sở hữu vượt 10%",
+      "description": "Ông Võ Thành Đàng - Phó Chủ tịch HĐQT kiêm Tổng Giám đốc CTCP Đường Quảng Ngãi (UPCoM: QNS) - tiếp tục đăng ký mua 1 triệu cp trong thời gian từ 05/11-04/12 qua khớp lệnh và thỏa thuận, nhằm mục đích đầu tư.",
+      "link": "http://vietstock.vn/2026/11/pho-chu-tich-qns-lien-tuc-gom-co-phieu-so-huu-vuot-10-739-1512405.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Fri, 06 Nov 2026 17:07:19 +0700",
+      "timestamp": 1793959639.0
+    },
+    {
+      "title": "Lãi suất vay mua nhà hạ nhiệt, thị trường bất động sản ra sao?",
+      "description": "Khảo sát của Vietcap (VCI) ghi nhận lãi suất vay mua nhà cố định tại một số ngân hàng giảm trong tháng 10/2026. Tuy nhiên, triển vọng chi phí vay vẫn phụ thuộc vào thanh khoản hệ thống, áp lực tỷ giá và định hướng kiểm soát tín dụng bất động sản.",
+      "link": "http://vietstock.vn/2026/11/lai-suat-vay-mua-nha-ha-nhiet-thi-truong-bat-dong-san-ra-sao-145-1512383.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Fri, 06 Nov 2026 16:49:08 +0700",
+      "timestamp": 1793958548.0
+    },
+    {
+      "title": "Nhịp đập Thị trường 06/11: Khối ngoại đảo chiều mua ròng",
+      "description": "Kết thúc phiên giao dịch, VN-Index giảm 15.37 điểm (-0.88%), xuống mức 1,725.36 điểm; HNX-Index tăng 0.12 điểm (+0.05%), lên mức 256.73 điểm. Độ rộng toàn thị trường với sắc đỏ áp đảo hơn khi bên bán có 440 mã giảm và bên mua có 281 mã tăng. Tương tự, sắc đỏ lấn lướt hơn trong rổ VN30 với 19 mã giảm, 10 mã tăng và 1 mã tham chiếu.",
+      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-0611-khoi-ngoai-dao-chieu-mua-rong-1636-1512213.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Fri, 06 Nov 2026 16:37:00 +0700",
+      "timestamp": 1793957820.0
+    },
+    {
+      "title": "Anh tăng lãi suất lần đầu tiên sau 3 năm",
+      "description": "Nối gót các nền kinh tế lớn khác, Anh nâng lãi suất tham chiếu lần đầu kể từ năm 2023 để ghìm lạm phát do giá năng lượng.",
+      "link": "https://vnexpress.net/anh-tang-lai-suat-lan-dau-tien-sau-3-nam-5141653.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 06 Nov 2026 16:18:19 +0700",
+      "timestamp": 1793956699.0
+    },
+    {
+      "title": "Sẽ thí điểm hệ thống truy vết, thu hồi tiền lừa đảo trực tuyến",
+      "description": "Bộ Công an và Ngân hàng Nhà nước đang nghiên cứu thí điểm vận hành hệ thống truy vết, thu hồi tiền lừa đảo qua không gian mạng.",
+      "link": "https://vnexpress.net/se-thi-diem-he-thong-truy-vet-thu-hoi-tien-lua-dao-truc-tuyen-5141607.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Fri, 06 Nov 2026 16:02:21 +0700",
+      "timestamp": 1793955741.0
+    },
+    {
       "title": "Giá vàng rời đỉnh, người Hà Nội đang mua- bán thế nào?",
       "description": "Giá vàng đã rời xa vùng đỉnh lịch sử, khiến những người mua vào ở mức cao chịu khoản lỗ đáng kể. Quan sát thực tế trên các phố vàng tại Hà Nội như Cầu Giấy, Trần Nhân Tông, người dân, nhà đầu tư giao dịch thong thả, nơi lưa thưa vài người mua bán, nơi vẫn giữ nhịp giao dịch thong thả bình thường.",
       "link": "https://cafef.vn/gia-vang-roi-dinh-nguoi-ha-noi-dang-mua-ban-the-nao-188261106155549351.chn",
@@ -1524,7 +1580,7 @@
       "title": "Theo dấu dòng tiền cá mập 04/11: Khối ngoại bán ròng phiên thứ 9 liên tiếp nhưng giảm nhiệt, tự doanh lại gom mạnh VPB",
       "description": "Thị trường chứng khoán có phiên 04/11 tăng hứng khởi khi VN-Index cộng thêm đến 33.4 điểm. Thanh khoản tại sàn HOSE đạt gần 18 ngàn tỷ đồng, tăng gần 39% so với phiên liền trước. Giữa bối cảnh đó, khối ngoại vẫn chưa dứt chuỗi bán ròng, trong khi tự doanh lại mua ròng đáng kể.",
       "link": "http://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-0411-khoi-ngoai-ban-rong-phien-thu-9-lien-tiep-nhung-giam-nhiet-tu-doanh-lai-gom-manh-vpb-830-1511681.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Wed, 04 Nov 2026 19:01:00 +0700",
       "timestamp": 1793793660.0
     },
@@ -1540,7 +1596,7 @@
       "title": "Vietstock Daily 05/11/2026: Tìm lại động lực?",
       "description": "VN-Index hồi phục mạnh với mẫu hình nến Big White Candle kèm khối lượng giao dịch vượt mức trung bình 20 ngày cho thấy lực cầu bắt đáy nhập cuộc tích cực. Chỉ số test lại đường Middle của Bollinger Bands trong khi chỉ báo MACD đảo chiều và cắt lên đường signal. Nếu tín hiệu này được duy trì trong các phiên tới thì triển vọng ngắn hạn sẽ khởi sắc hơn.",
       "link": "http://vietstock.vn/2026/11/vietstock-daily-05112026-tim-lai-dong-luc-1636-1511600.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Wed, 04 Nov 2026 18:17:00 +0700",
       "timestamp": 1793791020.0
     },
@@ -2343,62 +2399,6 @@
       "source": "CafeF - Chứng khoán",
       "published": "Tue, 03 Nov 2026 18:18:00 +0700",
       "timestamp": 1793704680.0
-    },
-    {
-      "title": "CTCK chỉ ra 6 cổ phiếu có câu chuyện riêng và định giá hấp dẫn trong tháng 11",
-      "description": "Agriseco khuyến nghị ưu tiên nắm giữ cổ phiếu có nền tảng cơ bản tốt trong quý cuối năm, định giá hợp lý và chỉ xem xét mở mua mới khi xuất hiện tín hiệu thị trường tích cực hơn.",
-      "link": "https://cafef.vn/ctck-chi-ra-6-co-phieu-co-cau-chuyen-rieng-va-dinh-gia-hap-dan-trong-thang-11-188261103145858886.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 03 Nov 2026 18:05:00 +0700",
-      "timestamp": 1793703900.0
-    },
-    {
-      "title": "Thúy Loan trở thành cổ đông lớn một doanh nghiệp trên sàn",
-      "description": "Ở một diễn biến khác, ông Phạm Anh Tuấn, Chủ tịch HĐQT Lập Phương Thành, cũng hoàn tất mua vào 520.250 cổ phiếu LPT trong ngày 14/10.",
-      "link": "https://cafef.vn/thuy-loan-tro-thanh-co-dong-lon-mot-doanh-nghiep-tren-san-188261103174022037.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 03 Nov 2026 17:50:00 +0700",
-      "timestamp": 1793703000.0
-    },
-    {
-      "title": "Dịch chuyển cơ cấu chủ nợ tại PNJ: Gia đình Chủ tịch dần thế chân ngân hàng",
-      "description": "Báo cáo tài chính quý 3/2026 xác nhận khoản vay tín chấp 700 tỷ đồng từ Chủ tịch PNJ có lãi suất 10%/năm. Hơn một nửa số tiền này được dùng để bù đắp phần vốn ngân hàng vừa rút ròng khi hàng tồn kho giảm chất lượng. Nghĩa vụ trả cả gốc và lãi 770 tỷ đồng cho gia đình Chủ tịch vào ngày 25/09/2027 sẽ đặt áp lực trực tiếp lên đợt phát hành riêng lẻ.",
-      "link": "http://vietstock.vn/2026/11/dich-chuyen-co-cau-chu-no-tai-pnj-gia-dinh-chu-tich-dan-the-chan-ngan-hang-737-1511108.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Tue, 03 Nov 2026 17:04:26 +0700",
-      "timestamp": 1793700266.0
-    },
-    {
-      "title": "Doanh thu và lãi gộp đi lên, May Sông Hồng vẫn hụt lãi ròng sau 9 tháng",
-      "description": "CTCP May Sông Hồng (HOSE: MSH) ghi nhận lãi gộp tăng trong quý 3 nhờ giá vốn giảm nhanh hơn doanh thu. Tuy nhiên, áp lực từ hoạt động tài chính và chi phí tăng khiến lãi ròng giảm 8%. Lũy kế 9 tháng, doanh thu và lãi gộp cải thiện nhưng lãi ròng vẫn chưa tăng trưởng.",
-      "link": "http://vietstock.vn/2026/11/doanh-thu-va-lai-gop-di-len-may-song-hong-van-hut-lai-rong-sau-9-thang-737-1510996.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Tue, 03 Nov 2026 17:02:00 +0700",
-      "timestamp": 1793700120.0
-    },
-    {
-      "title": "Nhịp đập Thị trường 03/11: Cổ phiếu thép có phiên tích cực",
-      "description": "Dù có nhịp hồi phục đầu phiên chiều, diễn biến thị trường trong phần còn lại của phiên chiều lại thiên về hướng tiêu cực. Kết phiên, VN-Index giảm hơn 11 điểm, tạm dừng ở dưới mốc 1,700. HNX-Index lại diễn biến tích cực với mức tăng gần 1 điểm, đạt hơn 251.4 điểm.",
-      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-0311-co-phieu-thep-co-phien-tich-cuc-1636-1510812.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Tue, 03 Nov 2026 16:47:00 +0700",
-      "timestamp": 1793699220.0
-    },
-    {
-      "title": "Nhịp đập Thị trường 03/11: VIC tạo áp lực lớn, nhóm thép có phiên tích cực",
-      "description": "Dù có nhịp hồi phục đầu phiên chiều, diễn biến thị trường trong phần còn lại của phiên chiều lại thiên về hướng tiêu cực. Kết phiên, VN-Index giảm hơn 11 điểm, tạm dừng ở dưới mốc 1,700. HNX-Index lại diễn biến tích cực với mức tăng gần 1 điểm, đạt hơn 251.4 điểm.",
-      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-0311-vic-tao-ap-luc-lon-nhom-thep-co-phien-tich-cuc-1636-1510812.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Tue, 03 Nov 2026 16:47:00 +0700",
-      "timestamp": 1793699220.0
-    },
-    {
-      "title": "Giá dầu neo cao giúp Petrolimex lãi gấp đôi cùng kỳ",
-      "description": "Nhờ diễn biến thuận lợi của giá dầu thế giới cùng sản lượng xuất bán tăng mạnh, Tập đoàn Xăng dầu Việt Nam (Petrolimex, HOSE: PLX) ghi nhận lãi ròng quý 3/2026 gấp đôi cùng kỳ.",
-      "link": "http://vietstock.vn/2026/11/gia-dau-neo-cao-giup-petrolimex-lai-gap-doi-cung-ky-737-1511020.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Tue, 03 Nov 2026 16:37:28 +0700",
-      "timestamp": 1793698648.0
     }
   ]
 }
