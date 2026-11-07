@@ -1,12 +1,28 @@
 {
   "items": [
     {
+      "title": "Hơn 1.000 nhân viên rời đi, PNJ nhận thêm đơn xin nghỉ của Giám đốc cấp cao Tài chính",
+      "description": "PNJ tiếp tục có biến động ở bộ máy lãnh đạo cấp cao.",
+      "link": "https://cafef.vn/hon-1000-nhan-vien-roi-di-pnj-nhan-them-don-xin-nghi-cua-giam-doc-cap-cao-tai-chinh-188261107103127179.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Sat, 07 Nov 2026 10:31:00 +0700",
+      "timestamp": 1794022260.0
+    },
+    {
       "title": "Dấu ấn kinh tế thế giới tuần từ ngày 1-7/11/2026: Bầu cử ở Mỹ, cuộc phục hồi ngoạn mục của giá vàng, cú rơi khỏi mốc 100 USD/thùng của giá dầu",
       "description": "Cuộc bầu cử quốc hội giữa nhiệm kỳ ở Mỹ đã khép lại với kết quả là Đảng Dân chủ giành quyền kiểm soát lưỡng viện Quốc hội...",
       "link": "https://vneconomy.vn/dau-an-kinh-te-the-gioi-tuan-tu-ngay-1-7112026-bau-cu-o-my-cuoc-phuc-hoi-ngoan-muc-cua-gia-vang-cu-roi-khoi-moc-100-usdthung-cua-gia-dau.htm",
       "source": "VnEconomy - Chứng khoán",
       "published": "Sat, 07 Nov 2026 03:06:50 +0000",
       "timestamp": 1794020810.0
+    },
+    {
+      "title": "Các quỹ đầu tư trái phiếu có ngăn được cuộc khủng hoảng nợ công tiếp theo?",
+      "description": "Tình trạng thâm hụt ngân sách ngày càng nới rộng trong khi gánh nặng nợ công không ngừng phình to tại các nước phát triển đang gây tâm lý bất an cho giới đầu tư toàn cầu. Chuyên gia kinh tế Nouriel Roubini nhận định áp lực bán tháo từ nhà đầu tư trái phiếu chính là chốt chặn buộc các chính phủ phải siết lại kỷ luật tài khóa trước khi một cuộc khủng hoảng nợ mới bùng nổ.",
+      "link": "http://vietstock.vn/2026/11/cac-quy-dau-tu-trai-phieu-co-ngan-duoc-cuoc-khung-hoang-no-cong-tiep-theo-775-1511853.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Sat, 07 Nov 2026 10:02:00 +0700",
+      "timestamp": 1794020520.0
     },
     {
       "title": "Chuẩn hóa quản trị, năng lực nội tại là chìa khóa giúp doanh nghiệp Việt thu hút vốn",
@@ -1580,7 +1596,7 @@
       "title": "Top cổ phiếu đáng chú ý đầu phiên 05/11",
       "description": "Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.",
       "link": "http://vietstock.vn/2026/11/top-co-phieu-dang-chu-y-dau-phien-0511-830-1511614.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Thu, 05 Nov 2026 08:00:00 +0700",
       "timestamp": 1793840400.0
     },
@@ -2383,22 +2399,6 @@
       "source": "VnExpress - Kinh doanh",
       "published": "Wed, 04 Nov 2026 07:48:03 +0700",
       "timestamp": 1793753283.0
-    },
-    {
-      "title": "Vàng giảm giá trong lúc đợi kết quả bầu cử giữa nhiệm kỳ ở Mỹ",
-      "description": "Giá vàng thế giới giảm trong phiên giao dịch ngày thứ Ba (3/11), khi nước Mỹ tiến hành cuộc bầu cử giữa nhiệm kỳ nhằm xác định quyền kiểm soát tại hai viện Quốc hội...",
-      "link": "https://vneconomy.vn/vang-giam-gia-trong-luc-doi-ket-qua-bau-cu-giua-nhiem-ky-o-my.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Wed, 04 Nov 2026 00:26:33 +0000",
-      "timestamp": 1793751993.0
-    },
-    {
-      "title": "Giá vàng nhẫn trơn, vàng miếng sáng 4/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
-      "description": "Giá vàng trong nước mở phiên sáng 4/11 duy trì ổn định so với cuối phiên trước, với vàng miếng SJC bán ra ở mức 140,6 triệu đồng/lượng tại phần lớn thương hiệu. Giá vàng nhẫn dao động trong khoảng 133,7-139,5 triệu đồng/lượng, chưa ghi nhận biến động theo bảng giá đầu phiên.",
-      "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-4-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261104072255434.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Wed, 04 Nov 2026 07:21:00 +0700",
-      "timestamp": 1793751660.0
     }
   ]
 }
