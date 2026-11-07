@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "VN-Index trải qua tuần biến động, cổ phiếu nào gây sức ép?",
+      "description": "Toàn bộ nhóm ngành đều giảm điểm trong tuần 02-06/11, khiến thị trường trải qua tuần giao dịch nhiều khó khăn. VN-Index giảm hơn 16 điểm, riêng VIC đã lấy đi hơn 10 điểm. Trong khi đó, HNX-Index tăng gần 4 điểm nhờ đóng góp nổi bật của NVB.",
+      "link": "http://vietstock.vn/2026/11/vn-index-trai-qua-tuan-bien-dong-co-phieu-nao-gay-suc-ep-830-1512761.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Sat, 07 Nov 2026 20:30:00 +0700",
+      "timestamp": 1794058200.0
+    },
+    {
       "title": "Giá vàng nhẫn trơn, vàng miếng tối 7/11 tại SJC, PNJ, Bảo Tín Minh Châu, DOJI và Bảo Tín Mạnh Hải",
       "description": "Giá vàng trong nước tối 7/11 tiếp tục đi ngang sau phiên giảm trước đó. Vàng miếng SJC đồng loạt giữ mức 141 triệu đồng/lượng ở chiều bán ra, trong khi vàng nhẫn dao động từ 140,3-140,5 triệu đồng/lượng.",
       "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-toi-7-11-tai-sjc-pnj-bao-tin-minh-chau-doji-va-bao-tin-manh-hai-188261107073236839.chn",
@@ -1380,7 +1388,7 @@
       "title": "Phân tích kỹ thuật phiên chiều 05/11: Thị trường phân hóa",
       "description": "VN-Index giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ kèm theo khối lượng giao dịch dự kiến vượt mức trung bình khi kết thúc phiên. Tương tự, HNX-Index diễn biến giằng co đồng thời kiểm tra lại ngưỡng Fibonacci Projection 61.8% (tương đương vùng 253-258 điểm).",
       "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-0511-thi-truong-phan-hoa-585-1511824.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Thu, 05 Nov 2026 13:03:55 +0700",
       "timestamp": 1793858635.0
     },
@@ -2391,14 +2399,6 @@
       "source": "Vietstock - Cổ phiếu",
       "published": "Wed, 04 Nov 2026 11:02:00 +0700",
       "timestamp": 1793764920.0
-    },
-    {
-      "title": "Chuỗi nhà sách lớn nhất cả nước lãi kỷ lục",
-      "description": "Lợi nhuận sau thuế quý III của Fahasa, chuỗi nhà sách lớn nhất nước, đạt gần 20,7 tỷ đồng, tăng 28% so với cùng kỳ và là mức cao nhất từ khi công bố thông tin.",
-      "link": "https://vnexpress.net/chuoi-nha-sach-lon-nhat-ca-nuoc-lai-ky-luc-5140571.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Wed, 04 Nov 2026 11:01:37 +0700",
-      "timestamp": 1793764897.0
     }
   ]
 }
