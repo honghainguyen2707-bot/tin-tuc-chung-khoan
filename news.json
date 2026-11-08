@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Giá vàng tăng, người mua vẫn lỗ",
+      "description": "Sáng nay (8/11), giá vàng miếng SJC ở mốc 141 triệu đồng/lượng bán ra. So với cuối tuần trước, giá vàng tăng 2 triệu đồng/lượng nhưng người mua vàng vẫn lỗ, vì chênh lệch giá mua vào - bán ra.",
+      "link": "https://cafef.vn/gia-vang-tang-nguoi-mua-van-lo-188261108165654442.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Sun, 08 Nov 2026 16:56:00 +0700",
+      "timestamp": 1794131760.0
+    },
+    {
       "title": "BSR tăng mạnh kế hoạch lợi nhuận năm 2026 lên gần 18.600 tỷ đồng",
       "description": "BSR vừa điều chỉnh tăng mạnh kế hoạch kinh doanh năm 2026, trong đó lợi nhuận sau thuế tăng từ 2.162 tỷ đồng lên 18.579 tỷ đồng, gấp 8,6 lần mục tiêu ban đầu.",
       "link": "https://cafef.vn/bsr-tang-manh-ke-hoach-loi-nhuan-nam-2026-len-gan-18600-ty-dong-188261108095036544.chn",
@@ -2391,14 +2399,6 @@
       "source": "CafeF - Chứng khoán",
       "published": "Wed, 04 Nov 2026 15:59:00 +0700",
       "timestamp": 1793782740.0
-    },
-    {
-      "title": "Thủ tướng: Ngân sách phải chia sẻ với người dân, doanh nghiệp",
-      "description": "Thủ tướng cho rằng các biện pháp giảm thuế xăng tác động mạnh tới thu ngân sách, nhưng cần thực hiện để kiểm soát lạm phát, ổn định giá cả.",
-      "link": "https://vnexpress.net/thu-tuong-ngan-sach-phai-chia-se-voi-nguoi-dan-doanh-nghiep-5140690.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Wed, 04 Nov 2026 15:50:54 +0700",
-      "timestamp": 1793782254.0
     }
   ]
 }
