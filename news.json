@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "10/11: Đọc gì trước giờ giao dịch chứng khoán?",
+      "description": "Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong những ngày cuối tuần trước giờ giao dịch hôm nay.",
+      "link": "http://vietstock.vn/2026/11/1011-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1513271.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Tue, 10 Nov 2026 06:00:00 +0700",
+      "timestamp": 1794265200.0
+    },
+    {
       "title": "VDSC: Mức tăng trưởng lợi nhuận của các doanh nghiệp quý IV có thể thấp nhất một năm",
       "description": "Lợi nhuận ròng quý IV của các doanh nghiệp trên sàn HoSE có thể tăng 24%, con số thấp nhất kể từ quý III/2025, theo dự báo của VDSC.",
       "link": "https://vnexpress.net/vdsc-muc-tang-truong-loi-nhuan-cua-cac-doanh-nghiep-quy-iv-co-the-thap-nhat-mot-nam-5142669.html",
@@ -2391,14 +2399,6 @@
       "source": "Vietstock - Chứng khoán",
       "published": "Thu, 05 Nov 2026 20:00:00 +0700",
       "timestamp": 1793883600.0
-    },
-    {
-      "title": "Ông Nguyễn Chí Thành rời ghế CEO TPS sau nửa năm",
-      "description": "Được bổ nhiệm cho nhiệm kỳ 5 năm hồi tháng 4, cựu Tổng Giám đốc SHS nay thôi chức tại Chứng khoán Tiên Phong.",
-      "link": "http://vietstock.vn/2026/11/ong-nguyen-chi-thanh-roi-ghe-ceo-tps-sau-nua-nam-214-1512120.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Thu, 05 Nov 2026 19:39:03 +0700",
-      "timestamp": 1793882343.0
     }
   ]
 }
