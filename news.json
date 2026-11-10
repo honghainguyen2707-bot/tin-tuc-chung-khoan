@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Giá vàng miếng, vàng nhẫn trơn 9999 sáng 10/11",
+      "description": "Trên thị trường quốc tế, giá vàng vừa có nhịp hồi phục khoảng hơn 50 USD/ounce.",
+      "link": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-9999-sang-10-11-188261109220025556.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Tue, 10 Nov 2026 07:35:00 +0700",
+      "timestamp": 1794270900.0
+    },
+    {
+      "title": "VN-Index tiếp tục giảm điểm, nhà đầu tư thận trọng trước ngưỡng 1700",
+      "description": "VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường ngày 10/11/2026.",
+      "link": "https://vneconomy.vn/vn-index-tiep-tuc-giam-diem-nha-dau-tu-than-trong-truoc-nguong-1700.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Tue, 10 Nov 2026 00:30:19 +0000",
+      "timestamp": 1794270619.0
+    },
+    {
+      "title": "ACB nhận 6 giải thưởng từ Visa, nổi bật về thanh toán và tăng trưởng đa phân khúc",
+      "description": "Ngày 5/11/2026, Ngân hàng TMCP Á Châu (ACB) được Visa vinh danh tại 6 hạng mục giải thưởng trong khuôn khổ Hội nghị Khách hàng Visa 2026, diễn ra vào ngày 5/11 tại TP. Huế với chủ đề \"Powering Infinite Possibilities\", ghi nhận những thành tích nổi bật trong hoạt động thanh toán thẻ, tăng trưởng trên nhiều phân khúc khách hàng và đổi mới trải nghiệm dịch vụ tài chính.",
+      "link": "https://cafef.vn/acb-nhan-6-giai-thuong-tu-visa-noi-bat-ve-thanh-toan-va-tang-truong-da-phan-khuc-188261109214424383.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Tue, 10 Nov 2026 07:30:00 +0700",
+      "timestamp": 1794270600.0
+    },
+    {
+      "title": "Giá vàng tăng mạnh nhờ giá dầu và USD đồng loạt giảm, SPDR Gold Trust mua ròng",
+      "description": "Hai nguồn động lực chính cho phiên tăng này của giá vàng là giá dầu giảm và tỷ giá đồng USD đều giảm...",
+      "link": "https://vneconomy.vn/gia-vang-tang-manh-nho-gia-dau-va-usd-dong-loat-giam-spdr-gold-trust-mua-rong.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Tue, 10 Nov 2026 00:27:37 +0000",
+      "timestamp": 1794270457.0
+    },
+    {
+      "title": "Bị xử vắng mặt, cựu giám đốc chi nhánh gửi đơn đề nghị làm rõ trách nhiệm của hội sở",
+      "description": "Cựu giám đốc chi nhánh ngân hàng - Nguyễn Thị Hương Giang bị cáo buộc lập hồ sơ tín dụng khống, cho khách vay 30 tỷ đồng không tài sản đảm bảo từ năm 2011. Đang trốn truy nã, bị xét xử vắng mặt, bị cáo gửi đơn đề nghị tòa làm rõ trách nhiệm của hội sở.",
+      "link": "https://cafef.vn/bi-xu-vang-mat-cuu-giam-doc-chi-nhanh-gui-don-de-nghi-lam-ro-trach-nhiem-cua-hoi-so-188261110070845827.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Tue, 10 Nov 2026 07:08:00 +0700",
+      "timestamp": 1794269280.0
+    },
+    {
       "title": "10/11: Đọc gì trước giờ giao dịch chứng khoán?",
       "description": "Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong những ngày cuối tuần trước giờ giao dịch hôm nay.",
       "link": "http://vietstock.vn/2026/11/1011-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1513271.htm",
@@ -15,14 +55,6 @@
       "source": "VnExpress - Kinh doanh",
       "published": "Tue, 10 Nov 2026 03:06:11 +0700",
       "timestamp": 1794254771.0
-    },
-    {
-      "title": "Giá vàng miếng, vàng nhẫn trơn 9999 sáng 10/11",
-      "description": "Trên thị trường quốc tế, giá vàng vừa có nhịp hồi phục khoảng hơn 50 USD/ounce.",
-      "link": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-9999-sang-10-11-188261109220025556.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Tue, 10 Nov 2026 01:05:00 +0700",
-      "timestamp": 1794247500.0
     },
     {
       "title": "Ngày 10/11, gửi dưới 1 tỷ đồng kỳ hạn 15 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
@@ -2367,38 +2399,6 @@
       "source": "VnExpress - Kinh doanh",
       "published": "Fri, 06 Nov 2026 00:00:00 +0700",
       "timestamp": 1793898000.0
-    },
-    {
-      "title": "VN-Index hồi phục hai phiên liên tiếp nhưng chưa đủ cơ sở để kỳ vọng một xu hướng tăng bền vững",
-      "description": "VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường ngày 6/11/2026.",
-      "link": "https://vneconomy.vn/vn-index-hoi-phuc-hai-phien-lien-tiep-nhung-chua-du-co-so-de-ky-vong-mot-xu-huong-tang-ben-vung.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Thu, 05 Nov 2026 15:55:32 +0000",
-      "timestamp": 1793894132.0
-    },
-    {
-      "title": "Khối ngoại mua ròng đột biến ở VIX",
-      "description": "Nhà đầu tư nước ngoài tập trung mua ròng khớp lệnh ở nhóm dịch vụ tài chính và bảo hiểm. Các mã được mua ròng nhiều nhất gồm VIX, CTG, VIC, HVN, MBB, BVH, DXG, HPG, DIG và CTD.",
-      "link": "https://vneconomy.vn/khoi-ngoai-mua-rong-dot-bien-o-vix.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Thu, 05 Nov 2026 15:54:36 +0000",
-      "timestamp": 1793894076.0
-    },
-    {
-      "title": "Tỷ giá USD giảm mạnh nhất một tháng",
-      "description": "Chiều tối 5/11, nhiều ngân hàng trong nước đồng loạt hạ giá mua bán USD 150-200 đồng so với buổi sáng, mức giảm mạnh nhất một tháng qua.",
-      "link": "https://vnexpress.net/ty-gia-usd-giam-manh-nhat-mot-thang-5141334.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Thu, 05 Nov 2026 20:53:50 +0700",
-      "timestamp": 1793886830.0
-    },
-    {
-      "title": "Thị trường chứng quyền ngày 06/11/2026: Sắc xanh đỏ đan xen",
-      "description": "Kết thúc phiên giao dịch ngày 05/11/2026, toàn thị trường có 142 mã tăng, 132 mã giảm và 75 mã tham chiếu. Khối ngoại tiếp tục mua ròng với tổng mức mua ròng đạt 909.54 triệu đồng.",
-      "link": "http://vietstock.vn/2026/11/thi-truong-chung-quyen-ngay-06112026-sac-xanh-do-dan-xen-1636-1511940.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Thu, 05 Nov 2026 20:00:00 +0700",
-      "timestamp": 1793883600.0
     }
   ]
 }
