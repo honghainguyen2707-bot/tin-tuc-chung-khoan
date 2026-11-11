@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Đề xuất tăng cường quản trị rủi ro lãi suất",
+      "description": "Ngày 9/11, Ủy ban Basel về giám sát ngân hàng (BCBS) công bố tài liệu tham vấn về hướng dẫn bổ sung theo Trụ cột 2 đối với rủi ro lãi suất trong sổ ngân hàng (IRRBB). Đề xuất tập trung khắc phục những hạn chế trong quản trị rủi ro tại các ngân hàng, nhất là khi lãi suất biến động mạnh, khó dự báo.",
+      "link": "https://cafef.vn/de-xuat-tang-cuong-quan-tri-rui-ro-lai-suat-188261111071111968.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Wed, 11 Nov 2026 07:10:00 +0700",
+      "timestamp": 1794355800.0
+    },
+    {
+      "title": "Áp lực nợ xấu tăng, cần thêm giải pháp đẩy nhanh thu hồi vốn",
+      "description": "Nợ xấu tăng trong khi tỷ lệ bao phủ suy giảm đang đặt các ngân hàng trước yêu cầu củng cố dự phòng và đẩy nhanh thu hồi nợ. Theo các chuyên gia, việc xử lý hiệu quả những khoản vốn bị mắc kẹt cũng là điều kiện để nâng cao khả năng cung ứng tín dụng, tạo dư địa giảm lãi suất cho nền kinh tế.",
+      "link": "https://cafef.vn/ap-luc-no-xau-tang-can-them-giai-phap-day-nhanh-thu-hoi-von-188261111064901953.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Wed, 11 Nov 2026 06:48:00 +0700",
+      "timestamp": 1794354480.0
+    },
+    {
       "title": "11/11: Đọc gì trước giờ giao dịch chứng khoán?",
       "description": "Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay.",
       "link": "http://vietstock.vn/2026/11/1111-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1513620.htm",
@@ -2383,22 +2399,6 @@
       "source": "CafeF - Chứng khoán",
       "published": "Sat, 07 Nov 2026 00:05:00 +0700",
       "timestamp": 1793984700.0
-    },
-    {
-      "title": "Một \"tín hiệu lạ\" bất ngờ xuất hiện trên TTCK sau 3 năm",
-      "description": "Theo dữ liệu BSC tổng hợp, kết thúc phiên 30/10/2026, hệ số P/E của VN-Index đạt 11,05 lần, giảm hơn 10,2% so với tháng trước và thấp hơn 16,8% so với mức trung bình 5 năm.",
-      "link": "https://cafef.vn/mot-tin-hieu-la-bat-ngo-xuat-hien-tren-ttck-sau-3-nam-188261106154712795.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sat, 07 Nov 2026 00:04:00 +0700",
-      "timestamp": 1793984640.0
-    },
-    {
-      "title": "Ba cổ phiếu ngân hàng bất ngờ trở thành tâm điểm \"xả\" hàng của khối ngoại trong tuần đầu tháng 11",
-      "description": "Tín hiệu tích cực diễn ra vào cuối tuần khi dòng vốn của nhà đầu tư nước ngoài bất ngờ trở lại và giải ngân mua ròng cổ phiếu Việt Nam.",
-      "link": "https://cafef.vn/ba-co-phieu-ngan-hang-bat-ngo-tro-thanh-tam-diem-xa-hang-cua-khoi-ngoai-trong-tuan-dau-thang-11-188261106235313544.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sat, 07 Nov 2026 00:03:00 +0700",
-      "timestamp": 1793984580.0
     }
   ]
 }
