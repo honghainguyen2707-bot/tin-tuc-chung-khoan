@@ -1,12 +1,52 @@
 {
   "items": [
     {
+      "title": "Tổng tài sản hệ thống ngân hàng tăng hơn 10%, vốn điều lệ đạt 1,37 triệu tỷ đồng",
+      "description": "Theo số liệu của Ngân hàng Nhà nước Việt Nam (NHNN), tính đến ngày 30/9/2026, tổng tài sản có của toàn hệ thống các tổ chức tín dụng đạt 30.892.302 tỷ đồng, tăng 10,06%. Cùng với đó, vốn điều lệ toàn hệ thống đạt 1.372.904 tỷ đồng, tăng 7,47%.",
+      "link": "https://cafef.vn/tong-tai-san-he-thong-ngan-hang-tang-hon-10-von-dieu-le-dat-137-trieu-ty-dong-188261112061724361.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Thu, 12 Nov 2026 06:16:00 +0700",
+      "timestamp": 1794438960.0
+    },
+    {
+      "title": "VN-Index tiếp tục đi lên, cổ phiếu SHB tăng cao nhất nhóm VN30",
+      "description": "Kết phiên giao dịch 11/11, cổ phiếu SHB có giá 11.150 đồng/cp, tăng hơn 2%, cao nhất nhóm VN30 và dẫn đầu khối lượng giao dịch, đóng góp vào lực nâng đỡ VN-Index.",
+      "link": "https://cafef.vn/vn-index-tiep-tuc-di-len-co-phieu-shb-tang-cao-nhat-nhom-vn30-1882611120613295.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Thu, 12 Nov 2026 06:13:00 +0700",
+      "timestamp": 1794438780.0
+    },
+    {
+      "title": "NHNN bắt đầu mua ngoại tệ, VNDIRECT chỉ ra tín hiệu đáng chú ý với VN-Index",
+      "description": "VNDIRECT đã thống kê phản ứng của thị trường chứng khoán sau các đợt NHNN mua ngoại tệ trong giai đoạn 2016–2023.",
+      "link": "https://cafef.vn/nhnn-bat-dau-mua-ngoai-te-vndirect-chi-ra-tin-hieu-dang-chu-y-voi-vn-index-188261111190240006.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Thu, 12 Nov 2026 06:00:00 +0700",
+      "timestamp": 1794438000.0
+    },
+    {
+      "title": "Ngân hàng tìm cách ngăn trợ lý AI can thiệp tài khoản",
+      "description": "Các ngân hàng lớn ở Anh, Mỹ bắt đầu chặn hoặc siết quyền truy cập tài khoản khách hàng của các trợ lý AI do lo ngại chúng vượt kiểm soát.",
+      "link": "https://vnexpress.net/ngan-hang-tim-cach-ngan-tro-ly-ai-can-thiep-tai-khoan-5143403.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Thu, 12 Nov 2026 06:00:00 +0700",
+      "timestamp": 1794438000.0
+    },
+    {
       "title": "Tỷ phú Bill Gates còn nắm những cổ phiếu Việt Nam nào?",
       "description": "Quỹ tín thác đầu tư gắn với tỷ phú Bill Gates vẫn còn nắm giữ cổ phần tại hàng loạt doanh nghiệp Việt Nam.",
       "link": "https://cafef.vn/ty-phu-bill-gates-con-nam-nhung-co-phieu-viet-nam-nao-188261111224500984.chn",
       "source": "CafeF - Chứng khoán",
       "published": "Thu, 12 Nov 2026 05:05:00 +0700",
       "timestamp": 1794434700.0
+    },
+    {
+      "title": "Cuộc đua giành ghế điều hành Ngân hàng trung ương châu Âu",
+      "description": "Pháp, Đức, Hà Lan và Tây Ban Nha đang chạy đua giành 3 ghế trong Ban điều hành Ngân hàng trung ương châu Âu, gồm vị trí chủ tịch.",
+      "link": "https://vnexpress.net/cuoc-dua-gianh-ghe-dieu-hanh-ngan-hang-trung-uong-chau-au-5143522.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Thu, 12 Nov 2026 05:00:00 +0700",
+      "timestamp": 1794434400.0
     },
     {
       "title": "Chuyên gia: Thị trường chứng khoán hoàn toàn có thể hồi phục từ nay đến cuối năm",
@@ -959,14 +999,6 @@
       "source": "CafeF - Chứng khoán",
       "published": "Wed, 11 Nov 2026 05:03:00 +0700",
       "timestamp": 1794348180.0
-    },
-    {
-      "title": "Cuộc đua giành ghế điều hành Ngân hàng trung ương châu Âu",
-      "description": "Pháp, Đức, Hà Lan và Tây Ban Nha đang chạy đua giành 3 ghế trong Ban điều hành Ngân hàng trung ương châu Âu, gồm vị trí chủ tịch.",
-      "link": "https://vnexpress.net/cuoc-dua-gianh-ghe-dieu-hanh-ngan-hang-trung-uong-chau-au-5143522.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Wed, 11 Nov 2026 05:00:00 +0700",
-      "timestamp": 1794348000.0
     },
     {
       "title": "Một dữ liệu từ Vingroup, Petrolimex, Hoà Phát, Thế Giới Di Động...hé lộ động lực phía sau mục tiêu tăng trưởng GDP 2 con số",
@@ -2367,38 +2399,6 @@
       "source": "CafeF - Ngân hàng",
       "published": "Mon, 09 Nov 2026 12:00:00 +0700",
       "timestamp": 1794200400.0
-    },
-    {
-      "title": "Hé lộ thời điểm vận hành chính thức mô hình CCP",
-      "description": "Chủ tịch Hội đồng thành viên VSDC cho biết, nhiệm vụ trọng tâm của VSDC trong năm 2027 là hoàn thiện các điều kiện triển khai mô hình này trên thị trường chứng khoán cơ sở.",
-      "link": "https://cafef.vn/he-lo-thoi-diem-van-hanh-chinh-thuc-mo-hinh-ccp-188261109113636209.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 09 Nov 2026 11:54:00 +0700",
-      "timestamp": 1794200040.0
-    },
-    {
-      "title": "Từ 15/11, AI tự động chuyển tiền trên 10 triệu đồng thuộc nhóm rủi ro cao",
-      "description": "Từ ngày 15/11/2026, Thông tư 53/2026/TT-NHNN về an toàn, quản lý rủi ro và điều kiện triển khai đối với việc ứng dụng hệ thống trí tuệ nhân tạo (AI) trong ngành Ngân hàng chính thức có hiệu lực, đặt ra nhiều yêu cầu mới đối với các tổ chức ứng dụng công nghệ này.",
-      "link": "https://cafef.vn/tu-15-11-ai-tu-dong-chuyen-tien-tren-10-trieu-dong-thuoc-nhom-rui-ro-cao-188261109105152114.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Mon, 09 Nov 2026 11:43:00 +0700",
-      "timestamp": 1794199380.0
-    },
-    {
-      "title": "MCH, PVD, BSR có gì hấp dẫn?",
-      "description": "Các công ty chứng khoán (CTCK) khuyến nghị nắm giữ MCH nhờ bứt phá doanh thu kỷ lục; khả quan PVD nhờ nhu cầu khoan gia tăng và khả quan BSR nhờ cú sốc Hormuz đẩy lợi nhuận lập đỉnh.",
-      "link": "http://vietstock.vn/2026/11/mch-pvd-bsr-co-gi-hap-dan-145-1512838.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Mon, 09 Nov 2026 11:36:58 +0700",
-      "timestamp": 1794199018.0
-    },
-    {
-      "title": "Từ những khoản vay tỷ USD đến động thái mới của Ngân hàng Nhà nước: Hệ thống ngân hàng xoay xở với bài toán vừa giảm lãi suất, vừa tăng tín dụng",
-      "description": "Trong bối cảnh tín dụng tiếp tục tăng nhanh hơn huy động, hệ thống ngân hàng đang đối mặt với áp lực cân đối nguồn vốn để vừa đáp ứng nhu cầu tín dụng, vừa thực hiện mục tiêu giảm lãi suất. Làn sóng huy động hàng tỷ USD từ thị trường quốc tế, cùng những cơ chế hỗ trợ mới từ Ngân hàng Nhà nước, đang mở thêm dư địa để các ngân hàng giải quyết bài toán này.",
-      "link": "https://cafef.vn/tu-nhung-khoan-vay-ty-usd-den-dong-thai-moi-cua-ngan-hang-nha-nuoc-he-thong-ngan-hang-xoay-xo-voi-bai-toan-vua-giam-lai-suat-vua-tang-tin-dung-188261109113324061.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Mon, 09 Nov 2026 11:33:00 +0700",
-      "timestamp": 1794198780.0
     }
   ]
 }
