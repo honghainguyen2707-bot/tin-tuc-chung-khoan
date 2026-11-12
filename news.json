@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "title": "MSB đang thiết kế lại trải nghiệm tài chính cá nhân như thế nào?",
+      "description": "Sau 35 năm phát triển, MSB đang bước vào một giai đoạn mới trong hành trình phục vụ khách hàng cá nhân: chuyển từ cung cấp các dịch vụ ngân hàng trực tuyến sang xây dựng trải nghiệm tài chính liền mạch, cá nhân hóa và chủ động hơn. Sự ra mắt của MSB Digital Bank là bước đi thể hiện rõ định hướng này.",
+      "link": "https://cafef.vn/msb-dang-thiet-ke-lai-trai-nghiem-tai-chinh-ca-nhan-nhu-the-nao-188261112165553953.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Thu, 12 Nov 2026 19:30:00 +0700",
+      "timestamp": 1794486600.0
+    },
+    {
+      "title": "Ngân hàng đổi mới phương thức cho vay theo dòng tiền",
+      "description": "Kế hoạch hành động theo Quyết định 2409/QĐ-NHNN định hướng đổi mới phương thức cấp tín dụng dựa trên dòng tiền, dữ liệu thanh toán và chuỗi cung ứng, từng bước giảm phụ thuộc vào tài sản bảo đảm, tạo điều kiện để doanh nghiệp, nhất là doanh nghiệp nhỏ và vừa, tiếp cận vốn thuận lợi hơn.",
+      "link": "https://cafef.vn/ngan-hang-doi-moi-phuong-thuc-cho-vay-theo-dong-tien-188261112192534092.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Thu, 12 Nov 2026 19:25:00 +0700",
+      "timestamp": 1794486300.0
+    },
+    {
+      "title": "Tham vọng trở thành trung tâm vàng toàn cầu của Singapore",
+      "description": "Singapore đang đẩy mạnh tham vọng trở thành trung tâm vàng toàn cầu thông qua dịch vụ lưu ký dành cho các ngân hàng trung ương và ưu đãi thuế...",
+      "link": "https://vneconomy.vn/tham-vong-tro-thanh-trung-tam-vang-toan-cau-cua-singapore.htm",
+      "source": "VnEconomy - Kinh tế thế giới",
+      "published": "Thu, 12 Nov 2026 12:23:00 +0000",
+      "timestamp": 1794486180.0
+    },
+    {
+      "title": "Chứng khoán sinh lời kém, giới nhà giàu Ấn Độ tìm đến tài sản hữu hình",
+      "description": "Sau hai năm thị trường chứng khoán mang lại mức sinh lời thấp, giới đầu tư giàu có tại Ấn Độ đang tăng đầu tư vào bất động sản, kho bãi và hạ tầng logistics, với kỳ vọng nguồn thu từ những tài sản này sẽ cải thiện hiệu quả danh mục...",
+      "link": "https://vneconomy.vn/chung-khoan-sinh-loi-kem-gioi-nha-giau-an-do-tim-den-tai-san-huu-hinh.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Thu, 12 Nov 2026 12:22:52 +0000",
+      "timestamp": 1794486172.0
+    },
+    {
+      "title": "Ngân hàng Nhà nước bổ sung thanh khoản VND, chứng khoán sẽ phản ứng tích cực?",
+      "description": "Dữ liệu lịch sử giai đoạn 2016–2023 cho thấy VN-Index thường có diễn biến tích cực sau các đợt Ngân hàng Nhà nước mua ngoại tệ. Trong 13 lần được thống kê, chỉ số tăng sau một tháng ở 11 lần và tăng sau ba tháng ở 12 lần. Mức tăng bình quân tương ứng là 4,35% và 9,87%.",
+      "link": "https://vneconomy.vn/ngan-hang-nha-nuoc-bo-sung-thanh-khoan-vnd-chung-khoan-se-phan-ung-tich-cuc.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Thu, 12 Nov 2026 12:22:18 +0000",
+      "timestamp": 1794486138.0
+    },
+    {
+      "title": "Dòng vốn ETF đổ mạnh vào cổ phiếu Mỹ, rút ròng khỏi châu Á gồm Việt Nam",
+      "description": "Dòng vốn vào các quỹ ETF đầu tư tại Mỹ tăng 20,3% so với tuần trước, đạt 53,97 tỷ USD, chủ yếu nhờ nhóm ETF cổ phiếu Mỹ. Nhóm này hút ròng 40,54 tỷ USD, tăng 67,8% so với tuần trước, bất chấp thị trường chứng khoán điều chỉnh mạnh.",
+      "link": "https://vneconomy.vn/dong-von-etf-do-manh-vao-co-phieu-my-rut-rong-khoi-chau-a-gom-viet-nam.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Thu, 12 Nov 2026 12:18:16 +0000",
+      "timestamp": 1794485896.0
+    },
+    {
+      "title": "Góc nhìn 13/11: Tránh mua đuổi",
+      "description": "Nhiều công ty chứng khoán (CTCK) cho rằng VN-Index còn giằng co khi lực cầu chưa đủ mạnh. Nhà đầu tư được khuyên giữ tỷ trọng vừa phải, tránh mua đuổi và chọn điểm vào kỹ hơn.",
+      "link": "http://vietstock.vn/2026/11/goc-nhin-1311-tranh-mua-duoi-145-1514397.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Thu, 12 Nov 2026 19:10:02 +0700",
+      "timestamp": 1794485402.0
+    },
+    {
+      "title": "Sinh viên cho thuê tài khoản ngân hàng lấy 5 triệu đồng/tháng",
+      "description": "Mỗi tài khoản cho thuê, sinh viên được nhận 5 triệu đồng/tháng, có sinh viên đã mở cả chục tài khoản để kiếm tiền.",
+      "link": "https://cafef.vn/sinh-vien-cho-thue-tai-khoan-ngan-hang-lay-5-trieu-dong-thang-188261112190315249.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Thu, 12 Nov 2026 19:03:00 +0700",
+      "timestamp": 1794484980.0
+    },
+    {
       "title": "Tự doanh CTCK \"tung\" hơn 300 tỷ mua cổ phiếu Việt Nam, mã nào là tâm điểm?",
       "description": "Tự doanh CTCK mua ròng 325 tỷ đồng trên HoSE.",
       "link": "https://cafef.vn/tu-doanh-ctck-tung-hon-300-ty-mua-co-phieu-viet-nam-ma-nao-la-tam-diem-188261112184236163.chn",
@@ -15,6 +79,14 @@
       "source": "CafeF - Chứng khoán",
       "published": "Thu, 12 Nov 2026 18:33:00 +0700",
       "timestamp": 1794483180.0
+    },
+    {
+      "title": "Vietstock Daily 13/11/2026: Chưa rõ xu hướng?",
+      "description": "VN-Index quay đầu giảm điểm với khối lượng giao dịch duy trì dưới mức trung bình 20 ngày và đang test lại đường Middle của Bollinger Bands. Đây là bài test quan trọng trong ngắn hạn của chỉ số. Trong khi đó, Stochastic Oscillator có dấu hiệu suy yếu khi khoảng cách với đường signal đang thu hẹp. Nếu chỉ báo cắt xuống dưới đường này trong các phiên tới thì triển vọng ngắn hạn sẽ còn nhiều thách thức.",
+      "link": "http://vietstock.vn/2026/11/vietstock-daily-13112026-chua-ro-xu-huong-1636-1514245.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Thu, 12 Nov 2026 18:16:01 +0700",
+      "timestamp": 1794482161.0
     },
     {
       "title": "Gần 200 cổ phiếu giảm giá, khối ngoại bán ròng đột biến",
@@ -257,17 +329,17 @@
       "timestamp": 1794465000.0
     },
     {
-      "title": "Thanh khoản ngân hàng cải thiện, xung lực mới cho thị trường chứng khoán",
-      "description": "Động thái mua ngoại tệ giao ngay của NHNN có thể hỗ trợ thị trường chứng khoán thông qua việc cải thiện kỳ vọng về thanh khoản và mặt bằng lãi suất. Khi nguồn VND của hệ thống ngân hàng được bổ sung, áp lực cân đối vốn có thể dịu lại, góp phần ổn định chi phí vốn và củng cố niềm tin của nhà đầu tư.",
-      "link": "http://vietstock.vn/2026/11/thanh-khoan-ngan-hang-cai-thien-xung-luc-moi-cho-thi-truong-chung-khoan-757-1513291.htm",
+      "title": "Phân tích kỹ thuật phiên chiều 12/11: Tiếp tục giằng co",
+      "description": "VN-Index diễn biến giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ kèm theo khối lượng giao dịch trồi sụt thất thường trong các phiên gần đây. Tương tự, HNX-Index giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ và tiếp tục vận động quanh ngưỡng Fibonacci Projection 61.8%.",
+      "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-1211-tiep-tuc-giang-co-585-1514114.htm",
       "source": "Vietstock - Chứng khoán",
       "published": "Thu, 12 Nov 2026 13:02:00 +0700",
       "timestamp": 1794463320.0
     },
     {
-      "title": "Phân tích kỹ thuật phiên chiều 12/11: Tiếp tục giằng co",
-      "description": "VN-Index diễn biến giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ kèm theo khối lượng giao dịch trồi sụt thất thường trong các phiên gần đây. Tương tự, HNX-Index giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ và tiếp tục vận động quanh ngưỡng Fibonacci Projection 61.8%.",
-      "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-1211-tiep-tuc-giang-co-585-1514114.htm",
+      "title": "Thanh khoản ngân hàng cải thiện, xung lực mới cho thị trường chứng khoán",
+      "description": "Động thái mua ngoại tệ giao ngay của NHNN có thể hỗ trợ thị trường chứng khoán thông qua việc cải thiện kỳ vọng về thanh khoản và mặt bằng lãi suất. Khi nguồn VND của hệ thống ngân hàng được bổ sung, áp lực cân đối vốn có thể dịu lại, góp phần ổn định chi phí vốn và củng cố niềm tin của nhà đầu tư.",
+      "link": "http://vietstock.vn/2026/11/thanh-khoan-ngan-hang-cai-thien-xung-luc-moi-cho-thi-truong-chung-khoan-757-1513291.htm",
       "source": "Vietstock - Chứng khoán",
       "published": "Thu, 12 Nov 2026 13:02:00 +0700",
       "timestamp": 1794463320.0
@@ -2327,78 +2399,6 @@
       "source": "CafeF - Chứng khoán",
       "published": "Tue, 10 Nov 2026 08:01:00 +0700",
       "timestamp": 1794272460.0
-    },
-    {
-      "title": "Top cổ phiếu đáng chú ý đầu phiên 10/11",
-      "description": "Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.",
-      "link": "http://vietstock.vn/2026/11/top-co-phieu-dang-chu-y-dau-phien-1011-830-1513270.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Tue, 10 Nov 2026 08:00:00 +0700",
-      "timestamp": 1794272400.0
-    },
-    {
-      "title": "Ủy ban Chứng khoán Nhà nước cảnh báo lừa đảo xác thực tài khoản chứng khoán",
-      "description": "Ủy ban Chứng khoán Nhà nước (SSC) vừa phát đi cảnh báo nhà đầu tư cần chủ động thực hiện các yêu cầu xác thực tài khoản theo quy định pháp luật, đồng thời đặc biệt thận trọng trước các cuộc gọi, tin nhắn, đường dẫn hoặc ứng dụng không rõ nguồn gốc.",
-      "link": "https://vneconomy.vn/uy-ban-chung-khoan-nha-nuoc-canh-bao-lua-dao-xac-thuc-tai-khoan-chung-khoan.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Tue, 10 Nov 2026 00:50:19 +0000",
-      "timestamp": 1794271819.0
-    },
-    {
-      "title": "ban Chứng khoán Nhà nước cảnh báo lừa đảo xác thực tài khoản chứng khoán",
-      "description": "Ủy ban Chứng khoán Nhà nước (SSC) vừa phát đi cảnh báo nhà đầu tư cần chủ động thực hiện các yêu cầu xác thực tài khoản theo quy định pháp luật, đồng thời đặc biệt thận trọng trước các cuộc gọi, tin nhắn, đường dẫn hoặc ứng dụng không rõ nguồn gốc.",
-      "link": "https://vneconomy.vn/ban-chung-khoan-nha-nuoc-canh-bao-lua-dao-xac-thuc-tai-khoan-chung-khoan.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Tue, 10 Nov 2026 00:50:19 +0000",
-      "timestamp": 1794271819.0
-    },
-    {
-      "title": "Giá vàng thế giới tăng mạnh, giá dầu lao dốc",
-      "description": "Mỗi ounce vàng tăng gần 70 USD, nhờ đôla Mỹ yếu đi và giá dầu Brent giảm gần 6 USD một thùng.",
-      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-manh-gia-dau-lao-doc-5142686.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Tue, 10 Nov 2026 07:41:58 +0700",
-      "timestamp": 1794271318.0
-    },
-    {
-      "title": "Giá vàng miếng, vàng nhẫn trơn 9999 sáng 10/11",
-      "description": "Trên thị trường quốc tế, giá vàng vừa có nhịp hồi phục khoảng hơn 50 USD/ounce.",
-      "link": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-9999-sang-10-11-188261109220025556.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Tue, 10 Nov 2026 07:35:00 +0700",
-      "timestamp": 1794270900.0
-    },
-    {
-      "title": "VN-Index tiếp tục giảm điểm, nhà đầu tư thận trọng trước ngưỡng 1700",
-      "description": "VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường ngày 10/11/2026.",
-      "link": "https://vneconomy.vn/vn-index-tiep-tuc-giam-diem-nha-dau-tu-than-trong-truoc-nguong-1700.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Tue, 10 Nov 2026 00:30:19 +0000",
-      "timestamp": 1794270619.0
-    },
-    {
-      "title": "ACB nhận 6 giải thưởng từ Visa, nổi bật về thanh toán và tăng trưởng đa phân khúc",
-      "description": "Ngày 5/11/2026, Ngân hàng TMCP Á Châu (ACB) được Visa vinh danh tại 6 hạng mục giải thưởng trong khuôn khổ Hội nghị Khách hàng Visa 2026, diễn ra vào ngày 5/11 tại TP. Huế với chủ đề \"Powering Infinite Possibilities\", ghi nhận những thành tích nổi bật trong hoạt động thanh toán thẻ, tăng trưởng trên nhiều phân khúc khách hàng và đổi mới trải nghiệm dịch vụ tài chính.",
-      "link": "https://cafef.vn/acb-nhan-6-giai-thuong-tu-visa-noi-bat-ve-thanh-toan-va-tang-truong-da-phan-khuc-188261109214424383.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Tue, 10 Nov 2026 07:30:00 +0700",
-      "timestamp": 1794270600.0
-    },
-    {
-      "title": "Giá vàng tăng mạnh nhờ giá dầu và USD đồng loạt giảm, SPDR Gold Trust mua ròng",
-      "description": "Hai nguồn động lực chính cho phiên tăng này của giá vàng là giá dầu giảm và tỷ giá đồng USD đều giảm...",
-      "link": "https://vneconomy.vn/gia-vang-tang-manh-nho-gia-dau-va-usd-dong-loat-giam-spdr-gold-trust-mua-rong.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Tue, 10 Nov 2026 00:27:37 +0000",
-      "timestamp": 1794270457.0
-    },
-    {
-      "title": "Bị xử vắng mặt, cựu giám đốc chi nhánh gửi đơn đề nghị làm rõ trách nhiệm của hội sở",
-      "description": "Cựu giám đốc chi nhánh ngân hàng - Nguyễn Thị Hương Giang bị cáo buộc lập hồ sơ tín dụng khống, cho khách vay 30 tỷ đồng không tài sản đảm bảo từ năm 2011. Đang trốn truy nã, bị xét xử vắng mặt, bị cáo gửi đơn đề nghị tòa làm rõ trách nhiệm của hội sở.",
-      "link": "https://cafef.vn/bi-xu-vang-mat-cuu-giam-doc-chi-nhanh-gui-don-de-nghi-lam-ro-trach-nhiem-cua-hoi-so-188261110070845827.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Tue, 10 Nov 2026 07:08:00 +0700",
-      "timestamp": 1794269280.0
     }
   ]
 }
