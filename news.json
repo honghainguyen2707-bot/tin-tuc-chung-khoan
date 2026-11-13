@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Các đồng tiền châu Á đương đầu áp lực mất giá mạnh vì dự báo Fed tăng lãi suất",
+      "description": "Lực tăng mạnh của USD gây áp lực giảm giá đáng kể lên các đồng tiền ở khu vực châu Á, từ yên Nhật cho tới đôla Đài Loan và rupiah Indonesia...",
+      "link": "https://vneconomy.vn/cac-dong-tien-chau-a-duong-dau-ap-luc-mat-gia-manh-vi-du-bao-fed-tang-lai-suat.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Fri, 13 Nov 2026 03:30:52 +0000",
+      "timestamp": 1794540652.0
+    },
+    {
+      "title": "Giá vàng “bốc hơi” thêm hơn 100 USD/oz vì giá dầu, đồng USD và lợi suất trái phiếu đồng loạt tăng",
+      "description": "Giá vàng thế giới giảm mạnh trong phiên giao dịch ngày thứ Năm (12/11), khi giá dầu tăng mạnh do những tín hiệu gia tăng căng thẳng mới trong cuộc chiến giữa Mỹ và Iran...",
+      "link": "https://vneconomy.vn/gia-vang-boc-hoi-them-hon-100-usdoz-vi-gia-dau-dong-usd-va-loi-suat-trai-phieu-dong-loat-tang.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Fri, 13 Nov 2026 03:15:00 +0000",
+      "timestamp": 1794539700.0
+    },
+    {
+      "title": "Giá vàng chạm đáy sau 3 tháng",
+      "description": "Với mức giảm 500.000 đồng đến 1 triệu đồng/lượng vào sáng nay, giá vàng duy trì đà giảm liên tiếp trong nhiều ngày qua và ghi nhận mức thấp nhất sau 3 tháng.",
+      "link": "https://cafef.vn/gia-vang-cham-day-sau-3-thang-188261113100227858.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Fri, 13 Nov 2026 10:11:00 +0700",
+      "timestamp": 1794539460.0
+    },
+    {
+      "title": "ECO nâng vốn điều lệ lên 318 tỷ giữa áp lực lợi nhuận quý 3 giảm sâu 97%",
+      "description": "CTCP Nhựa sinh thái Việt Nam (HOSE: ECO) vừa báo cáo kết quả đợt phát hành cổ phiếu để trả cổ tức năm 2025, qua đó nâng vốn điều lệ lên gần 318 tỷ đồng.",
+      "link": "http://vietstock.vn/2026/11/eco-nang-von-dieu-le-len-318-ty-giua-ap-luc-loi-nhuan-quy-3-giam-sau-97-738-1514471.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Fri, 13 Nov 2026 09:45:15 +0700",
+      "timestamp": 1794537915.0
+    },
+    {
       "title": "Cuộc đua cho vay margin nóng hơn, công ty chứng khoán vẫn cần vững vàng",
       "description": "Các thông báo bán giải chấp cổ phiếu liên tiếp xuất hiện tại một số công ty chứng khoán (CTCK) quy mô vừa và nhỏ, trong bối cảnh dư nợ margin toàn thị trường tăng mạnh và cạnh tranh ngày càng gay gắt. Đằng sau cuộc đua mở rộng cho vay ký quỹ không chỉ là bài toán thị phần, mà còn là năng lực huy động vốn, chi phí vốn và khả năng kiểm soát rủi ro của từng công ty.",
       "link": "http://vietstock.vn/2026/11/cuoc-dua-cho-vay-margin-nong-hon-cong-ty-chung-khoan-van-can-vung-vang-737-1514472.htm",
@@ -63,14 +95,6 @@
       "source": "VnExpress - Kinh doanh",
       "published": "Fri, 13 Nov 2026 08:00:00 +0700",
       "timestamp": 1794531600.0
-    },
-    {
-      "title": "Giá vàng “bốc hơi” thêm hơn 100 USD/oz vì giá dầu, đồng USD và lợi suất trái phiếu đồng loạt tăng",
-      "description": "Giá vàng thế giới giảm mạnh trong phiên giao dịch ngày thứ Năm (12/11), khi giá dầu tăng mạnh do những tín hiệu gia tăng căng thẳng mới trong cuộc chiến giữa Mỹ và Iran...",
-      "link": "https://vneconomy.vn/gia-vang-boc-hoi-them-hon-100-usdoz-vi-gia-dau-dong-usd-va-loi-suat-trai-phieu-dong-loat-tang.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Fri, 13 Nov 2026 00:30:38 +0000",
-      "timestamp": 1794529838.0
     },
     {
       "title": "ACB vượt mốc thương hiệu 1,4 tỷ USD, vào Top 3 ngân hàng tư nhân giá trị nhất Việt Nam",
@@ -609,17 +633,17 @@
       "timestamp": 1794465000.0
     },
     {
-      "title": "Phân tích kỹ thuật phiên chiều 12/11: Tiếp tục giằng co",
-      "description": "VN-Index diễn biến giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ kèm theo khối lượng giao dịch trồi sụt thất thường trong các phiên gần đây. Tương tự, HNX-Index giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ và tiếp tục vận động quanh ngưỡng Fibonacci Projection 61.8%.",
-      "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-1211-tiep-tuc-giang-co-585-1514114.htm",
+      "title": "Thanh khoản ngân hàng cải thiện, xung lực mới cho thị trường chứng khoán",
+      "description": "Động thái mua ngoại tệ giao ngay của NHNN có thể hỗ trợ thị trường chứng khoán thông qua việc cải thiện kỳ vọng về thanh khoản và mặt bằng lãi suất. Khi nguồn VND của hệ thống ngân hàng được bổ sung, áp lực cân đối vốn có thể dịu lại, góp phần ổn định chi phí vốn và củng cố niềm tin của nhà đầu tư.",
+      "link": "http://vietstock.vn/2026/11/thanh-khoan-ngan-hang-cai-thien-xung-luc-moi-cho-thi-truong-chung-khoan-757-1513291.htm",
       "source": "Vietstock - Chứng khoán",
       "published": "Thu, 12 Nov 2026 13:02:00 +0700",
       "timestamp": 1794463320.0
     },
     {
-      "title": "Thanh khoản ngân hàng cải thiện, xung lực mới cho thị trường chứng khoán",
-      "description": "Động thái mua ngoại tệ giao ngay của NHNN có thể hỗ trợ thị trường chứng khoán thông qua việc cải thiện kỳ vọng về thanh khoản và mặt bằng lãi suất. Khi nguồn VND của hệ thống ngân hàng được bổ sung, áp lực cân đối vốn có thể dịu lại, góp phần ổn định chi phí vốn và củng cố niềm tin của nhà đầu tư.",
-      "link": "http://vietstock.vn/2026/11/thanh-khoan-ngan-hang-cai-thien-xung-luc-moi-cho-thi-truong-chung-khoan-757-1513291.htm",
+      "title": "Phân tích kỹ thuật phiên chiều 12/11: Tiếp tục giằng co",
+      "description": "VN-Index diễn biến giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ kèm theo khối lượng giao dịch trồi sụt thất thường trong các phiên gần đây. Tương tự, HNX-Index giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ và tiếp tục vận động quanh ngưỡng Fibonacci Projection 61.8%.",
+      "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-1211-tiep-tuc-giang-co-585-1514114.htm",
       "source": "Vietstock - Chứng khoán",
       "published": "Thu, 12 Nov 2026 13:02:00 +0700",
       "timestamp": 1794463320.0
@@ -2375,30 +2399,6 @@
       "source": "VnEconomy - Chứng khoán",
       "published": "Tue, 10 Nov 2026 08:21:50 +0000",
       "timestamp": 1794298910.0
-    },
-    {
-      "title": "Phát hiện một cổ phiếu đang tăng nóng gần 75% từ đáy bất ngờ \"quay xe\" giảm sàn",
-      "description": "Một điểm đáng chú ý trong nhịp tăng của cổ phiếu là diễn biến thanh khoản.",
-      "link": "https://cafef.vn/phat-hien-mot-co-phieu-dang-tang-nong-gan-75-tu-day-bat-ngo-quay-xe-giam-san-188261110144352741.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 10 Nov 2026 14:43:00 +0700",
-      "timestamp": 1794296580.0
-    },
-    {
-      "title": "LPBank thông báo mua lại trước hạn hơn 1.73 triệu trái phiếu năm 2021",
-      "description": "Ngân hàng Lộc Phát Việt Nam (LPBank, HOSE: LPB) - tên gọi cũ là Ngân hàng TMCP Bưu điện Liên Việt - vừa thông báo phương án mua lại trước hạn trái phiếu phát hành ra công chúng năm 2021, mã trái phiếu là LPB121036 (LBP10Y202102).",
-      "link": "http://vietstock.vn/2026/11/lpbank-thong-bao-mua-lai-truoc-han-hon-173-trieu-trai-phieu-nam-2021-757-1513420.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Tue, 10 Nov 2026 14:35:21 +0700",
-      "timestamp": 1794296121.0
-    },
-    {
-      "title": "\"Ông lớn\" ngân hàng Nhật Bản tiếp tục rót thêm tiền vào Vietcombank",
-      "description": "Mizuho Bank đã tăng vốn thêm 100 triệu USD cho mỗi chi nhánh tại Hà Nội và Thành phố Hồ Chí Minh đang xúc tiến đầu tư thêm vốn vào VCB thông qua phát hành riêng lẻ.",
-      "link": "https://cafef.vn/ong-lon-ngan-hang-nhat-ban-tiep-tuc-rot-them-tien-vao-vietcombank-188261110142614911.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Tue, 10 Nov 2026 14:30:00 +0700",
-      "timestamp": 1794295800.0
     }
   ]
 }
