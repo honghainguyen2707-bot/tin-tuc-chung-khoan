@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "title": "BIDV được vinh danh trong Top 50 Thương hiệu dẫn đầu Việt Nam",
+      "description": "Với giá trị thương hiệu đạt 2,246 tỷ USD, Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) xếp thứ 4 trong danh sách 50 Thương hiệu dẫn đầu Việt Nam năm 2026, tiếp tục khẳng định vị thế của một thương hiệu ngân hàng hàng đầu đất nước.",
+      "link": "https://cafef.vn/bidv-duoc-vinh-danh-trong-top-50-thuong-hieu-dan-dau-viet-nam-188261113144257266.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Fri, 13 Nov 2026 14:42:00 +0700",
+      "timestamp": 1794555720.0
+    },
+    {
+      "title": "Quốc hội bổ sung cơ chế thử nghiệm có kiểm soát trong lĩnh vực chứng khoán",
+      "description": "Luật Sửa đổi, bổ sung một số điều của Luật Chứng khoán vừa được Quốc hội thông qua bổ sung cơ chế thử nghiệm có kiểm soát trong lĩnh vực chứng khoán.",
+      "link": "https://cafef.vn/quoc-hoi-bo-sung-co-che-thu-nghiem-co-kiem-soat-trong-linh-vuc-chung-khoan-188261113143713533.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Fri, 13 Nov 2026 14:37:00 +0700",
+      "timestamp": 1794555420.0
+    },
+    {
+      "title": "Một thành viên HĐQT Chứng khoán Kỹ thương (TCBS) xin từ nhiệm",
+      "description": "CTCP Chứng khoán Kỹ Thương (TCBS) vừa công bố nhận được đơn từ nhiệm Thành viên HĐQT của ông Alexandre Charles Emmanuel Macaire.",
+      "link": "https://cafef.vn/mot-thanh-vien-hdqt-chung-khoan-ky-thuong-tcbs-xin-tu-nhiem-188261113143140187.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Fri, 13 Nov 2026 14:31:00 +0700",
+      "timestamp": 1794555060.0
+    },
+    {
+      "title": "Chính thức thông qua Luật Chứng khoán sửa đổi: Không bắt buộc tất cả người đại diện CTCK phải có chứng chỉ hành nghề",
+      "description": "Với 463/464 đại biểu có mặt tham gia biểu quyết tán thành, Quốc hội đã chính thức thông qua Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán.",
+      "link": "https://cafef.vn/chinh-thuc-thong-qua-luat-chung-khoan-sua-doi-khong-bat-buoc-tat-ca-nguoi-dai-dien-ctck-phai-co-chung-chi-hanh-nghe-188261113141900178.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Fri, 13 Nov 2026 14:18:00 +0700",
+      "timestamp": 1794554280.0
+    },
+    {
+      "title": "Lãi suất cho vay đã giảm, doanh nghiệp còn e ngại gì?",
+      "description": "Ngoài việc giảm lãi suất, doanh nghiệp mong muốn các ngân hàng minh bạch, công khai cơ chế điều chỉnh lãi suất trong suốt thời gian vay vốn. Điều này giúp doanh nghiệp chủ động dự toán chi phí tài chính, xây dựng kế hoạch kinh doanh và hạn chế rủi ro khi sử dụng vốn ngân hàng.",
+      "link": "https://cafef.vn/lai-suat-cho-vay-da-giam-doanh-nghiep-con-e-ngai-gi-188261113131641898.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Fri, 13 Nov 2026 14:16:00 +0700",
+      "timestamp": 1794554160.0
+    },
+    {
+      "title": "Nhịp đập Thị trường 13/11: Rung lắc quanh mốc 1,732 điểm",
+      "description": "Thị trường rung lắc quanh mốc 1,732 điểm trong cuối phiên sáng. Tạm nghỉ giữa phiên, VN-Index giảm 2.91 điểm (-0.17%), lùi về 1,731.84 điểm. HNX-Index dừng sát mốc tham chiếu, đạt 255.93 điểm. Độ rộng thị trường nghiêng về bên bán với 355 mã giảm, 239 mã tăng và 947 mã đứng giá.",
+      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-1311-rung-lac-quanh-moc-1732-diem-1636-1514517.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Fri, 13 Nov 2026 14:07:00 +0700",
+      "timestamp": 1794553620.0
+    },
+    {
+      "title": "Giá vàng miếng, vàng nhẫn trơn chiều 13/11 tại SJC, DOJI, PNJ, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+      "description": "Giá bán ra vàng miếng, vàng nhẫn hiện phổ biến 137 - 138 triệu đồng/lượng.",
+      "link": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-13-11-tai-sjc-doji-pnj-bao-tin-minh-chau-va-bao-tin-manh-hai-188261112231426077.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Fri, 13 Nov 2026 13:45:00 +0700",
+      "timestamp": 1794552300.0
+    },
+    {
+      "title": "Jensen Huang có thể phải điều trần trước Thượng viện Mỹ",
+      "description": "Ủy ban Ngân hàng Thượng viện Mỹ yêu cầu cựu CEO Nvidia Jensen Huang và Bộ trưởng Thương mại Howard Lutnick ra điều trần, trong bối cảnh Washington gia tăng sức ép về những nghi vấn liên quan đến an ninh quốc gia và hoạt động xuất khẩu chip AI sang Trung Quốc.",
+      "link": "https://cafef.vn/jensen-huang-co-the-phai-dieu-tran-truoc-thuong-vien-my-188261113134328152.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Fri, 13 Nov 2026 13:43:00 +0700",
+      "timestamp": 1794552180.0
+    },
+    {
       "title": "MB chào bán riêng lẻ 200 triệu cổ phiếu, dự kiến thu hơn 3.018 tỷ đồng",
       "description": "MB dự kiến chào bán 200 triệu cổ phiếu riêng lẻ cho 6 nhà đầu tư chứng khoán chuyên nghiệp với giá 15.090 đồng/cổ phiếu. Số tiền thu được dự kiến hơn 3.018 tỷ đồng, chủ yếu dành cho đầu tư hạ tầng công nghệ thông tin và bổ sung vốn cho hoạt động cho vay khách hàng.",
       "link": "https://cafef.vn/mb-chao-ban-rieng-le-200-trieu-co-phieu-du-kien-thu-hon-3018-ty-dong-188261113132507518.chn",
@@ -833,17 +897,17 @@
       "timestamp": 1794465000.0
     },
     {
-      "title": "Phân tích kỹ thuật phiên chiều 12/11: Tiếp tục giằng co",
-      "description": "VN-Index diễn biến giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ kèm theo khối lượng giao dịch trồi sụt thất thường trong các phiên gần đây. Tương tự, HNX-Index giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ và tiếp tục vận động quanh ngưỡng Fibonacci Projection 61.8%.",
-      "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-1211-tiep-tuc-giang-co-585-1514114.htm",
+      "title": "Thanh khoản ngân hàng cải thiện, xung lực mới cho thị trường chứng khoán",
+      "description": "Động thái mua ngoại tệ giao ngay của NHNN có thể hỗ trợ thị trường chứng khoán thông qua việc cải thiện kỳ vọng về thanh khoản và mặt bằng lãi suất. Khi nguồn VND của hệ thống ngân hàng được bổ sung, áp lực cân đối vốn có thể dịu lại, góp phần ổn định chi phí vốn và củng cố niềm tin của nhà đầu tư.",
+      "link": "http://vietstock.vn/2026/11/thanh-khoan-ngan-hang-cai-thien-xung-luc-moi-cho-thi-truong-chung-khoan-757-1513291.htm",
       "source": "Vietstock - Chứng khoán",
       "published": "Thu, 12 Nov 2026 13:02:00 +0700",
       "timestamp": 1794463320.0
     },
     {
-      "title": "Thanh khoản ngân hàng cải thiện, xung lực mới cho thị trường chứng khoán",
-      "description": "Động thái mua ngoại tệ giao ngay của NHNN có thể hỗ trợ thị trường chứng khoán thông qua việc cải thiện kỳ vọng về thanh khoản và mặt bằng lãi suất. Khi nguồn VND của hệ thống ngân hàng được bổ sung, áp lực cân đối vốn có thể dịu lại, góp phần ổn định chi phí vốn và củng cố niềm tin của nhà đầu tư.",
-      "link": "http://vietstock.vn/2026/11/thanh-khoan-ngan-hang-cai-thien-xung-luc-moi-cho-thi-truong-chung-khoan-757-1513291.htm",
+      "title": "Phân tích kỹ thuật phiên chiều 12/11: Tiếp tục giằng co",
+      "description": "VN-Index diễn biến giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ kèm theo khối lượng giao dịch trồi sụt thất thường trong các phiên gần đây. Tương tự, HNX-Index giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ và tiếp tục vận động quanh ngưỡng Fibonacci Projection 61.8%.",
+      "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-1211-tiep-tuc-giang-co-585-1514114.htm",
       "source": "Vietstock - Chứng khoán",
       "published": "Thu, 12 Nov 2026 13:02:00 +0700",
       "timestamp": 1794463320.0
@@ -1412,7 +1476,7 @@
       "title": "Theo dấu dòng tiền cá mập 11/11: Tự doanh bán mạnh cổ phiếu ngân hàng, khối ngoại giao dịch cầm chừng",
       "description": "VN-Index trải qua một phiên 11/11 biến động nhưng vẫn chốt tăng 3.8 điểm, lên mức tiệm cận 1,747 điểm. Tuy nhiên, thanh khoản tại sàn HOSE chỉ ở mức 13.8 ngàn tỷ đồng, giảm 18% so với ngày trước đó. Trên bình diện các dòng tiền lớn, khối tự doanh bán ròng mạnh với lực bán dồn vào hai mã ngân hàng TCB và CTG, trong khi khối ngoại giao dịch cầm chừng với giá trị ròng gần như cân bằng.",
       "link": "http://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-1111-tu-doanh-ban-manh-co-phieu-ngan-hang-khoi-ngoai-giao-dich-cam-chung-830-1514001.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Wed, 11 Nov 2026 19:22:00 +0700",
       "timestamp": 1794399720.0
     },
@@ -2105,19 +2169,19 @@
       "timestamp": 1794359320.0
     },
     {
-      "title": "Top cổ phiếu đáng chú ý đầu phiên 11/11",
-      "description": "Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.",
-      "link": "http://vietstock.vn/2026/11/top-co-phieu-dang-chu-y-dau-phien-1111-830-1513568.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Wed, 11 Nov 2026 08:00:00 +0700",
-      "timestamp": 1794358800.0
-    },
-    {
       "title": "Kafi đặt mục tiêu lợi nhuận 3.000 tỷ đồng vào năm 2030",
       "description": "Trong bối cảnh thị trường chứng khoán Việt Nam đứng trước nhiều cơ hội phát triển mới, đồng thời đặt ra những yêu cầu ngày càng cao về năng lực cạnh tranh, chất lượng dịch vụ và tiềm lực vốn, Công ty Cổ phần Chứng khoán Kafi đang cho thấy quyết tâm bứt phá, hướng tới vị thế cao hơn trên thị trường tài chính.",
       "link": "https://vneconomy.vn/kafi-dat-muc-tieu-loi-nhuan-3000-ty-dong-vao-nam-2030.htm",
       "source": "VnEconomy - Chứng khoán",
       "published": "Wed, 11 Nov 2026 01:00:00 +0000",
+      "timestamp": 1794358800.0
+    },
+    {
+      "title": "Top cổ phiếu đáng chú ý đầu phiên 11/11",
+      "description": "Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.",
+      "link": "http://vietstock.vn/2026/11/top-co-phieu-dang-chu-y-dau-phien-1111-830-1513568.htm",
+      "source": "Vietstock - Cổ phiếu",
+      "published": "Wed, 11 Nov 2026 08:00:00 +0700",
       "timestamp": 1794358800.0
     },
     {
@@ -2335,70 +2399,6 @@
       "source": "VnEconomy - Chứng khoán",
       "published": "Tue, 10 Nov 2026 13:31:09 +0000",
       "timestamp": 1794317469.0
-    },
-    {
-      "title": "Tâm lý nhà đầu tư tích cực, khối ngoại cũng gom ròng gần 500 tỷ",
-      "description": "VN-Index tăng 28,75 điểm, tương đương 1,68%, lên 1.743,07 điểm. Giá trị giao dịch đạt 16.884 tỷ đồng. Đáng chú ý, nhà đầu tư nước ngoài quay lại mua ròng 472 tỷ đồng trên sàn HoSE.",
-      "link": "https://vneconomy.vn/tam-ly-nha-dau-tu-tich-cuc-khoi-ngoai-cung-gom-rong-gan-500-ty.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Tue, 10 Nov 2026 13:30:50 +0000",
-      "timestamp": 1794317450.0
-    },
-    {
-      "title": "Trong quá trình phục hồi, VN-Index vẫn có thể đối diện những phiên sụt giảm bất ngờ",
-      "description": "Thị trường đã trải qua quá trình suy giảm đủ dài, trong khi các điều kiện vĩ mô đang dần cải thiện. Do đó, VN-Index hoàn toàn có khả năng phục hồi trong giai đoạn từ nay đến cuối năm.",
-      "link": "https://vneconomy.vn/trong-qua-trinh-phuc-hoi-vn-index-van-co-the-doi-dien-nhung-phien-sut-giam-bat-ngo.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Tue, 10 Nov 2026 13:30:40 +0000",
-      "timestamp": 1794317440.0
-    },
-    {
-      "title": "Yến Linh muốn bán cổ phiếu Masan, dồn hơn 600 tỷ cho dự án kinh doanh riêng",
-      "description": "Sau giao dịch, con gái Chủ tịch HĐQT Nguyễn Đăng Quang sẽ không còn là cổ đông của Masan.",
-      "link": "https://cafef.vn/con-gai-ong-nguyen-dang-quang-muon-ban-sach-co-phieu-masan-don-hon-600-ty-cho-du-an-kinh-doanh-rieng-188261110202745539.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 10 Nov 2026 20:26:00 +0700",
-      "timestamp": 1794317160.0
-    },
-    {
-      "title": "Ngân hàng Nhà nước muốn bãi bỏ nhiều quy định liên quan đến lãi suất cho vay bằng USD, sáp nhập, hợp nhất, mua lại tổ chức tín dụng",
-      "description": "Ngân hàng Nhà nước đang đề xuất bãi bỏ 17 văn bản quy phạm pháp luật liên quan đến lãi suất cho vay bằng USD, sáp nhập, hợp nhất, mua lại tổ chức tín dụng,...",
-      "link": "https://cafef.vn/ngan-hang-nha-nuoc-muon-bai-bo-nhieu-quy-dinh-lien-quan-den-lai-suat-cho-vay-bang-usd-sap-nhap-hop-nhat-mua-lai-to-chuc-tin-dung-18826111020174761.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Tue, 10 Nov 2026 20:16:00 +0700",
-      "timestamp": 1794316560.0
-    },
-    {
-      "title": "Bà Ooi Huey Tyng, Thành viên độc lập HĐQT Eximbank: Không thể đòi hỏi Ban điều hành thay đổi khi chính các thành viên HĐQT lại “giậm chân tại chỗ”",
-      "description": "Sau hơn 30 năm hoạt động trong lĩnh vực ngân hàng, thanh toán và fintech tại nhiều thị trường, bà Ooi Huey Tyng, Thành viên độc lập HĐQT Eximbank, cho rằng chuyển đổi thực chất không thể chỉ bắt đầu từ công nghệ hay một chiến lược mới. Nền tảng quan trọng hơn chính là con người – những người sẵn sàng lắng nghe, tiếp nhận phản biện, chủ động",
-      "link": "https://cafef.vn/ba-ooi-huey-tyng-thanh-vien-doc-lap-hdqt-eximbank-khong-the-doi-hoi-ban-dieu-hanh-thay-doi-khi-chinh-cac-thanh-vien-hdqt-lai-giam-chan-tai-cho-188261110195226035.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Tue, 10 Nov 2026 20:00:00 +0700",
-      "timestamp": 1794315600.0
-    },
-    {
-      "title": "Thị trường chứng quyền ngày 11/11/2026: Nhà đầu tư vẫn còn thận trọng",
-      "description": "Kết thúc phiên giao dịch ngày 10/11/2026, toàn thị trường có 230 mã tăng, 113 mã giảm và 64 mã tham chiếu. Khối ngoại tiếp tục bán ròng với tổng mức bán ròng đạt 285.48 triệu đồng.",
-      "link": "http://vietstock.vn/2026/11/thi-truong-chung-quyen-ngay-11112026-nha-dau-tu-van-con-than-trong-1636-1513529.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Tue, 10 Nov 2026 20:00:00 +0700",
-      "timestamp": 1794315600.0
-    },
-    {
-      "title": "Góc nhìn 11/11: Xác lập xu hướng tăng mới?",
-      "description": "Các công ty chứng khoán (CTCK) nhận định VN-Index có thể tiếp tục tích lũy trước khi xác lập xu hướng mới. Dù vậy, áp lực rung lắc có thể gia tăng khi chỉ số tiến đến các vùng kháng cự.",
-      "link": "http://vietstock.vn/2026/11/goc-nhin-1111-xac-lap-xu-huong-tang-moi-145-1513609.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Tue, 10 Nov 2026 19:56:06 +0700",
-      "timestamp": 1794315366.0
-    },
-    {
-      "title": "Theo dấu dòng tiền cá mập 10/11: Khối ngoại, tự doanh đồng thuận mua ròng",
-      "description": "Khối ngoại và tự doanh đồng thuận mua ròng mạnh trong phiên 10/11. Thị trường diễn biến tích cực trong phiên với mức tăng gần 30 điểm của VN-Index, lên 1,743.07 điểm.",
-      "link": "http://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-1011-khoi-ngoai-tu-doanh-dong-thuan-mua-rong-830-1513607.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Tue, 10 Nov 2026 19:42:47 +0700",
-      "timestamp": 1794314567.0
     }
   ]
 }
