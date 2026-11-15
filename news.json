@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "16/11: Đọc gì trước giờ giao dịch chứng khoán?",
+      "description": "Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong những ngày cuối tuần trước giờ giao dịch hôm nay.",
+      "link": "http://vietstock.vn/2026/11/1611-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1514993.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Mon, 16 Nov 2026 06:02:00 +0700",
+      "timestamp": 1794783720.0
+    },
+    {
+      "title": "Lãi suất trái phiếu ngân hàng neo cao dù tiết kiệm hạ nhiệt",
+      "description": "Các ngân hàng trả lãi bình quân gần 9% một năm cho trái phiếu mới phát hành từ cuối tháng 10 đến nay, chưa có dấu hiệu giảm như lãi suất tiết kiệm.",
+      "link": "https://vnexpress.net/lai-suat-trai-phieu-ngan-hang-neo-cao-du-tiet-kiem-ha-nhiet-5144973.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Mon, 16 Nov 2026 06:00:00 +0700",
+      "timestamp": 1794783600.0
+    },
+    {
       "title": "Ngày 16/11, gửi 100 triệu tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi sau 9 tháng?",
       "description": "Với khoản tiền gửi 100 triệu đồng kỳ hạn 9 tháng, số tiền lãi khách hàng nhận được tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB có sự chênh lệch đáng kể, tùy ngân hàng và hình thức gửi tại quầy hay trực tuyến.",
       "link": "https://cafef.vn/ngay-16-11-gui-100-trieu-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-sau-9-thang-188261115235833609.chn",
@@ -1652,7 +1668,7 @@
       "title": "Nhịp đập Thị trường 12/11: Tiếp tục giằng co, VN-Index đóng cửa dưới 1,735 điểm",
       "description": "Trong phiên chiều, thị trường không ghi nhận quá nhiều biến động mạnh đáng chú ý về mặt điểm số, tuy nhiên thanh khoản lại sôi động hơn đáng kể.",
       "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-1211-tiep-tuc-giang-co-vn-index-dong-cua-duoi-1735-diem-1636-1514083.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Thu, 12 Nov 2026 17:00:00 +0700",
       "timestamp": 1794477600.0
     },
@@ -2383,22 +2399,6 @@
       "source": "Vietstock - Doanh nghiệp",
       "published": "Wed, 11 Nov 2026 19:47:00 +0700",
       "timestamp": 1794401220.0
-    },
-    {
-      "title": "Hai cổ phiếu ngân hàng bị tự doanh CTCK bán ròng hàng trăm tỷ đồng phiên 11/11",
-      "description": "Tự doanh CTCK bán ròng 562 tỷ đồng trên HoSE.",
-      "link": "https://cafef.vn/hai-co-phieu-ngan-hang-bi-tu-doanh-ctck-ban-rong-hang-tram-ty-dong-phien-11-11-188261111193221156.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Wed, 11 Nov 2026 19:32:00 +0700",
-      "timestamp": 1794400320.0
-    },
-    {
-      "title": "Khách hàng đang để bao nhiêu tiền trong tài khoản ETC và Ví điện tử VETC của TASCO?",
-      "description": "Kết sổ báo cáo tài chính hợp nhất quý 3/2026, Công ty Cổ phần TASCO (HUT) ghi nhận khoản phải trả khách hàng Ví điện tử hơn 764,3 tỷ đồng và phải trả khách hàng ETC hơn 643 tỷ đồng.",
-      "link": "https://cafef.vn/khach-hang-dang-de-bao-nhieu-tien-trong-tai-khoan-etc-va-vi-dien-tu-vetc-cua-tasco-188261111193118329.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Wed, 11 Nov 2026 19:31:00 +0700",
-      "timestamp": 1794400260.0
     }
   ]
 }
