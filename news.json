@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Giá vàng miếng SJC, vàng nhẫn 9999 sáng ngày 17/11",
+      "description": "Giá vàng hôm nay 17/11 tiếp tục đi ngang, vàng miếng SJC giữ nguyên mức 137,5 triệu đồng/lượng ở chiều bán ra.",
+      "link": "https://cafef.vn/gia-vang-mieng-sjc-vang-nhan-9999-sang-ngay-17-11-188261117023420471.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Tue, 17 Nov 2026 02:34:00 +0700",
+      "timestamp": 1794857640.0
+    },
+    {
       "title": "Diễn biến mới trên thị trường lãi suất tiết kiệm: Một ngân hàng đưa lãi suất về 0%, VPBank và BIDV tiếp tục giảm",
       "description": "Thị trường lãi suất tiết kiệm tiếp tục ghi nhận những diễn biến đáng chú ý trong những ngày giữa tháng 11. Trong khi SCB chính thức đưa lãi suất huy động về 0%/năm đối với nhiều sản phẩm tiết kiệm từ ngày 16/11, hai ngân hàng lớn là VPBank và BIDV cũng vừa điều chỉnh giảm lãi suất ở một số kỳ hạn.",
       "link": "https://cafef.vn/dien-bien-moi-tren-thi-truong-lai-suat-tiet-kiem-mot-ngan-hang-dua-lai-suat-ve-0-vpbank-va-bidv-tiep-tuc-giam-188261116232243753.chn",
@@ -2391,14 +2399,6 @@
       "source": "Vietstock - Cổ phiếu",
       "published": "Thu, 12 Nov 2026 17:00:00 +0700",
       "timestamp": 1794477600.0
-    },
-    {
-      "title": "Blog chứng khoán: Đau đầu với thanh khoản",
-      "description": "Đà phục hồi đang mắc kẹt với dòng tiền quá yếu, thanh khoản trung bình tuần này trên 2 sàn chỉ đạt 11,5k tỷ/phiên chưa kể thỏa thuận.",
-      "link": "https://vneconomy.vn/blog-chung-khoan-dau-dau-voi-thanh-khoan-1307791.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Thu, 12 Nov 2026 09:38:59 +0000",
-      "timestamp": 1794476339.0
     }
   ]
 }
