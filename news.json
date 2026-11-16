@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "title": "Một doanh nghiệp vừa phát hành 7.400 tỷ đồng trái phiếu, lãi suất chỉ 5%/năm",
+      "description": "TokenBay vừa huy động thành công 7.400 tỷ đồng thông qua việc phát hành lô trái phiếu mã TKBL12601, lãi suất chỉ 5%/năm.",
+      "link": "https://cafef.vn/mot-doanh-nghiep-vua-phat-hanh-7400-ty-dong-trai-phieu-lai-suat-chi-5-nam-188261116120641935.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Mon, 16 Nov 2026 12:06:00 +0700",
+      "timestamp": 1794805560.0
+    },
+    {
+      "title": "Trung Quốc lần đầu tăng tỷ lệ dự trữ bắt buộc bằng ngoại tệ sau 5 năm",
+      "description": "Ngày 15/11, Ngân hàng Trung ương Trung Quốc (PBOC) nâng tỷ lệ dự trữ bắt buộc bằng ngoại tệ đối với các tổ chức tài chính từ 4% lên 6%, nhằm kiềm chế đà tăng giá của nhân dân tệ và hạn chế sức ép đối với xuất khẩu...",
+      "link": "https://vneconomy.vn/trung-quoc-lan-dau-tang-ty-le-du-tru-bat-buoc-bang-ngoai-te-sau-5-nam.htm",
+      "source": "VnEconomy - Kinh tế thế giới",
+      "published": "Mon, 16 Nov 2026 04:59:22 +0000",
+      "timestamp": 1794805162.0
+    },
+    {
+      "title": "Kéo trụ, thanh khoản vẫn rất thấp",
+      "description": "VN-Index tăng nhẹ trong phiên sáng nay nhưng độ rộng vẫn nghiêng hẳn về phía đỏ. Hiện tượng kéo trụ khá “lộ liễu” vẫn chưa đủ hấp dẫn để lôi kéo dòng tiền vào nhiều hơn.",
+      "link": "https://vneconomy.vn/keo-tru-thanh-khoan-van-rat-thap.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Mon, 16 Nov 2026 04:59:02 +0000",
+      "timestamp": 1794805142.0
+    },
+    {
+      "title": "Nhịp đập Thị trường 16/11: Nhóm bất động sản nỗ lực giữ nhịp trước áp lực khối ngoại",
+      "description": "Thị trường bước vào nửa cuối phiên sáng ngày 16/11/2026 với diễn biến hồi phục dần khi chỉ số VN-Index củng cố sắc xanh về mức 1,744.75 điểm, tăng gần 10 điểm so mốc tham chiếu. Biên độ giao dịch toàn phiên dao động trong khoảng từ 1,736.82 điểm đến 1,752.30 điểm, đi kèm thanh khoản khớp lệnh gia tăng mạnh từ hơn 339 tỷ đồng lúc đầu phiên lên gần 2,108 tỷ đồng tại thời điểm 10h30.",
+      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-1611-nhom-bat-dong-san-no-luc-giu-nhip-truoc-ap-luc-khoi-ngoai-1636-1515036.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Mon, 16 Nov 2026 11:46:00 +0700",
+      "timestamp": 1794804360.0
+    },
+    {
+      "title": "TCBS đề cử Phó Tổng Giám đốc Techcombank vào HĐQT",
+      "description": "CTCP Chứng khoán Kỹ Thương (TCBS, HOSE: TCX) trình cổ đông miễn nhiệm ông Alexandre Charles Emmanuel Macaire và bầu bổ sung bà Phan Thị Hải Yến vào HĐQT nhiệm kỳ 2023-2028.",
+      "link": "http://vietstock.vn/2026/11/tcbs-de-cu-pho-tong-giam-doc-techcombank-vao-hdqt-214-1515061.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Mon, 16 Nov 2026 11:45:02 +0700",
+      "timestamp": 1794804302.0
+    },
+    {
+      "title": "Vợ Tổng giám đốc DIG mua thành công 1 triệu cp",
+      "description": "Trong giai đoạn 15/10 - 12/11, bà Vũ Thị Thu Hương đã mua thành công 1 triệu cp Tổng CTCP Đầu tư Phát triển Xây dựng (DIC Corp, HOSE: DIG).",
+      "link": "http://vietstock.vn/2026/11/vo-tong-giam-doc-dig-mua-thanh-cong-1-trieu-cp-739-1515053.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Mon, 16 Nov 2026 11:12:27 +0700",
+      "timestamp": 1794802347.0
+    },
+    {
+      "title": "Gần 25.000 khách hàng Vietcombank hưởng ưu đãi giảm lãi suất",
+      "description": "Vietcombank đã giải ngân khoảng 150.000 tỷ đồng cho gần 25.000 khách hàng trong chương trình ưu đãi giảm lãi suất, tính đến đầu tháng 11, theo Phó tổng giám đốc Bạch Thành Long.",
+      "link": "https://vnexpress.net/gan-25-000-khach-hang-vietcombank-huong-uu-dai-giam-lai-suat-5145172.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Mon, 16 Nov 2026 11:00:00 +0700",
+      "timestamp": 1794801600.0
+    },
+    {
+      "title": "Ngân hàng Nhà nước chưa mua được USD giao ngay, tỷ giá liên ngân hàng tăng vọt",
+      "description": "Dù Ngân hàng Nhà nước đã triển khai cơ chế mua USD giao ngay từ ngày 11/11, đến nay vẫn chưa ghi nhận ngân hàng thương mại nào thực hiện giao dịch.",
+      "link": "https://cafef.vn/ngan-hang-nha-nuoc-chua-mua-duoc-usd-giao-ngay-ty-gia-lien-ngan-hang-tang-vot-188261116104618311.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Mon, 16 Nov 2026 10:45:00 +0700",
+      "timestamp": 1794800700.0
+    },
+    {
+      "title": "Bia Sài Gòn - Miền Trung sắp chi 60 tỷ tạm ứng cổ tức",
+      "description": "CTCP Bia Sài Gòn - Miền Trung (HOSE: SMB) thông báo chốt quyền trả tạm ứng cổ tức năm 2026. Ngày giao dịch không hưởng quyền là 23/11.",
+      "link": "http://vietstock.vn/2026/11/bia-sai-gon-mien-trung-sap-chi-60-ty-tam-ung-co-tuc-738-1515004.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Mon, 16 Nov 2026 10:32:00 +0700",
+      "timestamp": 1794799920.0
+    },
+    {
       "title": "Giá vàng bạc 16/11: Vàng giảm xuống thấp nhất năm 2026, cập nhật mới nhất của Phú Quý, SJC, Doji",
       "description": "Vàng miếng SJC và vàng nhẫn 9999 hiện đang ở vùng giá thấp nhất ghi nhận được kể từ đầu năm 2026 đến nay.",
       "link": "https://cafef.vn/gia-vang-bac-16-11-vang-giam-xuong-thap-nhat-nam-2026-cap-nhat-moi-nhat-cua-phu-quy-sjc-doji-18826111610032241.chn",
@@ -1692,7 +1764,7 @@
       "title": "Theo dấu dòng tiền cá mập 12/11: Khối ngoại và tự doanh mua bán trái chiều",
       "description": "Phiên 12/11, khối ngoại bán ròng mạnh trong khi tự doanh lại có phiên mua ròng tích cực.",
       "link": "http://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-1211-khoi-ngoai-va-tu-doanh-mua-ban-trai-chieu-830-1514441.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Thu, 12 Nov 2026 19:28:16 +0700",
       "timestamp": 1794486496.0
     },
@@ -2327,78 +2399,6 @@
       "source": "Vietstock - Cổ phiếu",
       "published": "Thu, 12 Nov 2026 08:00:00 +0700",
       "timestamp": 1794445200.0
-    },
-    {
-      "title": "Diễn đàn MB Economic Insights 12th 2026: Khơi thông nguồn vốn, thích ứng nhanh trước biến động",
-      "description": "Ngày 06/11/2026, tại TP Hồ Chí Minh, Ngân hàng TMCP Quân đội (MB) vừa tổ chức thành công Diễn đàn Kinh tế thường niên lần thứ 12 – MB Economic Insights 2026 với chủ đề \"Khơi thông nguồn vốn, thích ứng nhanh trước biến động\" tại Khách sạn JW Marriott Hotel & Suites Saigon.",
-      "link": "https://cafef.vn/dien-dan-mb-economic-insights-12th-2026-khoi-thong-nguon-von-thich-ung-nhanh-truoc-bien-dong-18826111117411709.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Thu, 12 Nov 2026 08:00:00 +0700",
-      "timestamp": 1794445200.0
-    },
-    {
-      "title": "7 cổ phiếu Việt được thêm vào rổ MSCI Frontier Markets Small Cap Index",
-      "description": "Trong kỳ review quý 4/2026 (công bố vào rạng sáng ngày 12/11), rổ chỉ số MSCI Frontier Markets Small Cap Index bổ sung tới 100 mã cổ phiếu, trong khi chỉ loại ra 21 mã. Trong đó, thị trường Việt Nam được bổ sung 7 mã, nhưng loại ra 6 mã.",
-      "link": "http://vietstock.vn/2026/11/7-co-phieu-viet-duoc-them-vao-ro-msci-frontier-markets-small-cap-index-3358-1514028.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Thu, 12 Nov 2026 07:49:52 +0700",
-      "timestamp": 1794444592.0
-    },
-    {
-      "title": "Giá vàng giảm dưới mốc 4.000 USD/oz vì mối lo lãi suất cao hơn lâu hơn",
-      "description": "Giá vàng thế giới duy trì xu thế giảm trong phiên giao dịch ngày thứ Tư (11/11), trượt khỏi mốc chủ chốt 4.000 USD/oz, khi số liệu lạm phát cao hơn dự báo của Mỹ và phát biểu của các quan chức Cục Dự trữ Liên bang Mỹ (Fed) tiếp tục củng cố mối lo lãi suất cao hơn lâu hơn...",
-      "link": "https://vneconomy.vn/gia-vang-giam-duoi-moc-4000-usdoz-vi-moi-lo-lai-suat-cao-hon-lau-hon.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Thu, 12 Nov 2026 00:30:43 +0000",
-      "timestamp": 1794443443.0
-    },
-    {
-      "title": "OCB hai năm liền nằm trong TOP50 công ty kinh doanh hiệu quả nhất Việt Nam",
-      "description": "Mới đây, ngân hàng Phương Đông (OCB) tiếp tục được vinh danh trong TOP50 công ty kinh doanh hiệu quả nhất Việt Nam năm 2026, đánh dấu năm thứ hai liên tiếp góp mặt trong bảng xếp hạng với những chỉ số tích cực về tăng trưởng doanh thu, hiệu quả sử dụng vốn và khả năng tạo giá trị cho nhà đầu tư.",
-      "link": "https://cafef.vn/ocb-hai-nam-lien-nam-trong-top50-cong-ty-kinh-doanh-hieu-qua-nhat-viet-nam-188261112065957416.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Thu, 12 Nov 2026 06:59:00 +0700",
-      "timestamp": 1794441540.0
-    },
-    {
-      "title": "NLG, PNJ vào MSCI Frontier Market Index",
-      "description": "Tại kỳ review quý 4/2026 công bố vào sáng ngày 12/11 theo giờ Việt Nam, rổ chỉ số MSCI Frontier Markets Index đã thêm 2 và loại ra 3 mã cổ phiếu từ Việt Nam.",
-      "link": "http://vietstock.vn/2026/11/nlg-pnj-vao-msci-frontier-market-index-3358-1514027.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Thu, 12 Nov 2026 06:53:41 +0700",
-      "timestamp": 1794441221.0
-    },
-    {
-      "title": "Một cổ phiếu \"quốc dân\" bất ngờ về vùng định giá thấp hiếm thấy trong 17 năm",
-      "description": "Theo nhóm phân tích, cổ phiếu hiện giao dịch với hệ số giá trên giá trị sổ sách (P/B) khoảng 1,16 lần, thuộc nhóm định giá thấp nhất kể từ năm 2009.",
-      "link": "https://cafef.vn/mot-co-phieu-quoc-dan-bat-ngo-ve-vung-dinh-gia-thap-hiem-thay-trong-17-nam-188261111161818128.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Thu, 12 Nov 2026 06:30:00 +0700",
-      "timestamp": 1794439800.0
-    },
-    {
-      "title": "Tổng tài sản hệ thống ngân hàng tăng hơn 10%, vốn điều lệ đạt 1,37 triệu tỷ đồng",
-      "description": "Theo số liệu của Ngân hàng Nhà nước Việt Nam (NHNN), tính đến ngày 30/9/2026, tổng tài sản có của toàn hệ thống các tổ chức tín dụng đạt 30.892.302 tỷ đồng, tăng 10,06%. Cùng với đó, vốn điều lệ toàn hệ thống đạt 1.372.904 tỷ đồng, tăng 7,47%.",
-      "link": "https://cafef.vn/tong-tai-san-he-thong-ngan-hang-tang-hon-10-von-dieu-le-dat-137-trieu-ty-dong-188261112061724361.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Thu, 12 Nov 2026 06:16:00 +0700",
-      "timestamp": 1794438960.0
-    },
-    {
-      "title": "VN-Index tiếp tục đi lên, cổ phiếu SHB tăng cao nhất nhóm VN30",
-      "description": "Kết phiên giao dịch 11/11, cổ phiếu SHB có giá 11.150 đồng/cp, tăng hơn 2%, cao nhất nhóm VN30 và dẫn đầu khối lượng giao dịch, đóng góp vào lực nâng đỡ VN-Index.",
-      "link": "https://cafef.vn/vn-index-tiep-tuc-di-len-co-phieu-shb-tang-cao-nhat-nhom-vn30-1882611120613295.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Thu, 12 Nov 2026 06:13:00 +0700",
-      "timestamp": 1794438780.0
-    },
-    {
-      "title": "12/11: Đọc gì trước giờ giao dịch chứng khoán?",
-      "description": "Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay.",
-      "link": "http://vietstock.vn/2026/11/1211-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1514023.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Thu, 12 Nov 2026 06:00:00 +0700",
-      "timestamp": 1794438000.0
     }
   ]
 }
