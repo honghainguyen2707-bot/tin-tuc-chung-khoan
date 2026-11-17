@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Blog chứng khoán: Thị trường “ẩm ương” đến bao giờ?",
+      "description": "Chuỗi ngày giao dịch mệt mỏi vạ vật vẫn đang tiếp diễn và đến hôm nay là phiên thứ 3 liên tiếp HSX khớp chưa tới 10k tỷ đồng không tính thỏa thuận. Không có sức ép nào dẫn đến bán tháo nhưng cũng không có động lực nào để “xuống tiền” mạnh tay hơn.",
+      "link": "https://vneconomy.vn/blog-chung-khoan-thi-truong-am-uong-den-bao-gio.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Tue, 17 Nov 2026 09:36:47 +0000",
+      "timestamp": 1794908207.0
+    },
+    {
+      "title": "Mảng năng lượng trở thành điểm sáng, PC1 được dự báo lãi gần 1.300 tỷ đồng năm 2027",
+      "description": "Sau 9 tháng đầu năm 2026, lợi nhuận sau thuế của Tập đoàn PC1 tăng 27% dù doanh thu giảm 15%. Động lực từ mảng năng lượng cùng sự cải thiện biên lợi nhuận được kỳ vọng giúp doanh nghiệp đạt lợi nhuận hơn 1.280 tỷ đồng trong năm 2027.",
+      "link": "https://cafef.vn/mang-nang-luong-tro-thanh-diem-sang-pc1-duoc-du-bao-lai-gan-1300-ty-dong-nam-2027-188261117153826278.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Tue, 17 Nov 2026 16:22:00 +0700",
+      "timestamp": 1794907320.0
+    },
+    {
+      "title": "Thủy sản Mekong thoái sạch vốn tại công ty liên kết duy nhất",
+      "description": "Ngày 16/11, CTCP Thủy sản Mekong (HOSE: AAM) công bố hoàn tất thoái toàn bộ vốn tại CTCP Vật liệu Xây dựng Motilen Cần Thơ, chấm dứt khoản đầu tư vào công ty liên kết duy nhất.",
+      "link": "http://vietstock.vn/2026/11/thuy-san-mekong-thoai-sach-von-tai-cong-ty-lien-ket-duy-nhat-737-1515466.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Tue, 17 Nov 2026 16:17:02 +0700",
+      "timestamp": 1794907022.0
+    },
+    {
+      "title": "Buồn của FPT",
+      "description": "Diễn biến trên càng đáng chú ý khi FPT từng là một trong những cổ phiếu tăng trưởng nổi bật nhất thị trường.",
+      "link": "https://cafef.vn/buon-cua-fpt-18826111716112616.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Tue, 17 Nov 2026 16:14:00 +0700",
+      "timestamp": 1794906840.0
+    },
+    {
+      "title": "Gần 2,5% vốn LPBank sang tay thỏa thuận trong một phiên",
+      "description": "Hơn 74 triệu cổ phiếu LPBank, tương đương 2,5% vốn nhà băng, vừa được sang tay bằng phương thức thỏa thuận tại gần giá sàn.",
+      "link": "https://vnexpress.net/gan-2-5-von-lpbank-sang-tay-thoa-thuan-trong-mot-phien-5145737.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Tue, 17 Nov 2026 16:01:26 +0700",
+      "timestamp": 1794906086.0
+    },
+    {
+      "title": "Phiên 17/11: Khối ngoại tiếp đà bán ròng, \"xả\" mạnh 2 cổ phiếu bluechips",
+      "description": "Giao dịch của khối ngoại là điểm trừ khi bán ròng với giá trị khoảng 383 tỷ đồng cổ phiếu trên toàn thị trường.",
+      "link": "https://cafef.vn/phien-17-11-khoi-ngoai-tiep-da-ban-rong-xa-manh-2-co-phieu-bluechips-1882611171539393.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Tue, 17 Nov 2026 15:45:00 +0700",
+      "timestamp": 1794905100.0
+    },
+    {
       "title": "Lý Nhã Kỳ: Tôi không chơi cổ phiếu",
       "description": "Từng góp gần 200 tỷ đồng vào một doanh nghiệp và sở hữu hàng loạt pháp nhân trong lĩnh vực bất động sản, nữ diễn viên Lý Nhã Kỳ lại từng tiết lộ chứng khoán không phải kênh đầu tư mà mình lựa chọn.",
       "link": "https://cafef.vn/ly-nha-ky-toi-khong-choi-co-phieu-188261117154309842.chn",
@@ -1161,18 +1209,18 @@
       "timestamp": 1794798000.0
     },
     {
-      "title": "“Cá mập\" Dragon Capital vừa bất ngờ gom hơn 17 triệu cổ phiếu một doanh nghiệp bất động sản",
-      "description": "Sau gần 4 tháng rời danh sách cổ đông lớn, Dragon Capital đã liên tiếp gia tăng sở hữu tại doanh nghiệp bất động sản này.",
-      "link": "https://cafef.vn/ca-map-dragon-capital-vua-bat-ngo-gom-hon-17-trieu-co-phieu-mot-doanh-nghiep-bat-dong-san-188261116094055277.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 16 Nov 2026 09:40:00 +0700",
-      "timestamp": 1794796800.0
-    },
-    {
       "title": "Chuyên gia đề xuất chứng khoán hóa nợ xấu, đưa lên thị trường đại chúng",
       "description": "Theo TS Nguyễn Tú Anh, muốn giảm lãi suất bền vững thì phải giảm được chi phí rủi ro của ngân hàng. Ông đề xuất VAMC chia nợ xấu thành các loại chứng khoán để bán trên thị trường đại chúng, cùng ba giải pháp khác cho bài toán vừa tăng trưởng nhanh, vừa ổn định vĩ mô.",
       "link": "https://cafef.vn/chuyen-gia-de-xuat-chung-khoan-hoa-no-xau-dua-len-thi-truong-dai-chung-188261116093610982.chn",
       "source": "CafeF - Ngân hàng",
+      "published": "Mon, 16 Nov 2026 09:40:00 +0700",
+      "timestamp": 1794796800.0
+    },
+    {
+      "title": "“Cá mập\" Dragon Capital vừa bất ngờ gom hơn 17 triệu cổ phiếu một doanh nghiệp bất động sản",
+      "description": "Sau gần 4 tháng rời danh sách cổ đông lớn, Dragon Capital đã liên tiếp gia tăng sở hữu tại doanh nghiệp bất động sản này.",
+      "link": "https://cafef.vn/ca-map-dragon-capital-vua-bat-ngo-gom-hon-17-trieu-co-phieu-mot-doanh-nghiep-bat-dong-san-188261116094055277.chn",
+      "source": "CafeF - Chứng khoán",
       "published": "Mon, 16 Nov 2026 09:40:00 +0700",
       "timestamp": 1794796800.0
     },
@@ -1236,7 +1284,7 @@
       "title": "Hơn 29 triệu cổ phiếu đổi chủ, Hapro xoay chuyển cục diện tư cách đại chúng",
       "description": "Sau khi Chứng khoán Asean và Ô tô Thành Công bán ra hơn 29 triệu cp HTM, Hapro (UPCoM: HTM) đã đáp ứng lại điều kiện công ty đại chúng từ ngày 29/10, hơn 2 tháng trước hạn chót UBCKNN đặt ra. Toàn bộ lượng cổ phiếu này về tay các nhà đầu tư nắm dưới 5% vốn, trong khi bên mua vẫn chưa được công bố.",
       "link": "http://vietstock.vn/2026/11/hon-29-trieu-co-phieu-doi-chu-hapro-xoay-chuyen-cuc-dien-tu-cach-dai-chung-830-1513088.htm",
-      "source": "Vietstock - Cổ phiếu",
+      "source": "Vietstock - Chứng khoán",
       "published": "Mon, 16 Nov 2026 08:02:00 +0700",
       "timestamp": 1794790920.0
     },
@@ -2351,54 +2399,6 @@
       "source": "VnEconomy - Chứng khoán",
       "published": "Fri, 13 Nov 2026 05:03:17 +0000",
       "timestamp": 1794546197.0
-    },
-    {
-      "title": "Thanh khoản lại “phá đáy”, VN30 lần đầu tiên khớp dưới 2.000 tỷ kể từ tháng 2/2025",
-      "description": "Dòng tiền gần như “đóng băng” trong phiên sáng nay khi sàn HoSE chỉ khớp chưa tới 3.432 tỷ đồng, giảm tiếp 20% so với mức rất thấp của phiên sáng hôm qua. Đặc biệt giao dịch tại nhóm blue-chips VN30 chỉ còn 1.551 tỷ đồng, giảm 25% và xuống mức thấp kỷ lục kể từ tháng 2/2025.",
-      "link": "https://vneconomy.vn/thanh-khoan-lai-pha-day-vn30-lan-dau-tien-khop-duoi-2000-ty-ke-tu-thang-22025.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Fri, 13 Nov 2026 05:00:23 +0000",
-      "timestamp": 1794546023.0
-    },
-    {
-      "title": "Phó Chủ tịch Lideco Đinh Quang Chiến liên tục gom hàng triệu cổ phiếu NTL",
-      "description": "Ba đợt mua vào trong chưa đầy 2 tháng đưa tỷ lệ sở hữu của ông Đinh Quang Chiến tại Lideco từ mức 16.2% lên 21.4%.",
-      "link": "http://vietstock.vn/2026/11/pho-chu-tich-lideco-dinh-quang-chien-lien-tuc-gom-hang-trieu-co-phieu-ntl-739-1514537.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Fri, 13 Nov 2026 12:00:00 +0700",
-      "timestamp": 1794546000.0
-    },
-    {
-      "title": "Hàng loạt thương vụ IPO được kỳ vọng ‘bom tấn’ lên sàn lại khiến nhà đầu tư thua lỗ: Chuyên gia chỉ thẳng 4 nguyên nhân",
-      "description": "Theo chuyên gia, định giá cao, tỷ lệ cổ phiếu tự do chuyển nhượng thấp và thiếu minh bạch quản trị đang khiến nhiều thương vụ IPO chưa đạt kỳ vọng, thậm chí khiến nhà đầu tư thua lỗ sau khi lên sàn.",
-      "link": "https://cafef.vn/hang-loat-thuong-vu-ipo-duoc-ky-vong-bom-tan-len-san-lai-khien-nha-dau-tu-thua-lo-chuyen-gia-chi-thang-4-nguyen-nhan-188261113100118746.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Fri, 13 Nov 2026 11:55:00 +0700",
-      "timestamp": 1794545700.0
-    },
-    {
-      "title": "Nhịp đập Thị trường 13/11: Nhóm ngân hàng nỗ lực giữ nhịp trước áp lực xả ròng FPT và VIC",
-      "description": "Thị trường bước vào nửa cuối phiên sáng ngày 13/11/2026 với diễn biến hồi phục dần khi chỉ số VN-Index thu hẹp đà giảm về mức 1,731.98 điểm, chỉ còn giảm nhẹ gần 3 điểm (-0.16%) so với mức sụt giảm 6.54 điểm tại thời điểm 9h30. Biên độ giao dịch toàn phiên dao động trong khoảng từ 1,724.23 điểm đến 1,732.24 điểm, đi kèm thanh khoản khớp lệnh gia tăng mạnh từ hơn 541 tỷ đồng lúc đầu phiên lên gần 2,065 tỷ đồng tại thời điểm 10h30.",
-      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-1311-nhom-ngan-hang-no-luc-giu-nhip-truoc-ap-luc-xa-rong-fpt-va-vic-1636-1514517.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Fri, 13 Nov 2026 11:45:00 +0700",
-      "timestamp": 1794545100.0
-    },
-    {
-      "title": "PDV muốn huy động gần 570 tỷ bổ sung vốn mua tàu, thách thức khi chào bán cao hơn thị giá",
-      "description": "CTCP Vận tải và Tiếp vận Phương Đông Việt (PVT Logistics, HOSE: PDV) thông báo chốt quyền mua cổ phiếu chào bán thêm ra công chúng cho cổ đông hiện hữu năm 2026. Ngày giao dịch không hưởng quyền là 23/11.",
-      "link": "http://vietstock.vn/2026/11/pdv-muon-huy-dong-gan-570-ty-bo-sung-von-mua-tau-thach-thuc-khi-chao-ban-cao-hon-thi-gia-764-1514519.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Fri, 13 Nov 2026 11:30:13 +0700",
-      "timestamp": 1794544213.0
-    },
-    {
-      "title": "Chủ tịch VSDC: Quỹ ngoại không chỉ quan tâm thị trường lên xuống, mà quan trọng là độ sâu và cơ chế quản trị rủi ro",
-      "description": "Thị trường muốn đủ hấp dẫn nhà đầu tư ngoại cần đảm bảo thanh khoản, độ sâu thị trường, dễ dàng mua bán và chất lượng sản phẩm trên thị trường. Nhà đầu tư cũng hướng tới mô hình đối tác bù trừ trung tâm (CCP), giao dịch thuận tiện qua các bên môi giới toàn cầu (global broker), cơ chế đặt lệnh từ xa và cơ chế ký quỹ giao dịch đối với các định chế bên ngoài.",
-      "link": "http://vietstock.vn/2026/11/chu-tich-vsdc-quy-ngoai-khong-chi-quan-tam-thi-truong-len-xuong-ma-quan-trong-la-do-sau-va-co-che-quan-tri-rui-ro-145-1514533.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Fri, 13 Nov 2026 11:28:05 +0700",
-      "timestamp": 1794544085.0
     }
   ]
 }
