@@ -1,12 +1,28 @@
 {
   "items": [
     {
+      "title": "Agribank cảnh báo khách hàng dùng Wi-Fi công cộng, chỉ rõ 6 thủ đoạn chiếm đoạt tiền trong tài khoản ngân hàng",
+      "description": "Theo Agribank, ngoài chiêu tráo chip ngay tại quầy, kẻ gian còn dựng website giả chỉ khác bản thật một ký tự để lấy số thẻ, CVV và mã OTP của khách hàng.",
+      "link": "https://cafef.vn/agribank-canh-bao-khach-hang-dung-wi-fi-cong-cong-chi-ro-6-thu-doan-chiem-doat-tien-trong-tai-khoan-ngan-hang-188261117065649844.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Tue, 17 Nov 2026 22:25:00 +0700",
+      "timestamp": 1794929100.0
+    },
+    {
       "title": "VN-Index giảm nhẹ, nhà đầu tư thận trọng chờ tín hiệu mới",
       "description": "VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường ngày 18/11/2026.",
       "link": "https://vneconomy.vn/vn-index-giam-nhe-nha-dau-tu-than-trong-cho-tin-hieu-moi.htm",
       "source": "VnEconomy - Chứng khoán",
       "published": "Tue, 17 Nov 2026 14:38:26 +0000",
       "timestamp": 1794926306.0
+    },
+    {
+      "title": "Lần đầu phát hành trái phiếu, TokenBay hút thành công 7,400 tỷ với lãi suất chỉ 5%/năm",
+      "description": "CTCP Đầu tư và Công nghệ Tokenbay thông báo đã hoàn tất phát hành lô trái phiếu mã TKBL12601 với tổng giá trị 7,400 tỷ đồng, lô trái phiếu được phát hành vào ngày 10/11, kỳ hạn 5 năm, đáo hạn vào 10/11/2031. Đáng chú ý, lãi suất áp dụng chỉ 5%/năm.",
+      "link": "http://vietstock.vn/2026/11/lan-dau-phat-hanh-trai-phieu-tokenbay-hut-thanh-cong-7400-ty-voi-lai-suat-chi-5nam-3118-1515641.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Tue, 17 Nov 2026 21:30:56 +0700",
+      "timestamp": 1794925856.0
     },
     {
       "title": "Nhà đầu tư khó tìm được một “hầm trú ẩn” thực sự vào thời điểm này",
@@ -2383,22 +2399,6 @@
       "source": "Vietstock - Doanh nghiệp",
       "published": "Fri, 13 Nov 2026 16:01:02 +0700",
       "timestamp": 1794560462.0
-    },
-    {
-      "title": "Chứng khoán 'xanh vỏ, đỏ lòng'",
-      "description": "VN-Index kịp lấy lại sắc xanh vào những phút cuối phiên nhờ cổ phiếu trụ, tăng gần 0,2 điểm, dù hơn một nửa cổ phiếu trên sàn HoSE giảm giá.",
-      "link": "https://vnexpress.net/chung-khoan-xanh-vo-do-long-5144356.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Fri, 13 Nov 2026 15:55:37 +0700",
-      "timestamp": 1794560137.0
-    },
-    {
-      "title": "Người nhà Tổng Giám đốc DIC Corp đã mua 1 triệu cổ phiếu DIG",
-      "description": "Bà Vũ Thị Thu Hương, vợ ông Nguyễn Quang Tín- Tổng Giám đốc của DIC Corp đã mua thành công 1 triệu cổ phiếu DIG như đăng ký.",
-      "link": "https://cafef.vn/nguoi-nha-tong-giam-doc-dic-corp-da-mua-1-trieu-co-phieu-dig-188261113150545165.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Fri, 13 Nov 2026 15:52:00 +0700",
-      "timestamp": 1794559920.0
     }
   ]
 }
