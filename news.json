@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Đề xuất nâng tiêu chí phân loại, xếp hạng ngân hàng",
+      "description": "Nhiều nội dung đáng chú ý trên được đưa ra tại dự thảo Thông tư sửa đổi, bổ sung một số điều của Thông tư số 21/2025/TT-NHNN ngày 31/7/2025 quy định xếp hạng tổ chức tín dụng, chi nhánh ngân hàng nước ngoài. Ngân hàng Nhà nước (NHNN) đề xuất nhiều thay đổi liên quan đến tiêu chí phân nhóm ngân hàng, đánh giá khả năng thanh khoản và mức độ an toàn vốn.",
+      "link": "https://cafef.vn/de-xuat-nang-tieu-chi-phan-loai-xep-hang-ngan-hang-188261118110912566.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Wed, 18 Nov 2026 13:08:00 +0700",
+      "timestamp": 1794982080.0
+    },
+    {
+      "title": "FPT thủng đáy, loạt CTCK đưa ra khuyến nghị bất ngờ",
+      "description": "Theo dự phóng của BSC, doanh thu thuần năm 2026 của FPT có thể đạt 55.774 tỷ đồng, tăng khoảng 10% so với cùng kỳ, trong khi lợi nhuận sau thuế thuộc cổ đông công ty mẹ đạt 10.647 tỷ đồng, tăng 13,6%.",
+      "link": "https://cafef.vn/fpt-thung-day-loat-ctck-dua-ra-khuyen-nghi-bat-ngo-188261118123609762.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Wed, 18 Nov 2026 13:07:00 +0700",
+      "timestamp": 1794982020.0
+    },
+    {
+      "title": "Quỹ ETF ngoại tiếp tục bán ròng",
+      "description": "Tuần 09-13/11/2026, quỹ VanEck Vectors Vietnam ETF (VNM ETF) tiếp đà bán ròng mạnh với các mã cổ phiếu có trong danh mục. Đây là tuần thứ 2 liên tiếp quỹ bán ròng sau 2 tuần ngắt quãng.",
+      "link": "http://vietstock.vn/2026/11/quy-etf-ngoai-tiep-tuc-ban-rong-3358-1515772.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Wed, 18 Nov 2026 12:57:20 +0700",
+      "timestamp": 1794981440.0
+    },
+    {
       "title": "Thị trường tiếp tục “tra tấn” tâm lý, khối ngoại bán ròng mạnh",
       "description": "Nhìn từ góc độ chỉ số, phiên giao dịch sáng nay vẫn duy trì trạng thái lình xình uể oải kéo dài nhiều ngày nay, nhưng từ góc độ cổ phiếu, đà giảm đang “xẻo” danh mục mạnh hơn: Số mã đỏ nhiều gấp 4,8 lần số xanh và 37% số mã có giao dịch giảm quá 1% giá trị.",
       "link": "https://vneconomy.vn/thi-truong-tiep-tuc-tra-tan-tam-ly-khoi-ngoai-ban-rong-manh.htm",
@@ -2375,30 +2399,6 @@
       "source": "VnExpress - Kinh doanh",
       "published": "Sat, 14 Nov 2026 09:35:20 +0700",
       "timestamp": 1794623720.0
-    },
-    {
-      "title": "Nasdaq giảm điểm vì cổ phiếu Nvidia vẫn bị xả, giá dầu hoàn tất tuần giảm do dấu hiệu thừa cung",
-      "description": "Dù vậy, chứng khoán Mỹ vẫn tăng điểm mạnh trong tuần này, còn giá dầu có tuần giảm thứ hai liên tiếp...",
-      "link": "https://vneconomy.vn/nasdaq-giam-diem-vi-co-phieu-nvidia-van-bi-xa-gia-dau-hoan-tat-tuan-giam-do-dau-hieu-thua-cung.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Sat, 14 Nov 2026 02:33:44 +0000",
-      "timestamp": 1794623624.0
-    },
-    {
-      "title": "Dấu ấn kinh tế thế giới tuần 8-14/11/2026: CEO Nvidia mất chức, Trung Quốc thặng dư thương mại hơn 1 nghìn tỷ USD, giá vàng giảm mạnh nhất 4 tháng",
-      "description": "Tuần này, vụ bê bối khiến ông Jensen Huang mất chức CEO hãng chế tạo chip Nvidia gây chấn động ngành công nghệ...",
-      "link": "https://vneconomy.vn/dau-an-kinh-te-the-gioi-tuan-8-14112026-ceo-nvidia-mat-chuc-trung-quoc-thang-du-thuong-mai-hon-1-nghin-ty-usd-gia-vang-giam-manh-nhat-4-thang.htm",
-      "source": "VnEconomy - Kinh tế thế giới",
-      "published": "Sat, 14 Nov 2026 02:32:41 +0000",
-      "timestamp": 1794623561.0
-    },
-    {
-      "title": "Hút 7.400 tỷ đồng trái phiếu với lãi suất chỉ 5%/năm, TokenBay đặt cược lớn vào sàn tài sản mã hóa",
-      "description": "TokenBay vừa hoàn tất phát hành lô trái phiếu trị giá 7.400 tỷ đồng, kỳ hạn 5 năm với mức lãi suất cố định 5%/năm. Đây là lần đầu tiên công ty công nghệ này huy động vốn qua kênh trái phiếu, với mục đích đầu tư góp vốn vào CTCP Sàn giao dịch Tài sản mã hóa Techcom (TCEX).",
-      "link": "https://cafef.vn/hut-7400-ty-dong-trai-phieu-voi-lai-suat-chi-5-nam-tokenbay-dat-cuoc-lon-vao-san-tai-san-ma-hoa-188261114085838216.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sat, 14 Nov 2026 09:32:00 +0700",
-      "timestamp": 1794623520.0
     }
   ]
 }
