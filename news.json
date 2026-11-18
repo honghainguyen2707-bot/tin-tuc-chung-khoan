@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "18/11: Đọc gì trước giờ giao dịch chứng khoán?",
+      "description": "Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay.",
+      "link": "http://vietstock.vn/2026/11/1811-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1515702.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Wed, 18 Nov 2026 06:02:00 +0700",
+      "timestamp": 1794956520.0
+    },
+    {
       "title": "Giá vàng SJC, vàng nhẫn trơn 9999 sáng ngày 18/11",
       "description": "Vàng miếng SJC tiếp tục được niêm yết ở mức 134,7 – 137,7 triệu đồng/lượng (mua vào – bán ra).",
       "link": "https://cafef.vn/gia-vang-sjc-vang-nhan-tron-9999-sang-ngay-18-11-188261118052841548.chn",
@@ -2391,14 +2399,6 @@
       "source": "CafeF - Ngân hàng",
       "published": "Fri, 13 Nov 2026 18:30:00 +0700",
       "timestamp": 1794569400.0
-    },
-    {
-      "title": "Chứng khoán Tuần 09-13/11/2026: Giằng co trong thận trọng",
-      "description": "VN-Index tiếp tục giằng co trong phiên cuối tuần và chưa cho thấy xu hướng rõ ràng khi dòng tiền vẫn phân hóa. Trong bối cảnh thiếu vắng động lực dẫn dắt, thị trường nhiều khả năng sẽ tiếp tục biến động thận trọng trong ngắn hạn.",
-      "link": "http://vietstock.vn/2026/11/chung-khoan-tuan-09-13112026-giang-co-trong-than-trong-1636-1514697.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Fri, 13 Nov 2026 18:17:00 +0700",
-      "timestamp": 1794568620.0
     }
   ]
 }
