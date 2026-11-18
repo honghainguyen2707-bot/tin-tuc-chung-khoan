@@ -1,10 +1,58 @@
 {
   "items": [
     {
+      "title": "Blog chứng khoán: Phái sinh vẫn hi vọng?",
+      "description": "Một phiên mở biên độ giảm dữ dội xuất phát từ sự giải tỏa ức chế theo hướng tiêu cực. Thanh khoản không cao do bên cầm tiền cũng chẳng việc gì phải vội.",
+      "link": "https://vneconomy.vn/blog-chung-khoan-phai-sinh-van-hi-vong.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Wed, 18 Nov 2026 09:14:31 +0000",
+      "timestamp": 1794993271.0
+    },
+    {
+      "title": "Nhịp đập Thị trường 18/11: Khối ngoại tiếp tục bán ròng mạnh, VN-Index về sát mốc 1,700 điểm",
+      "description": "Kết thúc phiên giao dịch, VN-Index giảm 23.71 điểm (-1.37%), xuống mức 1,703.01 điểm; HNX-Index giảm 5.87 điểm (-2.36%), xuống mức 242.73 điểm. Độ rộng toàn thị trường với sắc đỏ áp đảo khi bên bán có 539 mã giảm và bên mua có 172 mã tăng. Tương tự, sắc đỏ áp đảo trong rổ VN30 với 26 mã giảm, 2 mã tăng và 2 mã tham chiếu.",
+      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-1811-khoi-ngoai-tiep-tuc-ban-rong-manh-vn-index-ve-sat-moc-1700-diem-1636-1515740.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Wed, 18 Nov 2026 16:02:00 +0700",
+      "timestamp": 1794992520.0
+    },
+    {
+      "title": "Gánh nặng nợ công ở các nước giàu làm gia tăng sức ép lên các nước nghèo",
+      "description": "Mức nợ công lớn ở các nước giàu đang dẫn tới việc chi phí vay vốn của các nước nghèo ngày càng đắt đỏ, trong bối cảnh lãi suất cao và các cú sốc toàn cầu liên tiếp...",
+      "link": "https://vneconomy.vn/ganh-nang-no-cong-o-cac-nuoc-giau-lam-gia-tang-suc-ep-len-cac-nuoc-ngheo.htm",
+      "source": "VnEconomy - Kinh tế thế giới",
+      "published": "Wed, 18 Nov 2026 08:59:27 +0000",
+      "timestamp": 1794992367.0
+    },
+    {
+      "title": "VN-Index giảm hơn 23 điểm",
+      "description": "Nhà đầu tư nước ngoài xả hàng ồ ạt ở các mã trụ của ngành ngân hàng khiến VN-Index giảm hơn 23 điểm, xuống sát mốc tâm lý 1.700 điểm.",
+      "link": "https://vnexpress.net/vn-index-giam-hon-23-diem-5146202.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Wed, 18 Nov 2026 15:53:57 +0700",
+      "timestamp": 1794992037.0
+    },
+    {
+      "title": "Giải áp lực vốn trung, dài hạn từ thị trường trái phiếu",
+      "description": "Năm 2026 là năm mở đầu giai đoạn phát triển kinh tế-xã hội 2026-2030, đồng thời đặt ra yêu cầu huy động nguồn lực rất lớn để thực hiện các mục tiêu phát triển kết cấu hạ tầng chiến lược, khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số quốc gia và phát triển kinh tế tư nhân. Nhu cầu vốn lớn đặt ra yêu cầu phát triển thị trường trái phiếu cả về quy mô và chất lượng.",
+      "link": "https://cafef.vn/giai-ap-luc-von-trung-dai-han-tu-thi-truong-trai-phieu-188261118144846663.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Wed, 18 Nov 2026 15:48:00 +0700",
+      "timestamp": 1794991680.0
+    },
+    {
       "title": "Khối ngoại thẳng tay bán ròng hơn 1.100 tỷ đồng trong ngày VN-Index giảm sâu, \"xả\" mạnh loạt cổ phiếu hot",
       "description": "Ở chiều mua, khối ngoại rót ròng 42 tỷ đồng vào KDH, gần gấp đôi mã đứng kế tiếp là FRT.",
       "link": "https://cafef.vn/khoi-ngoai-thang-tay-ban-rong-hon-1100-ty-dong-trong-ngay-vn-index-giam-sau-xa-manh-loat-co-phieu-hot-18826111815273573.chn",
       "source": "CafeF - Chứng khoán",
+      "published": "Wed, 18 Nov 2026 15:45:00 +0700",
+      "timestamp": 1794991500.0
+    },
+    {
+      "title": "BQP sắp trả cổ tức tăng vốn lên gần 200 tỷ, tiếp tục kế hoạch niêm yết trên HOSE",
+      "description": "CTCP Nhựa Chất lượng cao Bình Thuận (UPCoM: BQP) thông báo phát hành cổ phiếu để trả cổ tức năm 2025. Ngày giao dịch không hưởng quyền là 30/11.",
+      "link": "http://vietstock.vn/2026/11/bqp-sap-tra-co-tuc-tang-von-len-gan-200-ty-tiep-tuc-ke-hoach-niem-yet-tren-hose-738-1515805.htm",
+      "source": "Vietstock - Doanh nghiệp",
       "published": "Wed, 18 Nov 2026 15:45:00 +0700",
       "timestamp": 1794991500.0
     },
@@ -2351,54 +2399,6 @@
       "source": "Vietstock - Doanh nghiệp",
       "published": "Sat, 14 Nov 2026 15:07:19 +0700",
       "timestamp": 1794643639.0
-    },
-    {
-      "title": "SHB được Forbes Việt Nam vinh danh trong Top 10 thương hiệu dẫn đầu năm 2026",
-      "description": "Ngày 12/11, tại lễ vinh danh 50 thương hiệu dẫn đầu năm 2026 do Forbes Việt Nam tổ chức, Ngân hàng TMCP Sài Gòn – Hà Nội (SHB) được xướng tên ở vị trí thứ 10 trong bảng xếp hạng, với giá trị thương hiệu đạt 836 triệu USD.",
-      "link": "https://cafef.vn/shb-duoc-forbes-viet-nam-vinh-danh-trong-top-10-thuong-hieu-dan-dau-nam-2026-188261114124719999.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Sat, 14 Nov 2026 13:30:00 +0700",
-      "timestamp": 1794637800.0
-    },
-    {
-      "title": "Bộ Quốc phòng tính thu gọn doanh nghiệp, vốn đang nằm ở đâu?",
-      "description": "Bộ Quốc phòng đề xuất giảm hơn 60% số doanh nghiệp có vốn Nhà nước giai đoạn 2026-2030. Những đầu mối như Viettel, Tân Cảng Sài Gòn cùng các cổ đông tại MB đang quản lý các khoản vốn quy mô lớn.",
-      "link": "http://vietstock.vn/2026/11/bo-quoc-phong-tinh-thu-gon-doanh-nghiep-von-dang-nam-o-dau-746-1512888.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Sat, 14 Nov 2026 13:02:00 +0700",
-      "timestamp": 1794636120.0
-    },
-    {
-      "title": "Các quỹ đầu tư rút tiền khỏi chứng khoán Việt Nam, tài sản ròng giảm 8.600 tỷ đồng",
-      "description": "Việc phần lớn dòng tiền rút ròng tập trung ở các quỹ ngoại cho thấy áp lực rút vốn không chỉ xuất phát từ biến động ngắn hạn của thị trường trong nước mà còn phản ánh xu hướng điều chỉnh danh mục của các nhà đầu tư nước ngoài.",
-      "link": "https://vneconomy.vn/cac-quy-dau-tu-rut-tien-khoi-chung-khoan-viet-nam-tai-san-rong-giam-8600-ty-dong.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Sat, 14 Nov 2026 05:43:29 +0000",
-      "timestamp": 1794635009.0
-    },
-    {
-      "title": "Con gái Chủ tịch Thép Nam Kim đăng ký mua hàng triệu cổ phiếu NKG",
-      "description": "Bà Hồ Uyển Nhi, con gái Chủ tịch HĐQT Thép Nam Kim (HOSE: NKG) Hồ Minh Quang, vừa đăng ký mua 5 triệu cổ phiếu NKG. Trước đó, hồi giữa năm nay, ông Hồ Minh Phát, một người con khác của ông Quang, cũng đã thực hiện giao dịch với quy mô tương tự.",
-      "link": "http://vietstock.vn/2026/11/con-gai-chu-tich-thep-nam-kim-dang-ky-mua-hang-trieu-co-phieu-nkg-739-1514941.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Sat, 14 Nov 2026 12:39:46 +0700",
-      "timestamp": 1794634786.0
-    },
-    {
-      "title": "Khang Điền 'rót' thêm 2.500 tỷ đồng vào công ty con",
-      "description": "Khang Điền vừa thông qua việc tăng tổng vốn đầu tư dự án Khu nhà ở 11A tại TP.HCM lên gần 12.948 tỷ đồng, đồng thời dự kiến góp thêm 2.500 tỷ đồng vào chủ đầu tư dự án này.",
-      "link": "https://cafef.vn/khang-dien-rot-them-2500-ty-dong-vao-cong-ty-con-188261114103943736.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sat, 14 Nov 2026 12:39:00 +0700",
-      "timestamp": 1794634740.0
-    },
-    {
-      "title": "FECON trúng hàng nghìn tỷ đồng hợp đồng, hiện còn những gói thầu nào với các ông lớn?",
-      "description": "FECON từng ghi dấu ấn với nhiều hợp đồng thi công nền móng, cọc và hạ tầng. Tuy nhiên, trong danh mục nguồn việc mới, gần như vắng bóng một số dự án lớn.",
-      "link": "https://cafef.vn/fecon-trung-hang-nghin-ty-dong-hop-dong-hien-con-nhung-goi-thau-nao-voi-cac-ong-lon-188261114115755932.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sat, 14 Nov 2026 12:07:00 +0700",
-      "timestamp": 1794632820.0
     }
   ]
 }
