@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "Ông Đặng Lê Nguyên Vũ bán nhà tại Thành phố Cà phê: Tặng kim cương 5 ly trị giá 70 triệu đồng cho khách hàng, hỗ trợ lãi suất 0%",
+      "description": "Trung Nguyên Legend của ông Đặng Lê Nguyên Vũ vừa tung ra loạt chính sách hỗ trợ tài chính dành cho khách hàng mua bất động sản tại Khu đô thị Thành phố Cà phê (Buôn Ma Thuột, Đắk Lắk).",
+      "link": "https://cafef.vn/ong-dang-le-nguyen-vu-ban-nha-tai-thanh-pho-ca-phe-tang-kim-cuong-5-ly-tri-gia-70-trieu-dong-cho-khach-hang-ho-tro-lai-suat-0-188261119101806263.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Thu, 19 Nov 2026 12:19:00 +0700",
+      "timestamp": 1795065540.0
+    },
+    {
+      "title": "Dòng tiền vẫn dửng dưng, VN-Index có nguy cơ thủng đáy",
+      "description": "Thanh khoản sàn HoSE sáng nay tăng nhẹ khoảng 6% so với sáng hôm qua nhưng chủ yếu là nhờ hoạt động bán tháo mạnh ở FPT, VIC cùng một số blue-chips khác. Giá các cổ phiếu càng giảm mạnh thanh khoản càng lớn cho thấy sức ép vẫn chưa nhẹ đi.",
+      "link": "https://vneconomy.vn/dong-tien-van-dung-dung-vn-index-co-nguy-co-thung-day.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Thu, 19 Nov 2026 05:00:13 +0000",
+      "timestamp": 1795064413.0
+    },
+    {
+      "title": "Lãi suất ngân hàng: Trái phiếu neo cao, tiết kiệm hạ nhiệt",
+      "description": "Trong khi lãi suất tiền gửi tiết kiệm có xu hướng giảm từ 0,5-1%/năm nhiều ngân hàng vẫn huy động vốn qua kênh trái phiếu với mức lãi suất 9-10%/năm. Diễn biến này cho thấy nhu cầu bổ sung nguồn vốn trung và dài hạn của các nhà băng vẫn rất lớn, trong bối cảnh áp lực cân đối nguồn vốn và nhu cầu tín dụng gia tăng.",
+      "link": "https://cafef.vn/lai-suat-ngan-hang-trai-phieu-neo-cao-tiet-kiem-ha-nhiet-188261119112330236.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Thu, 19 Nov 2026 11:50:00 +0700",
+      "timestamp": 1795063800.0
+    },
+    {
+      "title": "Cổ đông Vietcombank, VietinBank và BIDV mất hơn 133.000 tỷ từ đầu năm: Giá trị 3 ngân hàng lớn nhất Việt Nam không bằng một nửa Vingroup dù vốn chủ sở hữu gấp 3 lần, tài sản gấp 6 lần",
+      "description": "Từ đầu năm 2026 đến nay, tổng vốn hóa của Vietcombank, VietinBank và BIDV đã giảm hơn 133.000 tỷ đồng, trái ngược với mức tăng gần 600.000 tỷ đồng của Vingroup. Sự phân hóa này khiến tổng giá trị thị trường của ba ngân hàng quốc doanh lớn nhất sàn chứng khoán hiện chưa bằng một nửa Vingroup, dù sở hữu tổng tài sản và vốn chủ sở hữu vượt xa tập đoàn này.",
+      "link": "https://cafef.vn/co-dong-vietcombank-vietinbank-va-bidv-mat-hon-133000-ty-tu-dau-nam-gia-tri-3-ngan-hang-lon-nhat-viet-nam-khong-bang-mot-nua-vingroup-du-von-chu-so-huu-gap-3-lan-tai-san-gap-6-lan-188261119115254646.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Thu, 19 Nov 2026 11:45:00 +0700",
+      "timestamp": 1795063500.0
+    },
+    {
+      "title": "Nhịp đập Thị trường 19/11: Áp lực gia tăng khiến VN-Index giảm nhanh chóng",
+      "description": "Áp lực duy trì khiến VN-Index chứng kiến nhịp giảm nhanh chóng từ trên 1,700 điểm về dưới 1,684 điểm.",
+      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-1911-ap-luc-gia-tang-khien-vn-index-giam-nhanh-chong-1636-1516045.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Thu, 19 Nov 2026 11:37:00 +0700",
+      "timestamp": 1795063020.0
+    },
+    {
+      "title": "SBT dự kiến chào bán 1,000 tỷ đồng trái phiếu ra công chúng để cơ cấu nợ vay",
+      "description": "HĐQT CTCP Thành Thành Công - Biên Hòa (HOSE: SBT) thông qua chào bán tối đa 1,000 tỷ đồng trái phiếu ra công chúng, chia làm 2 đợt trong năm 2027. Toàn bộ nguồn vốn huy động nhằm thanh toán nợ gốc cho các khoản vay tại ngân hàng trong nước và nhóm tổ chức tín dụng nước ngoài.",
+      "link": "http://vietstock.vn/2026/11/sbt-du-kien-chao-ban-1000-ty-dong-trai-phieu-ra-cong-chung-de-co-cau-no-vay-3118-1516051.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Thu, 19 Nov 2026 11:34:00 +0700",
+      "timestamp": 1795062840.0
+    },
+    {
+      "title": "Thêm doanh nghiệp nhóm Sunshine huy động 540 tỷ đồng trái phiếu lãi suất 12.5%/năm",
+      "description": "Công ty TNHH Phú Thịnh Land vừa hoàn tất phát hành lô trái phiếu 540 tỷ đồng kỳ hạn 5 năm. Theo đó, các doanh nghiệp nhóm Sunshine đã huy động ít nhất 5,040 tỷ đồng trái phiếu từ đầu năm 2026",
+      "link": "http://vietstock.vn/2026/11/them-doanh-nghiep-nhom-sunshine-huy-dong-540-ty-dong-trai-phieu-lai-suat-125nam-3118-1516054.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Thu, 19 Nov 2026 11:22:54 +0700",
+      "timestamp": 1795062174.0
+    },
+    {
+      "title": "Hơn 17,355 tỷ đồng cổ phiếu LPB được 'sang tay' chỉ trong 12 phiên",
+      "description": "Phiên 18/11 ghi nhận hơn 80 triệu cp của Ngân hàng TMCP Lộc Phát Việt Nam (LPBank, HOSE: LPB) được giao dịch thỏa thuận với giá trị hơn 2,736 tỷ đồng, tương đương giá thỏa thuận bình quân 34,200 đồng/cp.",
+      "link": "http://vietstock.vn/2026/11/hon-17355-ty-dong-co-phieu-lpb-duoc-sang-tay-chi-trong-12-phien-830-1516048.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Thu, 19 Nov 2026 11:08:42 +0700",
+      "timestamp": 1795061322.0
+    },
+    {
+      "title": "Đâu là “cỗ máy kiếm tiền” tốt nhất trong nhóm VN30?",
+      "description": "Bức tranh kinh doanh quý 3/2026 của nhóm doanh nghiệp phi tài chính VN30 nhìn chung khá tích cực, với cả doanh thu và lợi nhuận đều tăng trưởng mạnh so với cùng kỳ. Đáng chú ý, VIC vươn lên dẫn đầu ở cả hai bảng xếp hạng doanh thu và lợi nhuận.",
+      "link": "http://vietstock.vn/2026/11/dau-la-co-may-kiem-tien-tot-nhat-trong-nhom-vn30-737-1514939.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Thu, 19 Nov 2026 11:02:00 +0700",
+      "timestamp": 1795060920.0
+    },
+    {
+      "title": "Dệt may quý 3/2026: Lợi nhuận tăng tốc, bức tranh kinh doanh phân hóa rõ nét",
+      "description": "Nhờ thị trường cải thiện, ngành dệt may quý 3/2026 ghi nhận lợi nhuận bứt phá nhanh hơn doanh thu, nâng đà tăng trưởng cả 9 tháng dù bức tranh kinh doanh giữa các nhóm doanh nghiệp vẫn phân hóa rõ nét.",
+      "link": "http://vietstock.vn/2026/11/det-may-quy-32026-loi-nhuan-tang-toc-buc-tranh-kinh-doanh-phan-hoa-ro-net-737-1514914.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Thu, 19 Nov 2026 11:02:00 +0700",
+      "timestamp": 1795060920.0
+    },
+    {
       "title": "Giá vàng bốc hơi hơn 30% từ đỉnh, chuyên gia chỉ ra tín hiệu tạo đáy quan trọng",
       "description": "Các chuyên gia tại Heraeus cho rằng đợt lao dốc gần đây của giá vàng đã tái khẳng định mối tương quan nghịch đảo giữa kim loại quý này và lợi suất thực. Để xác lập một vùng đáy bền vững, thị trường cần thêm những tín hiệu quan trọng từ chính sách tiền tệ của Fed.",
       "link": "https://cafef.vn/gia-vang-boc-hoi-hon-30-tu-dinh-chuyen-gia-chi-ra-tin-hieu-tao-day-quan-trong-188261119104559267.chn",
@@ -95,6 +175,14 @@
       "source": "Vietstock - Chứng khoán",
       "published": "Thu, 19 Nov 2026 10:00:00 +0700",
       "timestamp": 1795057200.0
+    },
+    {
+      "title": "Giá vàng miếng xuống dưới 137 triệu đồng",
+      "description": "Sau khi giá thế giới lao dốc, các thương hiệu trong nước cũng hạ giá bán vàng miếng 500.000 đồng so với hôm qua, còn 136,7 triệu đồng một lượng.",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-19-11-5146410.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Thu, 19 Nov 2026 09:57:19 +0700",
+      "timestamp": 1795057039.0
     },
     {
       "title": "Hàng không quý 3/2026: Hãng bay lãi mỏng, doanh nghiệp dịch vụ phân hóa mạnh",
@@ -1068,7 +1156,7 @@
       "title": "Vietstock Daily 18/11/2026: Áp lực điều chỉnh gia tăng?",
       "description": "VN-Index tiếp tục giằng co dưới đường Middle của Bollinger Bands trong bối cảnh khối lượng giao dịch duy trì dưới mức trung bình 20 phiên. Chỉ báo Stochastic Oscillator đã đảo chiều và cắt xuống đường signal nên rủi ro ngắn hạn đang gia tăng.",
       "link": "http://vietstock.vn/2026/11/vietstock-daily-18112026-ap-luc-dieu-chinh-gia-tang-1636-1515598.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Tue, 17 Nov 2026 18:07:23 +0700",
       "timestamp": 1794913643.0
     },
@@ -1076,7 +1164,7 @@
       "title": "Quỹ ngoại Principal Global Investors điều chỉnh sở hữu tại ACB",
       "description": "Ngân hàng TMCP Á Châu (HOSE: ACB) vừa công bố danh sách cổ đông sở hữu từ 1% vốn điều lệ trở lên.",
       "link": "http://vietstock.vn/2026/11/quy-ngoai-principal-global-investors-dieu-chinh-so-huu-tai-acb-830-1515581.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Tue, 17 Nov 2026 18:00:26 +0700",
       "timestamp": 1794913226.0
     },
@@ -2311,94 +2399,6 @@
       "source": "CafeF - Ngân hàng",
       "published": "Mon, 16 Nov 2026 10:45:00 +0700",
       "timestamp": 1794800700.0
-    },
-    {
-      "title": "Bia Sài Gòn - Miền Trung sắp chi 60 tỷ tạm ứng cổ tức",
-      "description": "CTCP Bia Sài Gòn - Miền Trung (HOSE: SMB) thông báo chốt quyền trả tạm ứng cổ tức năm 2026. Ngày giao dịch không hưởng quyền là 23/11.",
-      "link": "http://vietstock.vn/2026/11/bia-sai-gon-mien-trung-sap-chi-60-ty-tam-ung-co-tuc-738-1515004.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Mon, 16 Nov 2026 10:32:00 +0700",
-      "timestamp": 1794799920.0
-    },
-    {
-      "title": "Giá vàng bạc 16/11: Vàng giảm xuống thấp nhất năm 2026, cập nhật mới nhất của Phú Quý, SJC, Doji",
-      "description": "Vàng miếng SJC và vàng nhẫn 9999 hiện đang ở vùng giá thấp nhất ghi nhận được kể từ đầu năm 2026 đến nay.",
-      "link": "https://cafef.vn/gia-vang-bac-16-11-vang-giam-xuong-thap-nhat-nam-2026-cap-nhat-moi-nhat-cua-phu-quy-sjc-doji-18826111610032241.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 16 Nov 2026 10:23:00 +0700",
-      "timestamp": 1794799380.0
-    },
-    {
-      "title": "Những cổ phiếu nào đang bị cắt margin trên HoSE?",
-      "description": "Danh sách mới nhất của HOSE có tổng cộng 70 mã chứng khoán không đủ điều kiện giao dịch ký quỹ (margin).",
-      "link": "https://cafef.vn/nhung-co-phieu-nao-dang-bi-cat-margin-tren-hose-188261116101337546.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 16 Nov 2026 10:13:00 +0700",
-      "timestamp": 1794798780.0
-    },
-    {
-      "title": "Novaland chuyển đổi 16 trái phiếu quốc tế với giá 34.000 đồng/cổ phiếu, gấp 3,4 lần giá thị trường",
-      "description": "Novaland vừa thông qua việc chuyển đổi 16 trái phiếu quốc tế thành gần 2,8 triệu cổ phiếu NVL với giá 34.000 đồng/cổ phiếu, cao gấp 3,4 lần thị giá trên sàn. Động thái này diễn ra trong bối cảnh doanh nghiệp tiếp tục tái cấu trúc nợ và triển khai các giải pháp củng cố nguồn lực tài chính.",
-      "link": "https://cafef.vn/novaland-chuyen-doi-16-trai-phieu-quoc-te-voi-gia-34000-dong-co-phieu-gap-34-lan-gia-thi-truong-188261116100715341.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 16 Nov 2026 10:07:00 +0700",
-      "timestamp": 1794798420.0
-    },
-    {
-      "title": "Một sự kiện quan trọng trong tháng 12 có thể tác động mạnh đến chứng khoán",
-      "description": "MBS cũng lưu ý rằng dù quý IV, đặc biệt là tháng 11 và tháng 12, thường là giai đoạn thuận lợi đối với thị trường cổ phiếu, yếu tố mùa vụ không phải lúc nào cũng đủ sức đảo ngược xu hướng.",
-      "link": "https://cafef.vn/mot-su-kien-quan-trong-trong-thang-12-co-the-tac-dong-manh-den-chung-khoan-188261116095702147.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 16 Nov 2026 10:06:00 +0700",
-      "timestamp": 1794798360.0
-    },
-    {
-      "title": "Giá bán giảm sâu, ngành đường đi lùi trong quý 3",
-      "description": "Trong quý 3/2026, tổng doanh thu của 5 doanh nghiệp mía đường trên sàn chứng khoán tăng 32% so với cùng kỳ, nhưng lãi ròng giảm 6%. Kết quả kinh doanh phân hóa rõ nét khi QNS duy trì tăng trưởng, trong khi SBT, SLS và KTS đều ghi nhận lợi nhuận suy giảm.",
-      "link": "http://vietstock.vn/2026/11/gia-ban-giam-sau-nganh-duong-di-lui-trong-quy-3-737-1514541.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Mon, 16 Nov 2026 10:02:00 +0700",
-      "timestamp": 1794798120.0
-    },
-    {
-      "title": "Tuần 16-20/11/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-      "description": "Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: ACB, CTD, EIB, GEX, HDB, KDH, STB, SHB, VNM, VCB.",
-      "link": "http://vietstock.vn/2026/11/tuan-16-20112026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1514889.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Mon, 16 Nov 2026 10:00:00 +0700",
-      "timestamp": 1794798000.0
-    },
-    {
-      "title": "Chuyên gia đề xuất chứng khoán hóa nợ xấu, đưa lên thị trường đại chúng",
-      "description": "Theo TS Nguyễn Tú Anh, muốn giảm lãi suất bền vững thì phải giảm được chi phí rủi ro của ngân hàng. Ông đề xuất VAMC chia nợ xấu thành các loại chứng khoán để bán trên thị trường đại chúng, cùng ba giải pháp khác cho bài toán vừa tăng trưởng nhanh, vừa ổn định vĩ mô.",
-      "link": "https://cafef.vn/chuyen-gia-de-xuat-chung-khoan-hoa-no-xau-dua-len-thi-truong-dai-chung-188261116093610982.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Mon, 16 Nov 2026 09:40:00 +0700",
-      "timestamp": 1794796800.0
-    },
-    {
-      "title": "“Cá mập\" Dragon Capital vừa bất ngờ gom hơn 17 triệu cổ phiếu một doanh nghiệp bất động sản",
-      "description": "Sau gần 4 tháng rời danh sách cổ đông lớn, Dragon Capital đã liên tiếp gia tăng sở hữu tại doanh nghiệp bất động sản này.",
-      "link": "https://cafef.vn/ca-map-dragon-capital-vua-bat-ngo-gom-hon-17-trieu-co-phieu-mot-doanh-nghiep-bat-dong-san-188261116094055277.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 16 Nov 2026 09:40:00 +0700",
-      "timestamp": 1794796800.0
-    },
-    {
-      "title": "Chuyên gia đề xuất chứng khoán hóa nợ xấu, đưa lên thị trường đại chúng để tất cả mọi người đều góp tay vào",
-      "description": "Theo TS Nguyễn Tú Anh, muốn giảm lãi suất bền vững thì phải giảm được chi phí rủi ro của ngân hàng. Ông đề xuất VAMC chia nợ xấu thành các loại chứng khoán để bán trên thị trường đại chúng, cùng ba giải pháp khác cho bài toán vừa tăng trưởng nhanh, vừa ổn định vĩ mô.",
-      "link": "https://cafef.vn/chuyen-gia-de-xuat-chung-khoan-hoa-no-xau-dua-len-thi-truong-dai-chung-de-tat-ca-moi-nguoi-deu-gop-tay-vao-188261116093610982.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Mon, 16 Nov 2026 09:40:00 +0700",
-      "timestamp": 1794796800.0
-    },
-    {
-      "title": "CMC hạ nửa tỷ lệ cổ tức năm 2025 xuống 17%",
-      "description": "CTCP Đầu tư CMC (HNX: CMC) thông báo chốt quyền trả cổ tức năm 2025 bằng cổ phiếu cho cổ đông. Ngày giao dịch không hưởng quyền là 20/11.",
-      "link": "http://vietstock.vn/2026/11/cmc-ha-nua-ty-le-co-tuc-nam-2025-xuong-17-738-1514690.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Mon, 16 Nov 2026 09:33:45 +0700",
-      "timestamp": 1794796425.0
     }
   ]
 }
