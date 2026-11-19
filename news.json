@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Chiến lược phòng vệ tỷ giá cho doanh nghiệp mùa cuối năm",
+      "description": "Tỷ giá biến động trong quý IV/2026 đang gây sức ép lên giá vốn của doanh nghiệp xuất nhập khẩu. Chỉ cần tỷ giá nhích 1–2% đúng ngày đến hạn thanh toán, biên lợi nhuận của cả một lô hàng có thể bị xóa sạch.",
+      "link": "https://cafef.vn/chien-luoc-phong-ve-ty-gia-cho-doanh-nghiep-mua-cuoi-nam-188261119184026758.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Thu, 19 Nov 2026 19:30:00 +0700",
+      "timestamp": 1795091400.0
+    },
+    {
+      "title": "SHB dẫn đầu ngành Ngân hàng tại bảng xếp hạng Nơi làm việc tốt nhất Việt Nam 2026",
+      "description": "Theo kết quả khảo sát Nơi Làm Việc Tốt Nhất Việt Nam 2026 do Anphabe công bố tối 18/11, Ngân hàng TMCP Sài Gòn – Hà Nội (SHB) lần đầu tiên vươn lên vị trí số 1 ngành Ngân hàng trong Khối Doanh nghiệp vừa, đồng thời thuộc TOP 30 trong danh sách 100 Nơi Làm Việc Tốt Nhất Việt Nam 2026 cùng nhóm.",
+      "link": "https://cafef.vn/shb-dan-dau-nganh-ngan-hang-tai-bang-xep-hang-noi-lam-viec-tot-nhat-viet-nam-2026-18826111918395378.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Thu, 19 Nov 2026 19:30:00 +0700",
+      "timestamp": 1795091400.0
+    },
+    {
+      "title": "VN-Index mất mốc 1.700 điểm, thanh khoản xuống thấp",
+      "description": "Thị trường chứng khoán tiếp tục chìm trong sắc đỏ khi áp lực bán gia tăng trong phiên đáo hạn phái sinh. VN-Index mất mốc 1.700 điểm, xuống mức thấp nhất trong 1 tháng, trong khi thanh khoản suy yếu và khối ngoại bán ròng hơn 1.000 tỷ đồng.",
+      "link": "https://cafef.vn/vn-index-mat-moc-1700-diem-thanh-khoan-xuong-thap-188261119175602007.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Thu, 19 Nov 2026 18:43:00 +0700",
+      "timestamp": 1795088580.0
+    },
+    {
+      "title": "F88 nhận liên tiếp 3 giải thưởng về môi trường làm việc xuất sắc",
+      "description": "Trong lễ công bố ngày 18/11 tại TPHCM, F88 tiếp tục được Anphabe vinh danh trong Top 100 Nơi Làm Việc Tốt Nhất Việt Nam, xếp thứ 4 trong nhóm doanh nghiệp quy mô vừa thuộc ngành Dịch vụ tài chính, tăng 2 bậc so với năm 2025.",
+      "link": "http://vietstock.vn/2026/11/f88-nhan-lien-tiep-3-giai-thuong-ve-moi-truong-lam-viec-xuat-sac-737-1516263.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Thu, 19 Nov 2026 18:15:00 +0700",
+      "timestamp": 1795086900.0
+    },
+    {
       "title": "Vietstock Daily 20/11/2026: Chưa tìm thấy điểm tựa?",
       "description": "VN-Index ghi nhận phiên giảm thứ 3 liên tiếp và bám vào Lower Band của Bollinger Bands. Triển vọng ngắn hạn gặp nhiều khó khăn khi các chỉ báo Stochastic Oscillator và MACD tiếp tục suy yếu sau khi cắt xuống dưới đường signal. Đáy cũ tháng 7/2026 (tương đương 1,650-1,680 điểm) sẽ là vùng hỗ trợ đáng chú ý trong những phiên tới.",
       "link": "http://vietstock.vn/2026/11/vietstock-daily-20112026-chua-tim-thay-diem-tua-1636-1516231.htm",
@@ -23,6 +55,14 @@
       "source": "Vietstock - Doanh nghiệp",
       "published": "Thu, 19 Nov 2026 17:57:27 +0700",
       "timestamp": 1795085847.0
+    },
+    {
+      "title": "Sovico hợp tác ngân hàng Mizuho thúc đẩy kết nối tài chính",
+      "description": "Tập đoàn Sovico và ngân hàng Mizuho (Nhật Bản) ký thỏa thuận hợp tác, hướng đến mở rộng cơ hội đầu tư, kết nối thị trường vốn và phát triển tài chính bền vững.",
+      "link": "https://vnexpress.net/sovico-hop-tac-ngan-hang-mizuho-thuc-day-ket-noi-tai-chinh-5146715.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Thu, 19 Nov 2026 17:30:00 +0700",
+      "timestamp": 1795084200.0
     },
     {
       "title": "Chỉ nửa năm, Mai Linh giảm nhân sự từ 5,500 còn 120 người",
@@ -242,7 +282,7 @@
     },
     {
       "title": "Giá trị 3 ngân hàng lớn nhất Việt Nam không bằng một nửa Vingroup",
-      "description": "Từ đầu năm 2026 đến nay, tổng vốn hóa của Vietcombank, VietinBank và BIDV đã giảm hơn 133.000 tỷ đồng, trái ngược với mức tăng gần 600.000 tỷ đồng của Vingroup. Sự phân hóa này khiến tổng giá trị thị trường của ba ngân hàng quốc doanh lớn nhất sàn chứng khoán hiện chưa bằng một nửa Vingroup, dù sở hữu tổng tài sản và vốn chủ sở hữu vượt xa tập đoàn này.",
+      "description": "Từ đầu năm 2026 đến nay, tổng vốn hóa của Vietcombank, VietinBank và BIDV đã giảm hơn 133.000 tỷ đồng, trái ngược với mức tăng gần 600.000 tỷ đồng của Vingroup. Sự phân hóa này khiến tổng giá trị thị trường của ba ngân hàng quốc doanh lớn nhất sàn chứng khoán hiện chưa bằng một nửa Vingroup.",
       "link": "https://cafef.vn/gia-tri-3-ngan-hang-lon-nhat-viet-nam-khong-bang-mot-nua-vingroup-188261119115254646.chn",
       "source": "CafeF - Ngân hàng",
       "published": "Thu, 19 Nov 2026 13:00:00 +0700",
@@ -2359,46 +2399,6 @@
       "source": "CafeF - Ngân hàng",
       "published": "Mon, 16 Nov 2026 16:29:00 +0700",
       "timestamp": 1794821340.0
-    },
-    {
-      "title": "Doanh nghiệp của 'công chúa mía đường' Đặng Huỳnh Ức My miễn nhiệm nhân sự cấp cao",
-      "description": "Công ty CP Thành Thành Công – Biên Hoà (TTC AgriS, HoSE: SBT) vừa có thông báo liên quan tới việc thay đổi nhân sự.",
-      "link": "https://cafef.vn/doanh-nghiep-cua-cong-chua-mia-duong-dang-huynh-uc-my-mien-nhiem-nhan-su-cap-cao-188261116162254328.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 16 Nov 2026 16:23:00 +0700",
-      "timestamp": 1794820980.0
-    },
-    {
-      "title": "Biến động sở hữu tại Novaland",
-      "description": "Hàng loạt giao dịch cổ phiếu NVL vừa được người thân Chủ tịch Novaland Bùi Cao Nhật Quân và lãnh đạo doanh nghiệp công bố kết quả.",
-      "link": "https://cafef.vn/bien-dong-so-huu-tai-novaland-188261116161355695.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 16 Nov 2026 16:20:00 +0700",
-      "timestamp": 1794820800.0
-    },
-    {
-      "title": "Dự báo về sự cứng rắn của Fed: Lãi suất có thể tăng vào tháng 12/2026 và tháng 1/2027",
-      "description": "Kỳ vọng này được củng cố bởi các tín hiệu cứng rắn từ giới chức Fed trong tuần vừa rồi...",
-      "link": "https://vneconomy.vn/du-bao-ve-su-cung-ran-cua-fed-lai-suat-co-the-tang-vao-thang-122026-va-thang-12027.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Mon, 16 Nov 2026 09:14:35 +0000",
-      "timestamp": 1794820475.0
-    },
-    {
-      "title": "Tiền vào chứng khoán thấp nhất một tháng",
-      "description": "Tâm lý thận trọng bao trùm thị trường chứng khoán khiến thanh khoản phiên đầu tuần chưa đến 12.000 tỷ đồng, thấp nhất một tháng qua.",
-      "link": "https://vnexpress.net/tien-vao-chung-khoan-thap-nhat-mot-thang-5145326.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Mon, 16 Nov 2026 16:07:51 +0700",
-      "timestamp": 1794820071.0
-    },
-    {
-      "title": "Sửa Nghị định 156: Đề xuất đình chỉ cung cấp dịch vụ giao dịch ký quỹ khi tái phạm",
-      "description": "Dự thảo quy định mức phạt cao hơn và áp dụng hình thức xử phạt bổ sung là đình chỉ hoạt động cung cấp dịch vụ giao dịch ký quỹ trong trường hợp tái phạm. Bộ Tài chính nhấn mạnh cần có chế tài xử lý nghiêm khắc để đảm bảo trật tự của thị trường.",
-      "link": "https://vneconomy.vn/sua-nghi-dinh-156-de-xuat-dinh-chi-cung-cap-dich-vu-giao-dich-ky-quy-khi-tai-pham.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Mon, 16 Nov 2026 08:54:48 +0000",
-      "timestamp": 1794819288.0
     }
   ]
 }
