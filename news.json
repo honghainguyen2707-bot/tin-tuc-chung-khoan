@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Vì sao Việt Nam gom cổ phiếu về một sàn?",
+      "description": "Chuyển gần 300 cổ phiếu từ HNX sang HoSE nhằm thống nhất thị trường niêm yết, giảm phân mảnh giao dịch, dữ liệu và chuyên môn hóa hoạt động hai sở, theo chuyên gia.",
+      "link": "https://vnexpress.net/vi-sao-viet-nam-gom-co-phieu-ve-mot-san-5146316.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Thu, 19 Nov 2026 07:00:00 +0700",
+      "timestamp": 1795046400.0
+    },
+    {
+      "title": "Anthropic huy động kỷ lục hơn 81 tỷ USD từ IPO",
+      "description": "Công ty mẹ ứng dụng AI Claude chốt giá IPO tại 83 USD một cổ phiếu, qua đó huy động kỷ lục 81,3 tỷ USD.",
+      "link": "https://vnexpress.net/anthropic-huy-dong-ky-luc-hon-81-ty-usd-tu-ipo-5146343.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Thu, 19 Nov 2026 06:57:19 +0700",
+      "timestamp": 1795046239.0
+    },
+    {
+      "title": "Giá vàng thế giới lao dốc, xuống thấp nhất 14 tháng",
+      "description": "Mỗi ounce vàng mất hơn 120 USD một phiên, sau khi Fed công bố biên bản cuộc họp tháng 10.",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-xuong-thap-nhat-14-thang-5146332.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Thu, 19 Nov 2026 06:30:50 +0700",
+      "timestamp": 1795044650.0
+    },
+    {
+      "title": "19/11: Đọc gì trước giờ giao dịch chứng khoán?",
+      "description": "Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay.",
+      "link": "http://vietstock.vn/2026/11/1911-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1516003.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Thu, 19 Nov 2026 06:00:00 +0700",
+      "timestamp": 1795042800.0
+    },
+    {
       "title": "Giá vàng SJC, vàng nhẫn 9999 sáng ngày 19/11",
       "description": "Giá vàng trong nước sáng 19/11 ghi nhận điều chỉnh giảm tại Bảo Tín Minh Châu và Phú Quý, trong khi các thương hiệu còn lại giữ nguyên giá niêm yết so với đầu giờ chiều 18/11.",
       "link": "https://cafef.vn/gia-vang-sjc-vang-nhan-9999-sang-ngay-19-11-188261119020430468.chn",
@@ -1529,18 +1561,18 @@
       "timestamp": 1794875400.0
     },
     {
-      "title": "17/11: Đọc gì trước giờ giao dịch chứng khoán?",
-      "description": "Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay.",
-      "link": "http://vietstock.vn/2026/11/1711-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1515300.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Tue, 17 Nov 2026 06:00:00 +0700",
-      "timestamp": 1794870000.0
-    },
-    {
       "title": "Nhiều ngân hàng mạnh tay tinh gọn nhân sự",
       "description": "Sau gần chục năm làm kho quỹ, anh Hùng rời ngành ở tuổi 43, giữa lúc nhà băng giảm hàng nghìn nhân sự trong quá trình tái cấu trúc.",
       "link": "https://vnexpress.net/nhieu-ngan-hang-manh-tay-tinh-gon-nhan-su-5145273.html",
       "source": "VnExpress - Kinh doanh",
+      "published": "Tue, 17 Nov 2026 06:00:00 +0700",
+      "timestamp": 1794870000.0
+    },
+    {
+      "title": "17/11: Đọc gì trước giờ giao dịch chứng khoán?",
+      "description": "Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay.",
+      "link": "http://vietstock.vn/2026/11/1711-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1515300.htm",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Tue, 17 Nov 2026 06:00:00 +0700",
       "timestamp": 1794870000.0
     },
@@ -2367,38 +2399,6 @@
       "source": "Vietstock - Chứng khoán",
       "published": "Sun, 15 Nov 2026 20:32:00 +0700",
       "timestamp": 1794749520.0
-    },
-    {
-      "title": "Ngân hàng đẩy mạnh huy động vốn ngoại, hút hàng tỷ USD",
-      "description": "Nhiều ngân hàng trong nước đang mở rộng kênh huy động ngoại tệ trung và dài hạn, phục vụ nhu cầu tín dụng và các dự án trọng điểm của nền kinh tế.",
-      "link": "https://cafef.vn/ngan-hang-day-manh-huy-dong-von-ngoai-hut-hang-ty-usd-188261115202422833.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Sun, 15 Nov 2026 20:24:00 +0700",
-      "timestamp": 1794749040.0
-    },
-    {
-      "title": "Thị trường chứng quyền tuần 16-20/11/2026: Khối ngoại tiếp tục bán ròng",
-      "description": "Kết thúc phiên giao dịch ngày 13/11/2026, toàn thị trường có 95 mã tăng, 207 mã giảm và 105 mã tham chiếu. Khối ngoại tiếp tục bán ròng với tổng mức bán ròng đạt 243.85 triệu đồng.",
-      "link": "http://vietstock.vn/2026/11/thi-truong-chung-quyen-tuan-16-20112026-khoi-ngoai-tiep-tuc-ban-rong-1636-1514643.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Sun, 15 Nov 2026 19:00:00 +0700",
-      "timestamp": 1794744000.0
-    },
-    {
-      "title": "Vietstock Weekly 16-20/11/2026: Thận trọng chờ tín hiệu?",
-      "description": "VN-Index lấy lại sắc xanh nhưng vẫn dao động giằng co với mẫu hình nến thân nhỏ kèm bóng nến dài. Chỉ số đang nằm dưới đường Middle của Bollinger Bands trong khi Stochastic Oscillator đã đảo chiều và cắt lên đường signal nhưng MACD vẫn tiếp tục giảm. Các tín hiệu trái chiều này cho thấy xu hướng ngắn hạn vẫn chưa rõ ràng.",
-      "link": "http://vietstock.vn/2026/11/vietstock-weekly-16-20112026-than-trong-cho-tin-hieu-1636-1514887.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Sun, 15 Nov 2026 18:00:00 +0700",
-      "timestamp": 1794740400.0
-    },
-    {
-      "title": "Giá vàng miếng, vàng nhẫn tròn chiều tối 15/11 tại SJC, DOJI, PNJ, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
-      "description": "Giá vàng thị trường thế giới khép lại một tuần biến động mạnh dưới mốc 3.900 USD/ounce.",
-      "link": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-toi-15-11-tai-sjc-doji-pnj-bao-tin-minh-chau-va-bao-tin-manh-hai-1882611151139143.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Sun, 15 Nov 2026 16:53:00 +0700",
-      "timestamp": 1794736380.0
     }
   ]
 }
