@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Lãi suất tiết kiệm tiếp tục xu hướng giảm",
+      "description": "Làn sóng giảm lãi suất huy động tiếp tục lan rộng trong tháng 11.",
+      "link": "https://cafef.vn/lai-suat-tiet-kiem-tiep-tuc-xu-huong-giam-188261119075855436.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Thu, 19 Nov 2026 08:58:00 +0700",
+      "timestamp": 1795053480.0
+    },
+    {
       "title": "Chứng khoán Mỹ vẫn đuối vì cổ phiếu Nvidia tăng không nổi, giá dầu giảm vì triển vọng thừa cung",
       "description": "Hai chỉ số Dow Jones và S&P 500 của trường chứng khoán Mỹ giảm điểm trong phiên giao dịch ngày thứ Tư (18/11), khi cổ phiếu Nvidia lại bị bán tháo dù kết quả kinh doanh tốt hơn kỳ vọng...",
       "link": "https://vneconomy.vn/chung-khoan-my-van-duoi-vi-co-phieu-nvidia-tang-khong-noi-gia-dau-giam-vi-trien-vong-thua-cung.htm",
@@ -37,6 +45,14 @@
       "description": "Ngày 13/11/2026, tại Hội nghị Tổ chức Thành viên NAPAS 2026, VietCredit được trao giải ở hạng mục “Đơn vị dẫn đầu về xu hướng sử dụng thẻ tín dụng nội địa trên thị trường” (Outstanding Bank in Credit Card Transaction), thuộc nhóm giải “Ngân hàng dẫn đầu về phát triển thẻ NAPAS” (Outstanding Bank in Card Development).",
       "link": "https://cafef.vn/vietcredit-la-don-vi-dan-dau-ve-xu-huong-su-dung-the-tin-dung-noi-dia-tren-thi-truong-188261118213521464.chn",
       "source": "CafeF - Ngân hàng",
+      "published": "Thu, 19 Nov 2026 08:00:00 +0700",
+      "timestamp": 1795050000.0
+    },
+    {
+      "title": "Top cổ phiếu đáng chú ý đầu phiên 19/11",
+      "description": "Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.",
+      "link": "http://vietstock.vn/2026/11/top-co-phieu-dang-chu-y-dau-phien-1911-830-1515893.htm",
+      "source": "Vietstock - Chứng khoán",
       "published": "Thu, 19 Nov 2026 08:00:00 +0700",
       "timestamp": 1795050000.0
     },
@@ -1553,14 +1569,6 @@
       "timestamp": 1794878590.0
     },
     {
-      "title": "Top cổ phiếu đáng chú ý đầu phiên 17/11",
-      "description": "Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.",
-      "link": "http://vietstock.vn/2026/11/top-co-phieu-dang-chu-y-dau-phien-1711-830-1515299.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Tue, 17 Nov 2026 08:00:00 +0700",
-      "timestamp": 1794877200.0
-    },
-    {
       "title": "SFinance được duyệt tăng vốn điều lệ lên 2.600 tỷ đồng",
       "description": "Sau khi về tay Krungsri, SFinance được Ngân hàng Nhà nước chấp thuận tăng vốn điều lệ từ 1.000 tỷ đồng lên 2.600 tỷ đồng.",
       "link": "https://vnexpress.net/sfinance-duoc-duyet-tang-von-dieu-le-len-2-600-ty-dong-5145308.html",
@@ -1573,6 +1581,14 @@
       "description": "Pinetree được vinh danh là công ty có phí giao dịch tốt nhất Việt Nam, đồng thời lọt top 10 bảng xếp hạng các công ty chứng khoán có dịch vụ bán lẻ tốt nhất năm 2026 (Best Retail Brokers 2026).",
       "link": "https://vnexpress.net/chung-khoan-pinetree-nhan-giai-cong-ty-co-phi-giao-dich-tot-nhat-viet-nam-5144713.html",
       "source": "VnExpress - Kinh doanh",
+      "published": "Tue, 17 Nov 2026 08:00:00 +0700",
+      "timestamp": 1794877200.0
+    },
+    {
+      "title": "Top cổ phiếu đáng chú ý đầu phiên 17/11",
+      "description": "Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.",
+      "link": "http://vietstock.vn/2026/11/top-co-phieu-dang-chu-y-dau-phien-1711-830-1515299.htm",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Tue, 17 Nov 2026 08:00:00 +0700",
       "timestamp": 1794877200.0
     },
@@ -2383,22 +2399,6 @@
       "source": "CafeF - Ngân hàng",
       "published": "Mon, 16 Nov 2026 01:00:00 +0700",
       "timestamp": 1794765600.0
-    },
-    {
-      "title": "Soi dòng tiền của Thế Giới Di Động và loạt đại gia bán lẻ: Hé lộ bài toán khó đằng sau con số lợi nhuận",
-      "description": "FPT Retail lãi hơn gấp đôi nhưng dòng tiền kinh doanh chuyển sang âm, còn MWG giảm hơn một nửa. Hàng tồn kho và công nợ gia tăng, kéo theo áp lực về vốn và chi phí tài trợ tại các doanh nghiệp bán lẻ – phân phối.",
-      "link": "https://cafef.vn/soi-dong-tien-cua-the-gioi-di-dong-va-loat-dai-gia-ban-le-he-lo-bai-toan-kho-dang-sau-con-so-loi-nhuan-188261115221421449.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 16 Nov 2026 00:06:00 +0700",
-      "timestamp": 1794762360.0
-    },
-    {
-      "title": "Giai đoạn nước rút cuối năm, chuyên gia Mirae Asset chỉ ra 4 biến số có thể chi phối VN-Index",
-      "description": "Việc chọn đúng thời điểm để tham gia là rất khó, vì vậy đầu tư vào một số công ty có nền tảng cơ bản vững chắc, định giá hấp dẫn luôn được đặt lên hàng đầu.",
-      "link": "https://cafef.vn/giai-doan-nuoc-rut-cuoi-nam-chuyen-gia-mirae-asset-chi-ra-4-bien-so-co-the-chi-phoi-vn-index-188261115163754562.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 16 Nov 2026 00:03:00 +0700",
-      "timestamp": 1794762180.0
     }
   ]
 }
