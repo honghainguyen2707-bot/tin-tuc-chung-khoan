@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "[Bài 3] Giao dịch quyền chọn theo xu hướng với mức rủi ro được xác định trước",
+      "description": "Các chiến lược phòng hộ như mua put, covered call hay collar chủ yếu được sử dụng khi nhà đầu tư đã nắm giữ cổ phiếu và muốn quản lý rủi ro hoặc tăng thêm thu nhập. Tuy nhiên, quyền chọn còn cho phép nhà đầu tư tìm kiếm lợi nhuận từ dự báo xu hướng thị trường mà không cần sở hữu sẵn tài sản cơ sở, đồng thời xác định trước mức thua lỗ tối đa.",
+      "link": "https://vneconomy.vn/bai-3-giao-dich-quyen-chon-theo-xu-huong-voi-muc-rui-ro-duoc-xac-dinh-truoc.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Fri, 20 Nov 2026 10:23:11 +0000",
+      "timestamp": 1795170191.0
+    },
+    {
       "title": "Blog chứng khoán: Cầu bắt đáy tốt hơn, áp lực cắt lỗ vẫn còn",
       "description": "VNI thoát khỏi một phiên giảm mạnh thứ 3 liên tiếp trong phiên cuối tuần nhờ sự phục hồi khá tốt của cổ phiếu blue-chips. Chỉ số rút về sát tham chiếu (chỉ còn giảm 0,83 điểm) nhưng đa số cổ phiếu phục hồi kém hơn nhiều.",
       "link": "https://vneconomy.vn/blog-chung-khoan-cau-bat-day-tot-hon-ap-luc-cat-lo-van-con.htm",
@@ -841,17 +849,17 @@
       "timestamp": 1795061322.0
     },
     {
-      "title": "Đâu là “cỗ máy kiếm tiền” tốt nhất trong nhóm VN30?",
-      "description": "Bức tranh kinh doanh quý 3/2026 của nhóm doanh nghiệp phi tài chính VN30 nhìn chung khá tích cực, với cả doanh thu và lợi nhuận đều tăng trưởng mạnh so với cùng kỳ. Đáng chú ý, VIC vươn lên dẫn đầu ở cả hai bảng xếp hạng doanh thu và lợi nhuận.",
-      "link": "http://vietstock.vn/2026/11/dau-la-co-may-kiem-tien-tot-nhat-trong-nhom-vn30-737-1514939.htm",
+      "title": "Dệt may quý 3/2026: Lợi nhuận tăng tốc, bức tranh kinh doanh phân hóa rõ nét",
+      "description": "Nhờ thị trường cải thiện, ngành dệt may quý 3/2026 ghi nhận lợi nhuận bứt phá nhanh hơn doanh thu, nâng đà tăng trưởng cả 9 tháng dù bức tranh kinh doanh giữa các nhóm doanh nghiệp vẫn phân hóa rõ nét.",
+      "link": "http://vietstock.vn/2026/11/det-may-quy-32026-loi-nhuan-tang-toc-buc-tranh-kinh-doanh-phan-hoa-ro-net-737-1514914.htm",
       "source": "Vietstock - Doanh nghiệp",
       "published": "Thu, 19 Nov 2026 11:02:00 +0700",
       "timestamp": 1795060920.0
     },
     {
-      "title": "Dệt may quý 3/2026: Lợi nhuận tăng tốc, bức tranh kinh doanh phân hóa rõ nét",
-      "description": "Nhờ thị trường cải thiện, ngành dệt may quý 3/2026 ghi nhận lợi nhuận bứt phá nhanh hơn doanh thu, nâng đà tăng trưởng cả 9 tháng dù bức tranh kinh doanh giữa các nhóm doanh nghiệp vẫn phân hóa rõ nét.",
-      "link": "http://vietstock.vn/2026/11/det-may-quy-32026-loi-nhuan-tang-toc-buc-tranh-kinh-doanh-phan-hoa-ro-net-737-1514914.htm",
+      "title": "Đâu là “cỗ máy kiếm tiền” tốt nhất trong nhóm VN30?",
+      "description": "Bức tranh kinh doanh quý 3/2026 của nhóm doanh nghiệp phi tài chính VN30 nhìn chung khá tích cực, với cả doanh thu và lợi nhuận đều tăng trưởng mạnh so với cùng kỳ. Đáng chú ý, VIC vươn lên dẫn đầu ở cả hai bảng xếp hạng doanh thu và lợi nhuận.",
+      "link": "http://vietstock.vn/2026/11/dau-la-co-may-kiem-tien-tot-nhat-trong-nhom-vn30-737-1514939.htm",
       "source": "Vietstock - Doanh nghiệp",
       "published": "Thu, 19 Nov 2026 11:02:00 +0700",
       "timestamp": 1795060920.0
@@ -2391,14 +2399,6 @@
       "source": "CafeF - Chứng khoán",
       "published": "Tue, 17 Nov 2026 10:24:00 +0700",
       "timestamp": 1794885840.0
-    },
-    {
-      "title": "Nghịch lý thương hiệu Việt: Vinamilk mất 50 năm mới mở được cửa hàng ở nước ngoài, hãng túi chỉ cần 3 năm để đặt chân tới Singapore",
-      "description": "Ngày càng nhiều các thương hiệu bán lẻ Việt Nam tìm đường ra thị trường quốc tế.",
-      "link": "https://cafef.vn/nghich-ly-thuong-hieu-viet-vinamilk-mat-50-nam-moi-mo-duoc-cua-hang-o-nuoc-ngoai-hang-tui-chi-can-3-nam-de-dat-chan-toi-singapore-188261117102154546.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 17 Nov 2026 10:21:00 +0700",
-      "timestamp": 1794885660.0
     }
   ]
 }
