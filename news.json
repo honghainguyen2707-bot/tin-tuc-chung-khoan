@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Ngân hàng rao bán hai khoản nợ hơn 25 tỷ đồng của ông Lê Hải Trà",
+      "description": "Hai khoản nợ gốc và lãi hơn 25,2 tỷ đồng liên quan cựu lãnh đạo HoSE Lê Hải Trà vừa được Agribank thông báo bán đấu giá để thu hồi vốn.",
+      "link": "https://vnexpress.net/ngan-hang-rao-ban-hai-khoan-no-hon-25-ty-dong-cua-ong-le-hai-tra-5147249.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 21 Nov 2026 00:10:00 +0700",
+      "timestamp": 1795194600.0
+    },
+    {
+      "title": "Động thái lạ của loạt \"cá mập\" trên sàn chứng khoán",
+      "description": "Xu hướng gia tăng nắm giữ tiền cho thấy sự thận trọng của các nhà quản lý quỹ trong bối cảnh thị trường chứng khoán chưa thực sự thuận lợi, đồng thời phản ánh áp lực cân đối dòng vốn khi nhà đầu tư liên tục rút tiền khỏi các quỹ.",
+      "link": "https://cafef.vn/dong-thai-la-cua-loat-ca-map-tren-san-chung-khoan-188261120122931783.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Sat, 21 Nov 2026 00:04:00 +0700",
+      "timestamp": 1795194240.0
+    },
+    {
+      "title": "Hàng loạt \"cá mập\" bất ngờ quay xe bán cổ phiếu ngân hàng, gom mạnh một nhóm cổ phiếu \"hot\"",
+      "description": "Theo báo cáo hoạt động các quỹ đầu tư tháng 10/2026 của FiinGroup, nhóm ngân hàng bị các quỹ bán ròng khoảng 1.212 tỷ đồng, trái ngược với mức mua ròng 1.034 tỷ đồng trong tháng 9.",
+      "link": "https://cafef.vn/hang-loat-ca-map-bat-ngo-quay-xe-ban-co-phieu-ngan-hang-gom-manh-mot-nhom-co-phieu-hot-188261120121715102.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Sat, 21 Nov 2026 00:03:00 +0700",
+      "timestamp": 1795194180.0
+    },
+    {
       "title": "Vì sao giá vàng lao dốc, giảm mạnh nhất 32 tuần?",
       "description": "Giá vàng giao ngay hiện dao động ở vùng thấp nhất kể từ tháng 9/2025.",
       "link": "https://cafef.vn/vi-sao-gia-vang-lao-doc-giam-manh-nhat-32-tuan-188261120212416431.chn",
@@ -945,17 +969,17 @@
       "timestamp": 1795061322.0
     },
     {
-      "title": "Dệt may quý 3/2026: Lợi nhuận tăng tốc, bức tranh kinh doanh phân hóa rõ nét",
-      "description": "Nhờ thị trường cải thiện, ngành dệt may quý 3/2026 ghi nhận lợi nhuận bứt phá nhanh hơn doanh thu, nâng đà tăng trưởng cả 9 tháng dù bức tranh kinh doanh giữa các nhóm doanh nghiệp vẫn phân hóa rõ nét.",
-      "link": "http://vietstock.vn/2026/11/det-may-quy-32026-loi-nhuan-tang-toc-buc-tranh-kinh-doanh-phan-hoa-ro-net-737-1514914.htm",
+      "title": "Đâu là “cỗ máy kiếm tiền” tốt nhất trong nhóm VN30?",
+      "description": "Bức tranh kinh doanh quý 3/2026 của nhóm doanh nghiệp phi tài chính VN30 nhìn chung khá tích cực, với cả doanh thu và lợi nhuận đều tăng trưởng mạnh so với cùng kỳ. Đáng chú ý, VIC vươn lên dẫn đầu ở cả hai bảng xếp hạng doanh thu và lợi nhuận.",
+      "link": "http://vietstock.vn/2026/11/dau-la-co-may-kiem-tien-tot-nhat-trong-nhom-vn30-737-1514939.htm",
       "source": "Vietstock - Doanh nghiệp",
       "published": "Thu, 19 Nov 2026 11:02:00 +0700",
       "timestamp": 1795060920.0
     },
     {
-      "title": "Đâu là “cỗ máy kiếm tiền” tốt nhất trong nhóm VN30?",
-      "description": "Bức tranh kinh doanh quý 3/2026 của nhóm doanh nghiệp phi tài chính VN30 nhìn chung khá tích cực, với cả doanh thu và lợi nhuận đều tăng trưởng mạnh so với cùng kỳ. Đáng chú ý, VIC vươn lên dẫn đầu ở cả hai bảng xếp hạng doanh thu và lợi nhuận.",
-      "link": "http://vietstock.vn/2026/11/dau-la-co-may-kiem-tien-tot-nhat-trong-nhom-vn30-737-1514939.htm",
+      "title": "Dệt may quý 3/2026: Lợi nhuận tăng tốc, bức tranh kinh doanh phân hóa rõ nét",
+      "description": "Nhờ thị trường cải thiện, ngành dệt may quý 3/2026 ghi nhận lợi nhuận bứt phá nhanh hơn doanh thu, nâng đà tăng trưởng cả 9 tháng dù bức tranh kinh doanh giữa các nhóm doanh nghiệp vẫn phân hóa rõ nét.",
+      "link": "http://vietstock.vn/2026/11/det-may-quy-32026-loi-nhuan-tang-toc-buc-tranh-kinh-doanh-phan-hoa-ro-net-737-1514914.htm",
       "source": "Vietstock - Doanh nghiệp",
       "published": "Thu, 19 Nov 2026 11:02:00 +0700",
       "timestamp": 1795060920.0
@@ -1457,18 +1481,18 @@
       "timestamp": 1794991680.0
     },
     {
-      "title": "Khối ngoại thẳng tay bán ròng hơn 1.100 tỷ đồng trong ngày VN-Index giảm sâu, \"xả\" mạnh loạt cổ phiếu hot",
-      "description": "Ở chiều mua, khối ngoại rót ròng 42 tỷ đồng vào KDH, gần gấp đôi mã đứng kế tiếp là FRT.",
-      "link": "https://cafef.vn/khoi-ngoai-thang-tay-ban-rong-hon-1100-ty-dong-trong-ngay-vn-index-giam-sau-xa-manh-loat-co-phieu-hot-18826111815273573.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Wed, 18 Nov 2026 15:45:00 +0700",
-      "timestamp": 1794991500.0
-    },
-    {
       "title": "BQP sắp trả cổ tức tăng vốn lên gần 200 tỷ, tiếp tục kế hoạch niêm yết trên HOSE",
       "description": "CTCP Nhựa Chất lượng cao Bình Thuận (UPCoM: BQP) thông báo phát hành cổ phiếu để trả cổ tức năm 2025. Ngày giao dịch không hưởng quyền là 30/11.",
       "link": "http://vietstock.vn/2026/11/bqp-sap-tra-co-tuc-tang-von-len-gan-200-ty-tiep-tuc-ke-hoach-niem-yet-tren-hose-738-1515805.htm",
       "source": "Vietstock - Doanh nghiệp",
+      "published": "Wed, 18 Nov 2026 15:45:00 +0700",
+      "timestamp": 1794991500.0
+    },
+    {
+      "title": "Khối ngoại thẳng tay bán ròng hơn 1.100 tỷ đồng trong ngày VN-Index giảm sâu, \"xả\" mạnh loạt cổ phiếu hot",
+      "description": "Ở chiều mua, khối ngoại rót ròng 42 tỷ đồng vào KDH, gần gấp đôi mã đứng kế tiếp là FRT.",
+      "link": "https://cafef.vn/khoi-ngoai-thang-tay-ban-rong-hon-1100-ty-dong-trong-ngay-vn-index-giam-sau-xa-manh-loat-co-phieu-hot-18826111815273573.chn",
+      "source": "CafeF - Chứng khoán",
       "published": "Wed, 18 Nov 2026 15:45:00 +0700",
       "timestamp": 1794991500.0
     },
@@ -2375,30 +2399,6 @@
       "source": "CafeF - Chứng khoán",
       "published": "Tue, 17 Nov 2026 11:37:00 +0700",
       "timestamp": 1794890220.0
-    },
-    {
-      "title": "Novaland phát hành 2,78 triệu cổ phiếu chuyển đổi trái phiếu quốc tế",
-      "description": "Novaland sẽ phát hành gần 2,78 triệu cổ phiếu để chuyển đổi 16 trái phiếu quốc tế với tổng giá trị tương đương gần 94,5 tỷ đồng.",
-      "link": "https://cafef.vn/novaland-phat-hanh-278-trieu-co-phieu-chuyen-doi-trai-phieu-quoc-te-188261117113220739.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 17 Nov 2026 11:36:00 +0700",
-      "timestamp": 1794890160.0
-    },
-    {
-      "title": "Bắt một nhân viên công ty bất động sản chiếm đoạt tiền tỷ của khách để đầu tư tiền ảo",
-      "description": "Lợi dụng sự tin tưởng của những người có nhu cầu mua nhà, nam nhân viên sinh năm 1994 đã yêu cầu khách hàng chuyển tiền vào tài khoản cá nhân hoặc tài khoản người thân.",
-      "link": "https://cafef.vn/bat-mot-nhan-vien-cong-ty-bat-dong-san-chiem-doat-tien-ty-cua-khach-de-dau-tu-tien-ao-188261117113320554.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 17 Nov 2026 11:33:00 +0700",
-      "timestamp": 1794889980.0
-    },
-    {
-      "title": "Giám đốc thị trường nước ngoài của SSI: Việt Nam là thị trường mới nổi tuyệt vời, kinh tế tăng trưởng nhất thế giới",
-      "description": "Tham vọng của Việt Nam là đạt mức tăng trưởng từ 10% trở lên. Vì vậy, từ góc độ tăng trưởng kinh tế, thành thật mà nói rằng nó hiện không thua kém bất kỳ quốc gia nào trên toàn cầu.",
-      "link": "https://vneconomy.vn/giam-doc-thi-truong-nuoc-ngoai-cua-ssi-viet-nam-la-thi-truong-moi-noi-tuyet-voi-kinh-te-tang-truong-nhat-the-gioi.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Tue, 17 Nov 2026 04:25:51 +0000",
-      "timestamp": 1794889551.0
     }
   ]
 }
