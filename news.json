@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "[Bài 4] Hiểu hợp đồng quyền chọn trên chỉ số chứng khoán",
+      "description": "Khi muốn tham gia một đợt tăng của thị trường hoặc bảo vệ danh mục trước nguy cơ giảm giá, nhà đầu tư thường nghĩ đến việc mua, bán cổ phiếu. Quyền chọn trên chỉ số chứng khoán mở thêm một cách tiếp cận bằng cách trả một khoản phí để có quyền hưởng khoản chênh lệch nếu chỉ số vượt qua một ngưỡng đã định theo hướng có lợi. Người mua có thể biết trước số tiền tối đa có thể mất từ riêng vị thế mua quyền chọn, nhưng cũng phải chấp nhận rằng quyền ấy ",
+      "link": "https://vneconomy.vn/bai-4-hieu-hop-dong-quyen-chon-tren-chi-so-chung-khoan.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Sat, 21 Nov 2026 00:00:00 +0000",
+      "timestamp": 1795219200.0
+    },
+    {
       "title": "Ngày 21/11, gửi dưới 100 triệu đồng kỳ hạn 12 tháng tại LPBank, MSB, Nam A Bank, VIB và OCB nhận được bao nhiêu tiền lãi?",
       "description": "Lãi suất tiết kiệm kỳ hạn 12 tháng tại LPBank, MSB, Nam A Bank, VIB và OCB có sự chênh lệch giữa hình thức gửi tại quầy và trực tuyến. Với khoản tiền gửi dưới 100 triệu đồng, số tiền lãi khách hàng nhận được phụ thuộc vào ngân hàng, số tiền gửi và hình thức gửi tiết kiệm.",
       "link": "https://cafef.vn/ngay-21-11-gui-duoi-100-trieu-dong-ky-han-12-thang-tai-lpbank-msb-nam-a-bank-vib-va-ocb-nhan-duoc-bao-nhieu-tien-lai-188261120222928672.chn",
@@ -2391,14 +2399,6 @@
       "source": "CafeF - Chứng khoán",
       "published": "Tue, 17 Nov 2026 11:49:00 +0700",
       "timestamp": 1794890940.0
-    },
-    {
-      "title": "CII nhắm 5 dự án giao thông gần 170 ngàn tỷ",
-      "description": "Trong kế hoạch đầu tư 2027-2032, ông lớn hạ tầng muốn mở rộng cao tốc Dầu Giây - Quảng Ngãi và hoàn thiện Vành đai 3 TPHCM giai đoạn 2. Ba dự án còn lại là đường trên cao dọc Quốc lộ 51, nâng cấp các nút giao trên Xa lộ Hà Nội và cải tạo giao thông khu Hàng Xanh - Bình Triệu.",
-      "link": "http://vietstock.vn/2026/11/cii-nham-5-du-an-giao-thong-gan-170-ngan-ty-737-1515100.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Tue, 17 Nov 2026 11:38:29 +0700",
-      "timestamp": 1794890309.0
     }
   ]
 }
