@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Thị trường chứng khoán “thiếu tiền”: Loạt thương vụ bán vốn bất thành, người nội bộ cũng “rụt rè” mua cổ phiếu",
+      "description": "Hàng loạt doanh nghiệp phải kéo dài thời gian chào bán, không phân phối hết, thậm chí dừng kế hoạch tăng vốn. Không ít lãnh đạo doanh nghiệp và người có liên quan cũng chỉ mua được một phần nhỏ lượng cổ phiếu đã đăng ký.",
+      "link": "https://cafef.vn/thi-truong-chung-khoan-thieu-tien-loat-thuong-vu-ban-von-bat-thanh-nguoi-noi-bo-cung-rut-re-mua-co-phieu-188261122230850822.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Mon, 23 Nov 2026 00:05:00 +0700",
+      "timestamp": 1795367100.0
+    },
+    {
+      "title": "Khối ngoại bán ròng kỷ lục 127.000 tỷ đồng, chuyên gia dự báo về thời điểm đảo chiều",
+      "description": "Dù chứng khoán Việt Nam đã được nâng hạng, khối ngoại vẫn bán ròng với quy mô kỷ lục. Các chuyên gia cho rằng năm 2027 sẽ là phép thử quan trọng đối với khả năng thu hút dòng vốn ngoại trở lại một cách bền vững.",
+      "link": "https://cafef.vn/khoi-ngoai-ban-rong-ky-luc-127000-ty-dong-chuyen-gia-du-bao-ve-thoi-diem-dao-chieu-188261122220501841.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Mon, 23 Nov 2026 00:03:00 +0700",
+      "timestamp": 1795366980.0
+    },
+    {
+      "title": "Nghịch lý: VN-Index neo ở vùng cao, loạt Bluechips đình đám \"cưa đôi\" từ đỉnh, nhiều mã ngụp lặn dưới đáy",
+      "description": "Trong khi VN-Index vẫn neo quanh vùng 1.700 điểm, chỉ thấp hơn hơn 5% so với cuối năm 2025, không ít cổ phiếu bluechip lại đang trải qua những đợt điều chỉnh sâu.",
+      "link": "https://cafef.vn/nghich-ly-vn-index-neo-o-vung-cao-loat-bluechips-dinh-dam-cua-doi-tu-dinh-nhieu-ma-ngup-lan-duoi-day-188261121183458581.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Mon, 23 Nov 2026 00:03:00 +0700",
+      "timestamp": 1795366980.0
+    },
+    {
+      "title": "Chủ tịch FiinGroup chỉ ra 3 mảnh ghép để khơi thông dòng vốn cho Việt Nam",
+      "description": "Việt Nam đang bước vào một giai đoạn phát triển mới với tham vọng tăng trưởng hai chữ số. Để hiện thực hóa mục tiêu ấy, nền kinh tế được ước tính cần tới 1.460 tỷ USD vốn đầu tư trong 5 năm 2026–2030, gần gấp đôi giai đoạn trước.",
+      "link": "https://cafef.vn/chu-tich-fiingroup-chi-ra-3-manh-ghep-de-khoi-thong-dong-von-cho-viet-nam-188261122204100311.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Mon, 23 Nov 2026 00:01:00 +0700",
+      "timestamp": 1795366860.0
+    },
+    {
+      "title": "VN-Index mất điểm bởi VCB cùng loạt cổ phiếu ngân hàng, THD kéo lùi HNX-Index",
+      "description": "Chứng khoán Việt Nam trải qua tuần 16-20/11 đầy khó khăn khi toàn bộ nhóm ngành đều suy giảm. Ngành ngân hàng tạo sức ép lớn, trong đó VCB kéo lùi VN-Index mạnh nhất với gần 6.2 điểm. Trên HNX-Index, THD lấy đi gần 5.7 điểm.",
+      "link": "http://vietstock.vn/2026/11/vn-index-mat-diem-boi-vcb-cung-loat-co-phieu-ngan-hang-thd-keo-lui-hnx-index-830-1516795.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Sun, 22 Nov 2026 23:06:14 +0700",
+      "timestamp": 1795363574.0
+    },
+    {
       "title": "Góc nhìn tuần 23-27/11: VN-Index còn giảm bao nhiêu nữa?",
       "description": "VN-Index vừa trải qua tuần giảm hơn 46 điểm, xuống dưới 1,690 điểm khi phần lớn cổ phiếu đi xuống và thanh khoản suy yếu. Nhiều công ty chứng khoán (CTCK) cho rằng chỉ số vẫn có thể lùi thêm, thậm chí TPS để ngỏ kịch bản về quanh 1,600 điểm nếu mất vùng 1,650.",
       "link": "http://vietstock.vn/2026/11/goc-nhin-tuan-23-2711-vn-index-con-giam-bao-nhieu-nua-145-1516763.htm",
@@ -1132,7 +1172,7 @@
       "title": "Vietstock Daily 20/11/2026: Chưa tìm thấy điểm tựa?",
       "description": "VN-Index ghi nhận phiên giảm thứ 3 liên tiếp và bám vào Lower Band của Bollinger Bands. Triển vọng ngắn hạn gặp nhiều khó khăn khi các chỉ báo Stochastic Oscillator và MACD tiếp tục suy yếu sau khi cắt xuống dưới đường signal. Đáy cũ tháng 7/2026 (tương đương 1,650-1,680 điểm) sẽ là vùng hỗ trợ đáng chú ý trong những phiên tới.",
       "link": "http://vietstock.vn/2026/11/vietstock-daily-20112026-chua-tim-thay-diem-tua-1636-1516231.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Thu, 19 Nov 2026 18:10:13 +0700",
       "timestamp": 1795086613.0
     },
@@ -2359,46 +2399,6 @@
       "source": "VnEconomy - Chứng khoán",
       "published": "Wed, 18 Nov 2026 00:43:44 +0000",
       "timestamp": 1794962624.0
-    },
-    {
-      "title": "18/11: Đọc gì trước giờ giao dịch chứng khoán?",
-      "description": "Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay.",
-      "link": "http://vietstock.vn/2026/11/1811-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1515702.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Wed, 18 Nov 2026 06:02:00 +0700",
-      "timestamp": 1794956520.0
-    },
-    {
-      "title": "Ngày 18/11, gửi dưới 100 triệu 3 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
-      "description": "Với khoản tiền gửi dưới 100 triệu đồng kỳ hạn 3 tháng, lãi suất tiết kiệm tại 7 ngân hàng có sự chênh lệch giữa hình thức gửi tại quầy và online. Vậy khách hàng có thể nhận được bao nhiêu tiền lãi khi gửi tiết kiệm trong 3 tháng?",
-      "link": "https://cafef.vn/ngay-18-11-gui-duoi-100-trieu-3-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261117233949257.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Wed, 18 Nov 2026 01:00:00 +0700",
-      "timestamp": 1794938400.0
-    },
-    {
-      "title": "Bất ngờ sở hữu khối ngoại tại FPT khi thị giá \"thủng đáy\" 3 năm",
-      "description": "Áp lực bán của nhà đầu tư nước ngoài tại FPT chưa có dấu hiệu dừng lại.",
-      "link": "https://cafef.vn/bat-ngo-so-huu-khoi-ngoai-tai-fpt-khi-thi-gia-thung-day-3-nam-188261117221031335.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Wed, 18 Nov 2026 00:09:00 +0700",
-      "timestamp": 1794935340.0
-    },
-    {
-      "title": "Loại nhóm Vingroup, định giá chứng khoán Việt Nam ở mức nào?",
-      "description": "P/E của VN-Index dưới 10 lần nếu loại nhóm cổ phiếu Vingroup là mức định giá rất thấp nếu đặt trong tương quan lịch sử. Cơ hội đầu tư đang dần xuất hiện, nhưng thị trường vẫn thiếu những chất xúc tác đủ mạnh để kích hoạt một chu kỳ dòng tiền mới.",
-      "link": "https://cafef.vn/loai-nhom-vingroup-dinh-gia-chung-khoan-viet-nam-o-muc-nao-188261117232125905.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Wed, 18 Nov 2026 00:05:00 +0700",
-      "timestamp": 1794935100.0
-    },
-    {
-      "title": "Loại nhóm Vingroup, định giá chứng khoán Việt Nam thấp ngang thời kỳ “thảm hoạ”",
-      "description": "P/E của VN-Index dưới 10 lần nếu loại nhóm cổ phiếu Vingroup là mức định giá rất thấp nếu đặt trong tương quan lịch sử. Cơ hội đầu tư đang dần xuất hiện, nhưng thị trường vẫn thiếu những chất xúc tác đủ mạnh để kích hoạt một chu kỳ dòng tiền mới.",
-      "link": "https://cafef.vn/loai-nhom-vingroup-dinh-gia-chung-khoan-viet-nam-thap-ngang-thoi-ky-tham-hoa-188261117232125905.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Wed, 18 Nov 2026 00:05:00 +0700",
-      "timestamp": 1794935100.0
     }
   ]
 }
