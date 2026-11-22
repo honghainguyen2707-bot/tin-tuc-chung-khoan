@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Giá vàng có thể giảm tiếp",
+      "description": "Kỳ vọng lạm phát giảm, đà bán tháo cổ phiếu Mỹ tiếp tục lan rộng cùng lãi suất neo cao có thể là những rủi ro của vàng tuần này, theo các chuyên gia.",
+      "link": "https://vnexpress.net/gia-vang-co-the-giam-tiep-5147695.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Mon, 23 Nov 2026 04:02:28 +0700",
+      "timestamp": 1795381348.0
+    },
+    {
+      "title": "Trái phiếu chính phủ lần đầu giảm lãi suất trong năm nay",
+      "description": "Lãi suất trúng thầu trái phiếu chính phủ 10 năm, kỳ hạn chuẩn của thị trường, vừa giảm còn 4,41% sau gần 11 tháng liên tiếp đi ngang hoặc tăng.",
+      "link": "https://vnexpress.net/trai-phieu-chinh-phu-lan-dau-giam-lai-suat-trong-nam-nay-5147737.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Mon, 23 Nov 2026 03:55:09 +0700",
+      "timestamp": 1795380909.0
+    },
+    {
       "title": "Ngày 23/11, gửi dưới 500 triệu đồng kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
       "description": "Lãi suất tiết kiệm kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB có sự chênh lệch đáng kể giữa hình thức gửi tại quầy và trực tuyến. Với khoản tiền gửi dưới 500 triệu đồng, số tiền lãi khách hàng nhận được phụ thuộc vào ngân hàng, số tiền gửi và hình thức gửi tiết kiệm.",
       "link": "https://cafef.vn/ngay-23-11-gui-duoi-500-trieu-dong-ky-han-12-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261122224452882.chn",
@@ -2383,22 +2399,6 @@
       "source": "CafeF - Ngân hàng",
       "published": "Wed, 18 Nov 2026 08:30:00 +0700",
       "timestamp": 1794965400.0
-    },
-    {
-      "title": "Chứng khoán Mỹ bán tháo trước khi Nvidia công bố báo cáo tài chính, giá dầu tăng do tin từ eo biển Hormuz",
-      "description": "Tâm lý bất an của nhà đầu tư tăng thêm sau khi có tin hệ thống của Cơ quan Tình báo Quốc gia Mỹ (NSA) gặp sự cố...",
-      "link": "https://vneconomy.vn/chung-khoan-my-ban-thao-truoc-khi-nvidia-cong-bo-bao-cao-tai-chinh-gia-dau-tang-do-tin-tu-eo-bien-hormuz.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Wed, 18 Nov 2026 01:24:50 +0000",
-      "timestamp": 1794965090.0
-    },
-    {
-      "title": "Việc ông Jensen Huang từ chức cảnh báo gì cho ngành hàng xa xỉ?",
-      "description": "Cựu Giám đốc điều hành Nvidia là nhân vật trung tâm của làn sóng AI đã thúc đẩy thị trường chứng khoán Mỹ và nuôi dưỡng mức chi tiêu xa xỉ vô đối của nước này. Sau khi ông ra đi, chưa ai chắc điều gì sẽ xảy ra tiếp theo...",
-      "link": "https://vneconomy.vn/viec-ong-jensen-huang-tu-chuc-canh-bao-gi-cho-nganh-hang-xa-xi.htm",
-      "source": "VnEconomy - Kinh tế thế giới",
-      "published": "Wed, 18 Nov 2026 01:14:40 +0000",
-      "timestamp": 1794964480.0
     }
   ]
 }
