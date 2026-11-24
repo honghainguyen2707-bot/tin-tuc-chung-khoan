@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Chứng khoán Mỹ tăng bùng nổ sau khi ông Jensen Huang trở lại ghế CEO ở Nvidia, giá dầu tụt gần 4% vì dấu hiệu cung tăng",
+      "description": "Thị trường chứng khoán Mỹ tăng điểm mạnh trong phiên giao dịch ngày thứ Hai (23/11), sau khi Nvidia đưa ông Jensen Huang trở lại ghế CEO - một động thái giúp hồi sinh giao dịch trí tuệ nhân tạo (AI) ở Phố Wall, sau khi cả ba chỉ số chính cùng rơi vào trạng thái thị trường điều chỉnh trong phiên trước...",
+      "link": "https://vneconomy.vn/chung-khoan-my-tang-bung-no-sau-khi-ong-jensen-huang-tro-lai-ghe-ceo-o-nvidia-gia-dau-tut-gan-4-vi-dau-hieu-cung-tang.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Tue, 24 Nov 2026 01:36:06 +0000",
+      "timestamp": 1795484166.0
+    },
+    {
+      "title": "VN-Index hồi phục nhẹ, nhưng chưa xác nhận đáy quanh 1650 điểm",
+      "description": "VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường ngày 25/11/2026",
+      "link": "https://vneconomy.vn/vn-index-hoi-phuc-nhe-nhung-chua-xac-nhan-day-quanh-1650-diem.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Tue, 24 Nov 2026 00:37:01 +0000",
+      "timestamp": 1795480621.0
+    },
+    {
+      "title": "VNX công bố kế hoạch chuyển giao cổ phiếu niêm yết về HOSE",
+      "description": "Theo thông báo của Sở Giao dịch Chứng khoán Việt Nam (VNX), từ ngày 28/12/2026, toàn bộ cổ phiếu niêm yết trên Sở Giao dịch Chứng khoán Hà Nội (HNX) sẽ chính thức giao dịch tập trung tại Sở Giao dịch Chứng khoán TP. Hồ Chí Minh (HOSE).",
+      "link": "https://vneconomy.vn/vnx-cong-bo-ke-hoach-chuyen-giao-co-phieu-niem-yet-ve-hose.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Tue, 24 Nov 2026 00:36:52 +0000",
+      "timestamp": 1795480612.0
+    },
+    {
+      "title": "Tương lai của thuế tài sản tại Mỹ trong thời đại của các tỷ phú AI",
+      "description": "Đợt phát hành cổ phiếu lần đầu ra công chúng (IPO) của công ty trí tuệ nhân tạo (AI) Anthropic đã tạo ra hàng loạt triệu phú, thậm chí tỷ phú, chỉ sau một đêm, đúng lúc nhiều bang của Mỹ muốn áp dụng nhiều hình thức đánh thuế tài sản khác nhau...",
+      "link": "https://vneconomy.vn/tuong-lai-cua-thue-tai-san-tai-my-trong-thoi-dai-cua-cac-ty-phu-ai.htm",
+      "source": "VnEconomy - Kinh tế thế giới",
+      "published": "Tue, 24 Nov 2026 00:35:25 +0000",
+      "timestamp": 1795480525.0
+    },
+    {
+      "title": "Giá vàng hồi mạnh về mốc 3.600 USD/oz, SPDR Gold Trust vẫn bán ròng",
+      "description": "Lực bắt đáy đưa giá vàng tăng mạnh trong phiên giao dịch ngày thứ Hai (23/11), thoát khỏi mức thấp nhất của hơn 1 năm thiết lập trong phiên trước và lấy lại mốc 3.600 USD/oz...",
+      "link": "https://vneconomy.vn/gia-vang-hoi-manh-ve-moc-3600-usdoz-spdr-gold-trust-van-ban-rong.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Tue, 24 Nov 2026 00:34:52 +0000",
+      "timestamp": 1795480492.0
+    },
+    {
+      "title": "PC1 và Hưng Thịnh Phát bị phạt do chậm công bố thông tin",
+      "description": "Ủy ban Chứng khoán Nhà nước (UBCKNN) xử phạt CTCP Tập đoàn PC1 (HOSE: PC1) và CTCP Phát triển tổng hợp Hưng Thịnh Phát do vi phạm quy định về thời hạn công bố thông tin.",
+      "link": "http://vietstock.vn/2026/11/pc1-va-hung-thinh-phat-bi-phat-do-cham-cong-bo-thong-tin-830-1517353.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Tue, 24 Nov 2026 07:02:00 +0700",
+      "timestamp": 1795478520.0
+    },
+    {
       "title": "Cổ phiếu công ty ông Lê Viết Hải xuống thấp nhất chục năm",
       "description": "Cổ phiếu Tập đoàn Xây dựng Hòa Bình (HBC) đã giảm hơn phân nửa so với đầu năm, xuống thấp nhất 12 năm khi doanh nghiệp đối mặt gánh nặng nợ và lợi nhuận giảm.",
       "link": "https://vnexpress.net/co-phieu-cong-ty-ong-le-viet-hai-xuong-thap-nhat-chuc-nam-5148275.html",
@@ -1113,17 +1161,17 @@
       "timestamp": 1795243075.0
     },
     {
-      "title": "Trái phiếu Chính phủ kỳ hạn 5 năm lên ngôi khi lãi suất trúng thầu tăng cao",
-      "description": "Từ tháng 5/2026, sau khi Quốc hội bỏ chỉ tiêu kỳ hạn phát hành bình quân 9-11 năm, tỷ trọng kỳ hạn 5 năm trong tổng giá trị trúng thầu mỗi tháng vọt từ gần 0 lên 37-51%. Kỳ hạn chung của danh mục rút ngắn lại, và dư nợ trái phiếu Chính phủ đến hạn năm 2031 tăng 70%.",
-      "link": "http://vietstock.vn/2026/11/trai-phieu-chinh-phu-ky-han-5-nam-len-ngoi-khi-lai-suat-trung-thau-tang-cao-785-1515306.htm",
+      "title": "Chủ tịch DNSE: AI mở ra cơ hội bình đẳng công nghệ trong đầu tư chứng khoán",
+      "description": "AI đang thay đổi cách nhà đầu tư tiếp cận thông tin, phân tích dữ liệu và xây dựng chiến lược giao dịch. Theo ông Nguyễn Hoàng Giang - Chủ tịch HĐQT Chứng khoán DNSE, sự phổ cập AI tạo cơ hội thu hẹp khoảng cách công nghệ giữa nhà đầu tư cá nhân và các tổ chức đầu tư. Hiểu được xu thế này, DNSE tập trung phát triển các công cụ nhằm đưa AI vào xuyên suốt quá trình đầu tư.",
+      "link": "http://vietstock.vn/2026/11/chu-tich-dnse-ai-mo-ra-co-hoi-binh-dang-cong-nghe-trong-dau-tu-chung-khoan-145-1516796.htm",
       "source": "Vietstock - Chứng khoán",
       "published": "Sat, 21 Nov 2026 13:02:00 +0700",
       "timestamp": 1795240920.0
     },
     {
-      "title": "Chủ tịch DNSE: AI mở ra cơ hội bình đẳng công nghệ trong đầu tư chứng khoán",
-      "description": "AI đang thay đổi cách nhà đầu tư tiếp cận thông tin, phân tích dữ liệu và xây dựng chiến lược giao dịch. Theo ông Nguyễn Hoàng Giang - Chủ tịch HĐQT Chứng khoán DNSE, sự phổ cập AI tạo cơ hội thu hẹp khoảng cách công nghệ giữa nhà đầu tư cá nhân và các tổ chức đầu tư. Hiểu được xu thế này, DNSE tập trung phát triển các công cụ nhằm đưa AI vào xuyên suốt quá trình đầu tư.",
-      "link": "http://vietstock.vn/2026/11/chu-tich-dnse-ai-mo-ra-co-hoi-binh-dang-cong-nghe-trong-dau-tu-chung-khoan-145-1516796.htm",
+      "title": "Trái phiếu Chính phủ kỳ hạn 5 năm lên ngôi khi lãi suất trúng thầu tăng cao",
+      "description": "Từ tháng 5/2026, sau khi Quốc hội bỏ chỉ tiêu kỳ hạn phát hành bình quân 9-11 năm, tỷ trọng kỳ hạn 5 năm trong tổng giá trị trúng thầu mỗi tháng vọt từ gần 0 lên 37-51%. Kỳ hạn chung của danh mục rút ngắn lại, và dư nợ trái phiếu Chính phủ đến hạn năm 2031 tăng 70%.",
+      "link": "http://vietstock.vn/2026/11/trai-phieu-chinh-phu-ky-han-5-nam-len-ngoi-khi-lai-suat-trung-thau-tang-cao-785-1515306.htm",
       "source": "Vietstock - Chứng khoán",
       "published": "Sat, 21 Nov 2026 13:02:00 +0700",
       "timestamp": 1795240920.0
@@ -2351,54 +2399,6 @@
       "source": "CafeF - Chứng khoán",
       "published": "Thu, 19 Nov 2026 10:17:00 +0700",
       "timestamp": 1795058220.0
-    },
-    {
-      "title": "IPO kỷ lục của Anthropic trở thành phép thử với thị trường AI",
-      "description": "Ngày thứ Tư (18/11), Anthropic huy động 81,3 tỷ USD trong đợt chào bán cổ phiếu lần đầu ra công chúng (IPO) lớn nhất lịch sử, trước phiên giao dịch đầu tiên trên sàn Nasdaq vào ngày thứ Năm (19/11)...",
-      "link": "https://vneconomy.vn/ipo-ky-luc-cua-anthropic-tro-thanh-phep-thu-voi-thi-truong-ai.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Thu, 19 Nov 2026 03:16:55 +0000",
-      "timestamp": 1795058215.0
-    },
-    {
-      "title": "Thái Lan mua bán công ty Việt rất thành công, làm ăn có lãi ngay",
-      "description": "Theo TS. Cấn Văn Lực - thành viên Hội đồng Tư vấn chính sách tài chính - tiền tệ quốc gia, doanh nghiệp Việt Nam nên học tập cách thức kinh doanh, làm ăn chuyên nghiệp của doanh nghiệp một số nước, trong đó có Thái Lan.",
-      "link": "https://cafef.vn/thai-lan-mua-ban-cong-ty-viet-rat-thanh-cong-lam-an-co-lai-ngay-188261119101252063.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Thu, 19 Nov 2026 10:12:00 +0700",
-      "timestamp": 1795057920.0
-    },
-    {
-      "title": "Giá vàng 9999 Bảo Tín Minh Châu hôm nay 19/11/2026 bao nhiêu 1 chỉ?",
-      "description": "Giá vàng hôm nay 19/11/2026, cập nhật mới nhất giá vàng 9999 tại Bảo Tín Minh Châu và nhiều thương hiệu lớn trên thị trường.",
-      "link": "https://cafef.vn/gia-vang-9999-bao-tin-minh-chau-hom-nay-19-11-2026-bao-nhieu-1-chi-188261119070946776.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Thu, 19 Nov 2026 10:08:00 +0700",
-      "timestamp": 1795057680.0
-    },
-    {
-      "title": "Ngày 19/11/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-      "description": "Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: ACB, BMP, EIB, GEX, HDB, KDH, STB, SHB, VNM, VCB.",
-      "link": "http://vietstock.vn/2026/11/ngay-19112026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1515940.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Thu, 19 Nov 2026 10:00:00 +0700",
-      "timestamp": 1795057200.0
-    },
-    {
-      "title": "“Bắt đáy” hay chờ đợi: Lối đi nào cho nhà đầu tư mới?",
-      "description": "Cổ phiếu giảm sâu liệu có thực sự \"rẻ\"? Với nhà đầu tư mới, nỗi lo bỏ lỡ và sợ mua sai thời điểm khiến quyết định đầu tiên càng khó khăn. Giữa tâm lý muốn nắm bắt cơ hội và sự thận trọng trước rủi ro, đâu là lối đi phù hợp để bắt đầu?",
-      "link": "https://cafef.vn/bat-day-hay-cho-doi-loi-di-nao-cho-nha-dau-tu-moi-188261119092324876.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Thu, 19 Nov 2026 10:00:00 +0700",
-      "timestamp": 1795057200.0
-    },
-    {
-      "title": "Giá vàng miếng xuống dưới 137 triệu đồng",
-      "description": "Sau khi giá thế giới lao dốc, các thương hiệu trong nước cũng hạ giá bán vàng miếng 500.000 đồng so với hôm qua, còn 136,7 triệu đồng một lượng.",
-      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-19-11-5146410.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Thu, 19 Nov 2026 09:57:19 +0700",
-      "timestamp": 1795057039.0
     }
   ]
 }
