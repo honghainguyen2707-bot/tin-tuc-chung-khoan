@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Giá dầu thế giới xuống gần mức thấp nhất 3 tháng",
+      "description": "Hôm 24/11, giá dầu đã có phiên giảm thứ hai liên tiếp xuống mức thấp nhất gần 3 tháng do nguy cơ thừa cung trên thị trường.",
+      "link": "https://vnexpress.net/gia-dau-the-gioi-xuong-gan-muc-thap-nhat-3-thang-5148418.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Tue, 24 Nov 2026 16:02:13 +0700",
+      "timestamp": 1795510933.0
+    },
+    {
+      "title": "Vietstock Daily 25/11/2026: Hồi phục thận trọng",
+      "description": "VN-Index chững lại đà giảm sau khi test lại đáy cũ tháng 7/2026 (tương đương vùng 1,650-1,680 điểm). Tuy nhiên, khối lượng giao dịch vẫn duy trì dưới mức trung bình 20 ngày phản ánh tâm lý thận trọng và sự dè dặt của dòng tiền. Rủi ro rung lắc vẫn hiện hữu khi Stochastic Oscillator và MACD tiếp tục giảm sau khi cắt xuống đường signal.",
+      "link": "http://vietstock.vn/2026/11/vietstock-daily-25112026-hoi-phuc-than-trong-1636-1517134.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Tue, 24 Nov 2026 16:02:00 +0700",
+      "timestamp": 1795510920.0
+    },
+    {
       "title": "Thanh tra Chính phủ chỉ rõ loạt bất cập trong quản lý nhà, đất tại Tập đoàn Than - Khoáng sản",
       "description": "Kết luận thanh tra số 466/KL-TTCP của Thanh tra Chính phủ vừa công bố cho thấy, bên cạnh nhiều cơ sở kinh doanh hiệu quả, công tác quản lý, sắp xếp và định giá cho thuê quỹ đất tại Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (TKV) vẫn bộc lộ nhiều điểm nghẽn về pháp lý, dự báo thị trường và tính thống nhất trong điều hành.",
       "link": "https://cafef.vn/thanh-tra-chinh-phu-chi-ro-loat-bat-cap-trong-quan-ly-nha-dat-tai-tap-doan-than-khoang-san-188261124152148037.chn",
@@ -2383,22 +2399,6 @@
       "source": "VnEconomy - Chứng khoán",
       "published": "Thu, 19 Nov 2026 06:34:30 +0000",
       "timestamp": 1795070070.0
-    },
-    {
-      "title": "Phân tích kỹ thuật phiên chiều 19/11: Triển vọng vẫn còn tiêu cực",
-      "description": "VN-Index diễn biến giằng co đồng thời kiểm tra lại đáy cũ tháng 10/2026. Tương tự, HNX-Index giằng co đồng thời xuất hiện mẫu hình nến High Wave Candle và đang kiểm tra ngưỡng Fibonacci Projection 78.6%.",
-      "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-1911-trien-vong-van-con-tieu-cuc-585-1516080.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Thu, 19 Nov 2026 13:02:00 +0700",
-      "timestamp": 1795068120.0
-    },
-    {
-      "title": "Giá trị 3 ngân hàng lớn nhất Việt Nam không bằng một nửa Vingroup",
-      "description": "Từ đầu năm 2026 đến nay, tổng vốn hóa của Vietcombank, VietinBank và BIDV đã giảm hơn 133.000 tỷ đồng, trái ngược với mức tăng gần 600.000 tỷ đồng của Vingroup. Sự phân hóa này khiến tổng giá trị thị trường của ba ngân hàng quốc doanh lớn nhất sàn chứng khoán hiện chưa bằng một nửa Vingroup.",
-      "link": "https://cafef.vn/gia-tri-3-ngan-hang-lon-nhat-viet-nam-khong-bang-mot-nua-vingroup-188261119115254646.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Thu, 19 Nov 2026 13:00:00 +0700",
-      "timestamp": 1795068000.0
     }
   ]
 }
