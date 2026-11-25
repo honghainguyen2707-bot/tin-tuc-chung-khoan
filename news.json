@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Agribank rao bán khoản nợ hơn 84,9 tỷ đồng, không còn tài sản bảo đảm",
+      "description": "Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam (Agribank) Chi nhánh Tây Hồ vừa thông báo tìm tổ chức đấu giá để bán khoản nợ của Công ty Cổ phần Febecom.",
+      "link": "https://cafef.vn/ngan-hang-rao-ban-khoan-no-hon-849-ty-dong-cua-mot-cong-ty-khong-con-tai-san-bao-dam-188261125214733682.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Wed, 25 Nov 2026 22:41:00 +0700",
+      "timestamp": 1795621260.0
+    },
+    {
       "title": "Khối ngoại bất ngờ bán ròng 5.200 tỷ đồng, cổ phiếu nào bị xả nhiều nhất?",
       "description": "Dòng tiền ngoại tiếp tục phân hóa mạnh, với hoạt động bán ròng tập trung tại VIC, tạo thêm sức ép lên diễn biến thị trường.",
       "link": "https://vneconomy.vn/khoi-ngoai-bat-ngo-ban-rong-5200-ty-dong-co-phieu-nao-bi-xa-nhieu-nhat.htm",
@@ -1505,17 +1513,17 @@
       "timestamp": 1795414104.0
     },
     {
-      "title": "Lãi suất cao ghìm sức mua, doanh nghiệp bất động sản vẫn vay kỷ lục",
-      "description": "Lãi suất cao khiến người mua nhà chùn bước, thanh khoản thị trường suy yếu, nhưng dư nợ vay của các doanh nghiệp bất động sản vẫn tăng lên kỷ lục. Chi phí lãi vay leo cao, gây áp lực lớn lên nhiều chủ đầu tư.",
-      "link": "http://vietstock.vn/2026/11/lai-suat-cao-ghim-suc-mua-doanh-nghiep-bat-dong-san-van-vay-ky-luc-737-1516840.htm",
+      "title": "TDW bị xử phạt và truy thu thuế hơn 1.4 tỷ",
+      "description": "Ngày 18/11, Cục thuế TPHCM ban hành quyết định xử phạt vi phạm hành chính đối với CTCP Cấp nước Thủ Đức (HOSE: TDW) liên quan đến hành vi khai sai nhưng không dẫn đến thiếu số thuế giá trị gia tăng (VAT) phải nộp; khai sai dẫn đến thiếu số thuế VAT phải nộp và thuế thu nhập doanh nghiệp (TNDN) phải nộp năm 2022 và 2024.",
+      "link": "http://vietstock.vn/2026/11/tdw-bi-xu-phat-va-truy-thu-thue-hon-14-ty-737-1516938.htm",
       "source": "Vietstock - Doanh nghiệp",
       "published": "Mon, 23 Nov 2026 13:02:00 +0700",
       "timestamp": 1795413720.0
     },
     {
-      "title": "TDW bị xử phạt và truy thu thuế hơn 1.4 tỷ",
-      "description": "Ngày 18/11, Cục thuế TPHCM ban hành quyết định xử phạt vi phạm hành chính đối với CTCP Cấp nước Thủ Đức (HOSE: TDW) liên quan đến hành vi khai sai nhưng không dẫn đến thiếu số thuế giá trị gia tăng (VAT) phải nộp; khai sai dẫn đến thiếu số thuế VAT phải nộp và thuế thu nhập doanh nghiệp (TNDN) phải nộp năm 2022 và 2024.",
-      "link": "http://vietstock.vn/2026/11/tdw-bi-xu-phat-va-truy-thu-thue-hon-14-ty-737-1516938.htm",
+      "title": "Lãi suất cao ghìm sức mua, doanh nghiệp bất động sản vẫn vay kỷ lục",
+      "description": "Lãi suất cao khiến người mua nhà chùn bước, thanh khoản thị trường suy yếu, nhưng dư nợ vay của các doanh nghiệp bất động sản vẫn tăng lên kỷ lục. Chi phí lãi vay leo cao, gây áp lực lớn lên nhiều chủ đầu tư.",
+      "link": "http://vietstock.vn/2026/11/lai-suat-cao-ghim-suc-mua-doanh-nghiep-bat-dong-san-van-vay-ky-luc-737-1516840.htm",
       "source": "Vietstock - Doanh nghiệp",
       "published": "Mon, 23 Nov 2026 13:02:00 +0700",
       "timestamp": 1795413720.0
@@ -2391,14 +2399,6 @@
       "source": "CafeF - Ngân hàng",
       "published": "Sat, 21 Nov 2026 08:16:00 +0700",
       "timestamp": 1795223760.0
-    },
-    {
-      "title": "Giá vàng thế giới về sát 3.500 USD",
-      "description": "Giá kim loại quý giảm phiên thứ 4 liên tiếp, có thời điểm mất hơn 100 USD về 3.502 USD một ounce.",
-      "link": "https://vnexpress.net/gia-vang-the-gioi-ve-sat-3-500-usd-5147287.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Sat, 21 Nov 2026 07:41:31 +0700",
-      "timestamp": 1795221691.0
     }
   ]
 }
