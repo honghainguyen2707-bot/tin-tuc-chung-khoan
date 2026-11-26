@@ -1,10 +1,74 @@
 {
   "items": [
     {
+      "title": "Thị trường chứng khoán Việt Nam giảm mạnh nhất thế giới",
+      "description": "VN-Index đã rơi xuống dưới 1.630 điểm, mức thấp nhất kể từ trung tuần tháng 3.",
+      "link": "https://cafef.vn/thi-truong-chung-khoan-viet-nam-giam-manh-nhat-the-gioi-188261126155230572.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Thu, 26 Nov 2026 15:52:00 +0700",
+      "timestamp": 1795683120.0
+    },
+    {
+      "title": "Chứng khoán đột ngột \"rơi\" gần 60 điểm, chuyện gì đang xảy ra?",
+      "description": "Thanh khoản giao dịch chỉ đạt khoảng 15.772 tỷ đồng, cho thấy lực cầu bắt đáy vẫn dè dặt trong bối cảnh thị trường biến động mạnh.",
+      "link": "https://cafef.vn/chung-khoan-dot-ngot-roi-gan-60-diem-chuyen-gi-dang-xay-ra-188261126153001016.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Thu, 26 Nov 2026 15:50:00 +0700",
+      "timestamp": 1795683000.0
+    },
+    {
+      "title": "Khối ngoại tiếp đà bán ròng trong ngày VN-Index lao dốc gần 60 điểm, \"xả\" gần 200 tỷ đồng một cổ phiếu Bluechip",
+      "description": "Riêng trên HoSE, khối ngoại bán ròng 180 tỷ đồng.",
+      "link": "https://cafef.vn/khoi-ngoai-tiep-da-ban-rong-trong-ngay-vn-index-lao-doc-gan-60-diem-xa-gan-200-ty-dong-mot-co-phieu-bluechip-188261126151904654.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Thu, 26 Nov 2026 15:45:00 +0700",
+      "timestamp": 1795682700.0
+    },
+    {
+      "title": "Vietcombank và KN Holdings ký kết thỏa thuận hợp tác toàn diện",
+      "description": "Ngày 25/11/2026, tại Hà Nội, Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank) và Công ty Cổ phần Tập đoàn KN Holdings (Tập đoàn KN Holdings) chính thức ký kết thỏa thuận hợp tác toàn diện.",
+      "link": "http://vietstock.vn/2026/11/vietcombank-va-kn-holdings-ky-ket-thoa-thuan-hop-tac-toan-dien-737-1518027.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Thu, 26 Nov 2026 15:33:49 +0700",
+      "timestamp": 1795682029.0
+    },
+    {
+      "title": "Chứng khoán giảm gần 58 điểm",
+      "description": "Thông tin thuế quan kết hợp áp lực bán tiếp tục mạnh lên đã khiến chứng khoán giảm gần 58 điểm, mức mạnh nhất kể từ cuối tháng 7.",
+      "link": "https://vnexpress.net/chung-khoan-giam-gan-58-diem-5149245.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Thu, 26 Nov 2026 15:32:59 +0700",
+      "timestamp": 1795681979.0
+    },
+    {
+      "title": "Bán tháo tăng cường độ, ám ảnh thuế quan trở lại?",
+      "description": "VN-Index đóng cửa phiên chiều nay giảm sốc 3,42% tương đương bốc hơi 57,77 điểm. Mức giảm này vẫn kém phiên bán tháo khi có tin thuế đối ứng hồi tháng 4/2025, nhưng cũng góp phần đẩy nhanh tốc độ rơi về ngưỡng hỗ trợ 1600 điểm.",
+      "link": "https://vneconomy.vn/ban-thao-tang-cuong-do-am-anh-thue-quan-tro-lai.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Thu, 26 Nov 2026 08:31:52 +0000",
+      "timestamp": 1795681912.0
+    },
+    {
+      "title": "Ngân hàng 'đua' lãi suất huy động, có nơi hơn 9,7%/năm",
+      "description": "Dù Ngân hàng Nhà nước đã nhiều lần yêu cầu giảm lãi suất huy động, thậm chí cảnh báo thanh tra diện rộng và xử lý ngân hàng không tuân thủ, trên thị trường vẫn xuất hiện mức lãi suất tiết kiệm lên tới 9-9,7%/năm. Khoảng cách giữa lãi suất niêm yết và mức chào mời thực tế cho thấy cuộc đua huy động vốn chưa hạ nhiệt.",
+      "link": "https://cafef.vn/ngan-hang-dua-lai-suat-huy-dong-co-noi-hon-97-nam-188261126150521371.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Thu, 26 Nov 2026 15:19:00 +0700",
+      "timestamp": 1795681140.0
+    },
+    {
       "title": "Những cuộc đua gay cấn của các ngân hàng năm 2026",
       "description": "Năm 2026, ngành ngân hàng diễn ra song song nhiều cuộc đua gay cấn, từ quy mô vốn, huy động vốn, công nghệ cho đến trải nghiệm của từng nhóm khách hàng.",
       "link": "https://cafef.vn/nhung-cuoc-dua-gay-can-cua-cac-ngan-hang-nam-2026-188261126112036103.chn",
       "source": "CafeF - Ngân hàng",
+      "published": "Thu, 26 Nov 2026 15:00:00 +0700",
+      "timestamp": 1795680000.0
+    },
+    {
+      "title": "Masan lấy ý kiến cổ đông nâng mục tiêu lợi nhuận 2026 lên 11,500 tỷ",
+      "description": "Ngày 25/11, CTCP Tập đoàn Masan (HOSE: MSN) công bố tài liệu lấy ý kiến cổ đông bằng văn bản về việc điều chỉnh kế hoạch kinh doanh hợp nhất năm 2026. Thời hạn để cổ đông gửi phiếu biểu quyết về Masan trước 17h ngày 07/12.",
+      "link": "http://vietstock.vn/2026/11/masan-lay-y-kien-co-dong-nang-muc-tieu-loi-nhuan-2026-len-11500-ty-737-1517991.htm",
+      "source": "Vietstock - Doanh nghiệp",
       "published": "Thu, 26 Nov 2026 15:00:00 +0700",
       "timestamp": 1795680000.0
     },
@@ -1604,7 +1668,7 @@
       "title": "PC1 và Hưng Thịnh Phát bị phạt do chậm công bố thông tin",
       "description": "Ủy ban Chứng khoán Nhà nước (UBCKNN) xử phạt CTCP Tập đoàn PC1 (HOSE: PC1) và CTCP Phát triển tổng hợp Hưng Thịnh Phát do vi phạm quy định về thời hạn công bố thông tin.",
       "link": "http://vietstock.vn/2026/11/pc1-va-hung-thinh-phat-bi-phat-do-cham-cong-bo-thong-tin-830-1517353.htm",
-      "source": "Vietstock - Cổ phiếu",
+      "source": "Vietstock - Chứng khoán",
       "published": "Tue, 24 Nov 2026 07:02:00 +0700",
       "timestamp": 1795478520.0
     },
@@ -1756,7 +1820,7 @@
       "title": "Dược Cửu Long bất ngờ khóa sàn liên tiếp 4 phiên",
       "description": "Sau hàng chục phiên giao dịch quanh ngưỡng 44,000 đồng/cp, cổ phiếu của CTCP Dược Cửu Long (HOSE: DCL) bất ngờ liên tiếp khóa sàn, “múa bên trăng” với hàng chục triệu cổ phiếu dư bán.",
       "link": "http://vietstock.vn/2026/11/duoc-cuu-long-bat-ngo-khoa-san-lien-tiep-4-phien-830-1517153.htm",
-      "source": "Vietstock - Doanh nghiệp",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Mon, 23 Nov 2026 18:39:07 +0700",
       "timestamp": 1795433947.0
     },
@@ -2335,70 +2399,6 @@
       "source": "CafeF - Ngân hàng",
       "published": "Mon, 23 Nov 2026 01:00:00 +0700",
       "timestamp": 1795370400.0
-    },
-    {
-      "title": "Khối ngoại bán ròng hơn 47.000 tỷ đồng cổ phiếu ngân hàng từ đầu năm 2026, tâm điểm ACB, VCB, STB, HDB và VPB",
-      "description": "Từ đầu năm 2026 đến nay, nhà đầu tư nước ngoài đã bán ròng hơn 47.000 tỷ đồng tại nhóm cổ phiếu ngân hàng, vượt xa mức bán ròng của cả năm 2025. Trong đó, ACB, VCB, STB, HDB và VPB là 5 cổ phiếu chịu áp lực bán ròng lớn nhất, với tổng giá trị hơn 32.700 tỷ đồng.",
-      "link": "https://cafef.vn/khoi-ngoai-ban-rong-hon-47000-ty-dong-co-phieu-ngan-hang-tam-diem-acb-vcb-stb-hdb-va-vpb-188261122234006725.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Mon, 23 Nov 2026 01:00:00 +0700",
-      "timestamp": 1795370400.0
-    },
-    {
-      "title": "TPHCM thu hồi 39,360m² đất nhà máy lon liên doanh Sabeco - Crown trên Xa lộ Hà Nội",
-      "description": "Khu đất do Crown Sài Gòn - liên doanh giữa Crown Asia Pacific Holdings (Singapore) và Sabeco - thuê từ năm 1994 đã hết thời hạn 30 năm nhưng không được gia hạn, trong khi dự án đầu tư của doanh nghiệp đã chấm dứt hoạt động từ tháng 7/2026.",
-      "link": "http://vietstock.vn/2026/11/tphcm-thu-hoi-39360m-dat-nha-may-lon-lien-doanh-sabeco-crown-tren-xa-lo-ha-noi-737-1516851.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Mon, 23 Nov 2026 00:21:44 +0700",
-      "timestamp": 1795368104.0
-    },
-    {
-      "title": "Thị trường chứng khoán “thiếu tiền”: Loạt thương vụ bán vốn bất thành, người nội bộ cũng “rụt rè” mua cổ phiếu",
-      "description": "Hàng loạt doanh nghiệp phải kéo dài thời gian chào bán, không phân phối hết, thậm chí dừng kế hoạch tăng vốn. Không ít lãnh đạo doanh nghiệp và người có liên quan cũng chỉ mua được một phần nhỏ lượng cổ phiếu đã đăng ký.",
-      "link": "https://cafef.vn/thi-truong-chung-khoan-thieu-tien-loat-thuong-vu-ban-von-bat-thanh-nguoi-noi-bo-cung-rut-re-mua-co-phieu-188261122230850822.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 23 Nov 2026 00:05:00 +0700",
-      "timestamp": 1795367100.0
-    },
-    {
-      "title": "Khối ngoại bán ròng kỷ lục 127.000 tỷ đồng, chuyên gia dự báo về thời điểm đảo chiều",
-      "description": "Dù chứng khoán Việt Nam đã được nâng hạng, khối ngoại vẫn bán ròng với quy mô kỷ lục. Các chuyên gia cho rằng năm 2027 sẽ là phép thử quan trọng đối với khả năng thu hút dòng vốn ngoại trở lại một cách bền vững.",
-      "link": "https://cafef.vn/khoi-ngoai-ban-rong-ky-luc-127000-ty-dong-chuyen-gia-du-bao-ve-thoi-diem-dao-chieu-188261122220501841.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 23 Nov 2026 00:03:00 +0700",
-      "timestamp": 1795366980.0
-    },
-    {
-      "title": "Nghịch lý: VN-Index neo ở vùng cao, loạt Bluechips đình đám \"cưa đôi\" từ đỉnh, nhiều mã ngụp lặn dưới đáy",
-      "description": "Trong khi VN-Index vẫn neo quanh vùng 1.700 điểm, chỉ thấp hơn hơn 5% so với cuối năm 2025, không ít cổ phiếu bluechip lại đang trải qua những đợt điều chỉnh sâu.",
-      "link": "https://cafef.vn/nghich-ly-vn-index-neo-o-vung-cao-loat-bluechips-dinh-dam-cua-doi-tu-dinh-nhieu-ma-ngup-lan-duoi-day-188261121183458581.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 23 Nov 2026 00:03:00 +0700",
-      "timestamp": 1795366980.0
-    },
-    {
-      "title": "Chủ tịch FiinGroup chỉ ra 3 mảnh ghép để khơi thông dòng vốn cho Việt Nam",
-      "description": "Việt Nam đang bước vào một giai đoạn phát triển mới với tham vọng tăng trưởng hai chữ số. Để hiện thực hóa mục tiêu ấy, nền kinh tế được ước tính cần tới 1.460 tỷ USD vốn đầu tư trong 5 năm 2026–2030, gần gấp đôi giai đoạn trước.",
-      "link": "https://cafef.vn/chu-tich-fiingroup-chi-ra-3-manh-ghep-de-khoi-thong-dong-von-cho-viet-nam-188261122204100311.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 23 Nov 2026 00:01:00 +0700",
-      "timestamp": 1795366860.0
-    },
-    {
-      "title": "VN-Index mất điểm bởi VCB cùng loạt cổ phiếu ngân hàng, THD kéo lùi HNX-Index",
-      "description": "Chứng khoán Việt Nam trải qua tuần 16-20/11 đầy khó khăn khi toàn bộ nhóm ngành đều suy giảm. Ngành ngân hàng tạo sức ép lớn, trong đó VCB kéo lùi VN-Index mạnh nhất với gần 6.2 điểm. Trên HNX-Index, THD lấy đi gần 5.7 điểm.",
-      "link": "http://vietstock.vn/2026/11/vn-index-mat-diem-boi-vcb-cung-loat-co-phieu-ngan-hang-thd-keo-lui-hnx-index-830-1516795.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Sun, 22 Nov 2026 23:06:14 +0700",
-      "timestamp": 1795363574.0
-    },
-    {
-      "title": "Góc nhìn tuần 23-27/11: VN-Index còn giảm bao nhiêu nữa?",
-      "description": "VN-Index vừa trải qua tuần giảm hơn 46 điểm, xuống dưới 1,690 điểm khi phần lớn cổ phiếu đi xuống và thanh khoản suy yếu. Nhiều công ty chứng khoán (CTCK) cho rằng chỉ số vẫn có thể lùi thêm, thậm chí TPS để ngỏ kịch bản về quanh 1,600 điểm nếu mất vùng 1,650.",
-      "link": "http://vietstock.vn/2026/11/goc-nhin-tuan-23-2711-vn-index-con-giam-bao-nhieu-nua-145-1516763.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Sun, 22 Nov 2026 20:32:00 +0700",
-      "timestamp": 1795354320.0
     }
   ]
 }
