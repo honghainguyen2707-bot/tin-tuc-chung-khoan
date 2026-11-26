@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Nhịp đập Thị trường 26/11: VN-Index kết phiên sáng giảm 26 điểm, khối ngoại mua ròng nhẹ",
+      "description": "Tại thời điểm 11h30, VN-Index giảm 26.04 điểm về 1,661.41 điểm, gần thấp nhất phiên sáng. Xét trên toàn thị trường, 515 mã giảm giá, trong đó có 24 mã giảm sàn.",
+      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-2611-vn-index-ket-phien-sang-giam-26-diem-khoi-ngoai-mua-rong-nhe-1636-1517894.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Thu, 26 Nov 2026 13:02:00 +0700",
+      "timestamp": 1795672920.0
+    },
+    {
+      "title": "Phân tích kỹ thuật phiên chiều 26/11: Áp lực bán gia tăng",
+      "description": "VN-Index giảm điểm đồng thời xuất hiện mẫu hình nến Inverted Hammer kèm theo khối lượng dự kiến vươt mức trung bình 20 phiên. Tuy nhiên, HNX-Index tăng điểm trở lại đồng kiểm tra lại ngưỡng Fibonacci Projection 100%.",
+      "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-2611-ap-luc-ban-gia-tang-585-1517974.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Thu, 26 Nov 2026 13:00:33 +0700",
+      "timestamp": 1795672833.0
+    },
+    {
+      "title": "Lời xin lỗi của CEO Trungnam sau 10 năm trễ hẹn dự án ngăn triều",
+      "description": "Ngày 25/11/2026, sau khi chính thức vận hành liên hoàn hệ thống ngăn triều TP.HCM giai đoạn 1, ông Nguyễn Tâm Tiến - Tổng Giám đốc Tập đoàn Trungnam (Trungnam Group) - đã có những chia sẻ về hành trình 10 năm theo đuổi dự án. Cùng với đó là lời xin lỗi gửi tới người dân vì những bất tiện kéo dài, làm xáo trộn sinh hoạt thường nhật.",
+      "link": "http://vietstock.vn/2026/11/loi-xin-loi-cua-ceo-trungnam-sau-10-nam-tre-hen-du-an-ngan-trieu-737-1517959.htm",
+      "source": "Vietstock - Doanh nghiệp",
+      "published": "Thu, 26 Nov 2026 12:33:13 +0700",
+      "timestamp": 1795671193.0
+    },
+    {
       "title": "Giá vàng hồi phục từ đáy, quỹ lớn nhất thế giới hành động gì?",
       "description": "Mặc dù khối lượng mua trở lại khá khiêm tốn so với lượng vàng đã bán ra, động thái này đánh dấu sự thay đổi trong giao dịch của quỹ sau chuỗi ngày liên tục thu hẹp lượng nắm giữ.",
       "link": "https://cafef.vn/gia-vang-hoi-phuc-tu-day-quy-lon-nhat-the-gioi-hanh-dong-gi-188261126113533446.chn",
@@ -15,6 +39,14 @@
       "source": "VnEconomy - Chứng khoán",
       "published": "Thu, 26 Nov 2026 05:02:00 +0000",
       "timestamp": 1795669320.0
+    },
+    {
+      "title": "Vì sao ông Trump áp thêm thuế nhập khẩu, bất chấp lạm phát?",
+      "description": "Thuế nhập khẩu là công cụ hữu hiệu giúp Tổng thống Mỹ thể hiện quyền lực kinh tế khi đảng Cộng hòa không còn kiểm soát Quốc hội.",
+      "link": "https://vnexpress.net/vi-sao-ong-trump-ap-them-thue-nhap-khau-bat-chap-lam-phat-5149098.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Thu, 26 Nov 2026 11:58:21 +0700",
+      "timestamp": 1795669101.0
     },
     {
       "title": "Ngành dược tiếp đà tăng trưởng trong quý 3",
@@ -1596,7 +1628,7 @@
       "title": "Theo dấu dòng tiền cá mập 23/11: Khối ngoại gom POW, tự doanh dồn tiền vào LPB",
       "description": "POW được khối ngoại mua ròng hơn 176 tỷ đồng, trong khi tự doanh tập trung gần 295 tỷ đồng vào LPB. Trong phiên 23/11, khối ngoại bán ròng hơn 349 tỷ đồng, còn tự doanh mua ròng gần 377 tỷ đồng.",
       "link": "http://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-2311-khoi-ngoai-gom-pow-tu-doanh-don-tien-vao-lpb-830-1517174.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Mon, 23 Nov 2026 19:34:34 +0700",
       "timestamp": 1795437274.0
     },
@@ -1620,7 +1652,7 @@
       "title": "Dược Cửu Long bất ngờ khóa sàn liên tiếp 4 phiên",
       "description": "Sau hàng chục phiên giao dịch quanh ngưỡng 44,000 đồng/cp, cổ phiếu của CTCP Dược Cửu Long (HOSE: DCL) bất ngờ liên tiếp khóa sàn, “múa bên trăng” với hàng chục triệu cổ phiếu dư bán.",
       "link": "http://vietstock.vn/2026/11/duoc-cuu-long-bat-ngo-khoa-san-lien-tiep-4-phien-830-1517153.htm",
-      "source": "Vietstock - Cổ phiếu",
+      "source": "Vietstock - Doanh nghiệp",
       "published": "Mon, 23 Nov 2026 18:39:07 +0700",
       "timestamp": 1795433947.0
     },
@@ -2367,38 +2399,6 @@
       "source": "VnEconomy - Chứng khoán",
       "published": "Sun, 22 Nov 2026 03:33:02 +0000",
       "timestamp": 1795318382.0
-    },
-    {
-      "title": "Cổ phiếu Vietcombank không còn được định giá cao nhất ngành ngân hàng, 8 mã bank đang giao dịch dưới giá trị sổ sách, LPBank và Sacombank bỏ xa phần còn lại",
-      "description": "Định giá cổ phiếu ngân hàng đang có sự phân hóa đáng kể khi P/B của 28 nhà băng dao động từ 0,62 đến 2,26 lần. Trong khi LPBank và Sacombank được thị trường định giá cao hơn gấp đôi giá trị sổ sách, 8 ngân hàng khác đang có P/B dưới 1 lần.",
-      "link": "https://cafef.vn/co-phieu-vietcombank-khong-con-duoc-dinh-gia-cao-nhat-nganh-ngan-hang-8-ma-bank-dang-giao-dich-duoi-gia-tri-so-sach-lpbank-va-sacombank-bo-xa-phan-con-lai-188261122091658111.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Sun, 22 Nov 2026 09:12:00 +0700",
-      "timestamp": 1795313520.0
-    },
-    {
-      "title": "Chuyên gia chỉ ra “chất xúc tác” 5.000 tỷ USD có thể giúp vàng tăng giá trở lại",
-      "description": "Bất chấp đợt bán tháo mạnh trên thị trường kim loại quý, những lo ngại về gánh nặng nợ công của Mỹ được kỳ vọng sẽ tiếp tục hỗ trợ triển vọng dài hạn của vàng.",
-      "link": "https://cafef.vn/chuyen-gia-chi-ra-chat-xuc-tac-5000-ty-usd-co-the-giup-vang-tang-gia-tro-lai-188261122090823455.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sun, 22 Nov 2026 09:10:00 +0700",
-      "timestamp": 1795313400.0
-    },
-    {
-      "title": "Giá vàng hôm nay 22/11: Hồi phục nhẹ nhưng vẫn đứng ở ngưỡng thấp",
-      "description": "Sáng 22/11, giá vàng thế giới được niêm yết trên Kitco ở mức 3.537 USD/ounce, tăng 13 USD/ounce so với đầu giờ sáng qua.",
-      "link": "https://cafef.vn/gia-vang-hom-nay-22-11-hoi-phuc-nhe-nhung-van-dung-o-nguong-thap-188261122090107889.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sun, 22 Nov 2026 09:05:00 +0700",
-      "timestamp": 1795313100.0
-    },
-    {
-      "title": "PNJ rối loạn sau sự cố kim cương, CEO Phan Quốc Công thừa nhận điểm yếu",
-      "description": "Tổng Giám đốc Phan Quốc Công của Công ty CP Vàng bạc Đá quý Phú Nhuận (PNJ) mới đây chia sẻ trên website doanh nghiệp, thừa nhận nhiều sai lầm từ bộ máy.",
-      "link": "https://cafef.vn/pnj-roi-loan-sau-su-co-kim-cuong-ceo-phan-quoc-cong-thua-nhan-diem-yeu-188261122090214246.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Sun, 22 Nov 2026 09:04:00 +0700",
-      "timestamp": 1795313040.0
     }
   ]
 }
