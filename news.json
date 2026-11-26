@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "VN-Index giảm sốc, công ty chứng khoán dự báo vùng hỗ trợ 1600 điểm",
+      "description": "VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường ngày 27/11/2026.",
+      "link": "https://vneconomy.vn/vn-index-giam-soc-cong-ty-chung-khoan-du-bao-vung-ho-tro-1600-diem.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Thu, 26 Nov 2026 15:01:13 +0000",
+      "timestamp": 1795705273.0
+    },
+    {
       "title": "Ngân hàng thanh lý loạt nhà, xe dính nợ xấu",
       "description": "Hàng loạt ngân hàng đang rao bán nhiều tài sản để xử lý nợ xấu dịp cuối năm, trong đó có rất nhiều bất động sản, ô tô.",
       "link": "https://cafef.vn/ngan-hang-thanh-ly-loat-nha-xe-dinh-no-xau-188261126203557499.chn",
@@ -130,7 +138,7 @@
     },
     {
       "title": "Các tỷ phú Việt mất gần 3 tỷ USD sau phiên chứng khoán giảm 58 điểm",
-      "description": "Chốt phiên giao dịch ngày 26/11, tài sản của các tỷ phú Việt Nam đã giảm 2,98 tỷ USD, trong đó riêng ông Phạm Nhật Vương mất 2,2 tỷ USD.",
+      "description": "Chốt phiên giao dịch ngày 26/11, tài sản của các tỷ phú Việt Nam đã giảm 2,98 tỷ USD, trong đó riêng ông Phạm Nhật Vượng mất 2,2 tỷ USD.",
       "link": "https://vnexpress.net/cac-ty-phu-viet-mat-gan-3-ty-usd-sau-phien-chung-khoan-giam-58-diem-5149293.html",
       "source": "VnExpress - Kinh doanh",
       "published": "Thu, 26 Nov 2026 17:36:03 +0700",
@@ -2391,14 +2399,6 @@
       "source": "Vietstock - Cổ phiếu",
       "published": "Mon, 23 Nov 2026 11:02:00 +0700",
       "timestamp": 1795406520.0
-    },
-    {
-      "title": "Một cổ đông lớn CIG rời ghế sau khi bán 1 triệu cp",
-      "description": "Theo báo cáo giao dịch, ông Nguyễn Hải Đăng đã bán 1 triệu cp CTCP COMA 18 (HOSE: CIG) trong ngày 18/11.",
-      "link": "http://vietstock.vn/2026/11/mot-co-dong-lon-cig-roi-ghe-sau-khi-ban-1-trieu-cp-739-1516898.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Mon, 23 Nov 2026 10:46:54 +0700",
-      "timestamp": 1795405614.0
     }
   ]
 }
