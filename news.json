@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "27/11: Đọc gì trước giờ giao dịch chứng khoán?",
+      "description": "Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong những ngày cuối tuần trước giờ giao dịch hôm nay.",
+      "link": "http://vietstock.vn/2026/11/2711-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1518328.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Fri, 27 Nov 2026 06:00:00 +0700",
+      "timestamp": 1795734000.0
+    },
+    {
       "title": "Nhà đầu tư chứng khoán 'kiệt sức'",
       "description": "Những phiên giảm âm ỉ đã bào mòn gần phân nửa danh mục 'cổ phiếu quốc dân' của Hoàng Nam, khiến anh chán nản, nhiều tuần liền không mở bảng điện tử.",
       "link": "https://vnexpress.net/nha-dau-tu-chung-khoan-kiet-suc-5149348.html",
@@ -1380,7 +1388,7 @@
       "title": "Ngày 24/11/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
       "description": "Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: BVH, BMP, FPT, GMD, HDB, KDH, STB, SHB, VNM, VHM.",
       "link": "http://vietstock.vn/2026/11/ngay-24112026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1517133.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Wed, 25 Nov 2026 10:00:00 +0700",
       "timestamp": 1795575600.0
     },
@@ -2391,14 +2399,6 @@
       "source": "Vietstock - Doanh nghiệp",
       "published": "Mon, 23 Nov 2026 12:48:22 +0700",
       "timestamp": 1795412902.0
-    },
-    {
-      "title": "Công ty ông Trần Bá Dương trả lãi trái phiếu 12,5% một năm",
-      "description": "Tập đoàn Trường Hải (Thaco) mới phát hành lô trái phiếu 3.000 tỷ đồng với lãi suất tăng mạnh so với cách đây hai tháng, lên 12,5% một năm.",
-      "link": "https://vnexpress.net/cong-ty-ong-tran-ba-duong-tra-lai-trai-phieu-12-5-mot-nam-5147939.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Mon, 23 Nov 2026 12:35:52 +0700",
-      "timestamp": 1795412152.0
     }
   ]
 }
