@@ -1,6 +1,94 @@
 {
   "items": [
     {
+      "title": "VCB rơi xuống đáy hơn 3 năm, Phó Tổng Giám đốc Vietcombank đăng ký mua vào lượng lớn cổ phiếu",
+      "description": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam (Vietcombank, mã VCB) vừa công bố thông tin về giao dịch cổ phiếu của người nội bộ.",
+      "link": "https://cafef.vn/vcb-roi-xuong-day-hon-3-nam-pho-tong-giam-doc-vietcombank-dang-ky-mua-vao-luong-lon-co-phieu-188261127123957838.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Fri, 27 Nov 2026 12:39:00 +0700",
+      "timestamp": 1795757940.0
+    },
+    {
+      "title": "Techcombank thông báo thay đổi nhân sự cấp cao",
+      "description": "Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank) vừa thông báo về việc điều chuyển nhân sự cấp cao.",
+      "link": "https://cafef.vn/techcombank-thong-bao-thay-doi-nhan-su-cap-cao-188261126144405778.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Fri, 27 Nov 2026 12:20:00 +0700",
+      "timestamp": 1795756800.0
+    },
+    {
+      "title": "Chứng khoán Kafi chính thức chào bán 125 triệu cổ phiếu ra công chúng, dự kiến huy động 1.875 tỷ đồng",
+      "description": "Công ty Cổ phần Chứng khoán Kafi (UPCoM: KAI) chính thức triển khai đợt chào bán 125 triệu cổ phiếu ra công chúng với giá 15.000 đồng/cổ phiếu, dự kiến huy động 1.875 tỷ đồng.",
+      "link": "https://vneconomy.vn/chung-khoan-kafi-chinh-thuc-chao-ban-125-trieu-co-phieu-ra-cong-chung-du-kien-huy-dong-1875-ty-dong.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Fri, 27 Nov 2026 05:15:22 +0000",
+      "timestamp": 1795756522.0
+    },
+    {
+      "title": "\"Mục tiêu xuyên suốt là xây dựng thị trường chứng khoán hiệu quả, đóng góp thiết thực cho tăng trưởng kinh tế\"",
+      "description": "Mục tiêu xuyên suốt là xây dựng thị trường an toàn, hiệu quả, minh bạch và bền vững, thực sự trở thành kênh huy động và phân bổ vốn trung, dài hạn quan trọng, đóng góp thiết thực hơn cho tăng trưởng và năng lực tự chủ của nền kinh tế.",
+      "link": "https://vneconomy.vn/muc-tieu-xuyen-suot-la-xay-dung-thi-truong-chung-khoan-hieu-qua-dong-gop-thiet-thuc-cho-tang-truong-kinh-te.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Fri, 27 Nov 2026 05:02:34 +0000",
+      "timestamp": 1795755754.0
+    },
+    {
+      "title": "Chủ tịch IOSCO: Tiếp tục đồng hành để chứng khoán Việt Nam hội nhập sâu rộng vào hệ thống toàn cầu",
+      "description": "IOSCO sẵn sàng tiếp tục đồng hành và củng cố quan hệ hợp tác chặt chẽ với Việt Nam, đồng thời phối hợp với Ủy ban Chứng khoán Nhà nước trong việc nâng cao năng lực giám sát và thúc đẩy sự hội nhập ngày càng sâu rộng của thị trường chứng khoán Việt Nam vào hệ thống tài chính toàn cầu.",
+      "link": "https://vneconomy.vn/chu-tich-iosco-tiep-tuc-dong-hanh-de-chung-khoan-viet-nam-hoi-nhap-sau-rong-vao-he-thong-toan-cau.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Fri, 27 Nov 2026 05:01:34 +0000",
+      "timestamp": 1795755694.0
+    },
+    {
+      "title": "Thủ tướng Lê Minh Hưng dự Lễ kỷ niệm 30 năm Ngày truyền thống ngành Chứng khoán Việt Nam",
+      "description": "Sáng 27/11/2026, tại Hà Nội, Thủ tướng Lê Minh Hưng dự Lễ kỷ niệm 30 năm Ngày truyền thống ngành Chứng khoán Việt Nam (28/11/1996 – 28/11/2026).",
+      "link": "https://vneconomy.vn/thu-tuong-le-minh-hung-du-le-ky-niem-30-nam-ngay-truyen-thong-nganh-chung-khoan-viet-nam.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Fri, 27 Nov 2026 05:01:22 +0000",
+      "timestamp": 1795755682.0
+    },
+    {
+      "title": "Cổ phiếu AI bị bán tháo có ngăn được quyết tâm tăng lãi suất của Fed?",
+      "description": "Mối lo ngại về khả năng đảo chiều đột ngột của làn sóng đầu tư vào (AI) đã khiến một số nhà kinh tế, nhà đầu tư, và thậm chí cả Bộ trưởng Tài chính Mỹ Scott Bessent lên tiếng kêu gọi Fed tạm dừng tăng lãi suất...",
+      "link": "https://vneconomy.vn/co-phieu-ai-bi-ban-thao-co-ngan-duoc-quyet-tam-tang-lai-suat-cua-fed.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Fri, 27 Nov 2026 05:00:36 +0000",
+      "timestamp": 1795755636.0
+    },
+    {
+      "title": "Dòng tiền yếu ớt, đà phục hồi bị thử thách",
+      "description": "Thị trường bất ngờ xuất hiện diễn biến phục hồi khá mạnh sau phiên bán tháo hôm qua. Có lẽ tâm lý nhà đầu tư không yếu khi đã trải qua kinh nghiệm từ cú sốc thuế đối ứng hồi tháng 4 năm ngoái. Tuy nhiên “thực lực” để phục hồi vẫn là bài toán khó lúc này.",
+      "link": "https://vneconomy.vn/dong-tien-yeu-ot-da-phuc-hoi-bi-thu-thach.htm",
+      "source": "VnEconomy - Chứng khoán",
+      "published": "Fri, 27 Nov 2026 05:00:23 +0000",
+      "timestamp": 1795755623.0
+    },
+    {
+      "title": "Shark Phú: Những doanh nghiệp trẻ mà tôi từng hỗ trợ, kể cả những người vay tiền tôi, đến nay chưa ai trả được đầy đủ",
+      "description": "Ông Nguyễn Xuân Phú (Shark Phú) - Chủ tịch Sunhouse cho rằng trong quá trình khởi nghiệp, việc giữ uy tín ngay từ đầu là rất quan trọng, kể cả với người nhà.",
+      "link": "https://cafef.vn/shark-phu-nhung-doanh-nghiep-tre-ma-toi-tung-ho-tro-ke-ca-nhung-nguoi-vay-tien-toi-den-nay-chua-ai-tra-duoc-day-du-188261127111906096.chn",
+      "source": "CafeF - Chứng khoán",
+      "published": "Fri, 27 Nov 2026 12:00:00 +0700",
+      "timestamp": 1795755600.0
+    },
+    {
+      "title": "Nhiều ngành đang có định giá dưới mức hợp lý",
+      "description": "Lợi nhuận doanh nghiệp niêm yết tăng trưởng tích cực trong 9 tháng đầu năm 2026, trong khi định giá ở nhiều ngành đang ở mức hấp dẫn. VPBankS kỳ vọng ngân hàng, chứng khoán, cảng biển, thép và bán lẻ sẽ có triển vọng trong năm 2027.",
+      "link": "http://vietstock.vn/2026/11/nhieu-nganh-dang-co-dinh-gia-duoi-muc-hop-ly-145-1518403.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Fri, 27 Nov 2026 11:54:12 +0700",
+      "timestamp": 1795755252.0
+    },
+    {
+      "title": "CII đổi phương án sử dụng hơn 5,200 tỷ đồng vừa huy động từ trái phiếu",
+      "description": "Sau khi huy động gần 5,218 tỷ đồng từ 3,160 nhà đầu tư, CII thay đổi kế hoạch phân bổ vốn, giảm đầu tư cho cao tốc TPHCM - Trung Lương - Mỹ Thuận xuống 4,000 tỷ đồng. Phần còn lại được chuyển sang hợp tác và góp vốn tại các đơn vị liên quan.",
+      "link": "http://vietstock.vn/2026/11/cii-doi-phuong-an-su-dung-hon-5200-ty-dong-vua-huy-dong-tu-trai-phieu-785-1518382.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Fri, 27 Nov 2026 11:45:27 +0700",
+      "timestamp": 1795754727.0
+    },
+    {
       "title": "Mua cổ phiếu ngân hàng nào bị lỗ nặng nhất từ đầu năm đến nay?",
       "description": "Cổ phiếu ngân hàng đang trải qua một năm khá ảm đạm với phần lớn mã giảm giá.",
       "link": "https://cafef.vn/mua-co-phieu-ngan-hang-nao-bi-lo-nang-nhat-tu-dau-nam-den-nay-188261127114318105.chn",
@@ -9,12 +97,36 @@
       "timestamp": 1795754580.0
     },
     {
+      "title": "Nhịp đập Thị trường 27/11: Khối ngoại đảo chiều mua ròng, VN-Index nới rộng đà tăng gần 30 điểm",
+      "description": "Đến 10h30, VN-Index đạt 1,659.39 điểm, tăng gần 30 điểm (+1.82%), nới rộng thêm 7.79 điểm so với mốc 1,651.6 điểm (+22 điểm) lúc 9h30 (biên độ mở rộng lên 1,644.47–1,662.28 điểm so với 1,644.47 - 1,651.73 điểm đầu phiên).",
+      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-2711-khoi-ngoai-dao-chieu-mua-rong-vn-index-noi-rong-da-tang-gan-30-diem-1636-1518388.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Fri, 27 Nov 2026 11:42:00 +0700",
+      "timestamp": 1795754520.0
+    },
+    {
+      "title": "Sau 5 phiên giảm sàn liên tiếp, HSL giải trình ra sao?",
+      "description": "CTCP Công nghệ Sinh học Helios (HOSE: HSL) ghi nhận cổ phiếu “lau sàn” 5 phiên liên tiếp từ 19-26/11 và hiện chưa có dấu hiệu hạ nhiệt. HSL đã có văn bản giải trình gửi đến Sở Giao dịch Chứng khoán Hồ Chí Minh (HOSE).",
+      "link": "http://vietstock.vn/2026/11/sau-5-phien-giam-san-lien-tiep-hsl-giai-trinh-ra-sao-830-1518397.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Fri, 27 Nov 2026 11:35:30 +0700",
+      "timestamp": 1795754130.0
+    },
+    {
       "title": "Chủ tịch Tổ chức Quốc tế các Ủy ban Chứng khoán chúc mừng Việt Nam",
       "description": "IOSCO sẵn sàng tiếp tục đồng hành và củng cố quan hệ hợp tác chặt chẽ với Việt Nam, đồng thời phối hợp với Ủy ban Chứng khoán Nhà nước trong việc nâng cao năng lực giám sát và thúc đẩy sự hội nhập ngày càng sâu rộng của thị trường chứng khoán Việt Nam vào hệ thống tài chính toàn cầu.",
       "link": "https://cafef.vn/chu-tich-to-chuc-quoc-te-cac-uy-ban-chung-khoan-chuc-mung-viet-nam-188261127112850904.chn",
       "source": "CafeF - Chứng khoán",
       "published": "Fri, 27 Nov 2026 11:32:00 +0700",
       "timestamp": 1795753920.0
+    },
+    {
+      "title": "Bài toán khơi thông 10 triệu tỷ đồng cho mục tiêu tăng trưởng 2 chữ số",
+      "description": "Trong bối cảnh kênh cung ứng tín dụng qua hệ thống ngân hàng thương mại đã tiến sát ngưỡng bão hòa, việc khơi thông thị trường vốn trở thành nhiệm vụ quan trọng với yêu cầu huy động tới 10 triệu tỷ đồng trong vòng 5 năm tới.",
+      "link": "http://vietstock.vn/2026/11/bai-toan-khoi-thong-10-trieu-ty-dong-cho-muc-tieu-tang-truong-2-chu-so-145-1518386.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Fri, 27 Nov 2026 11:25:20 +0700",
+      "timestamp": 1795753520.0
     },
     {
       "title": "Thông điệp của Chủ tịch Ủy ban Chứng khoán Nhà nước",
@@ -948,7 +1060,7 @@
       "title": "Ngày 26/11/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
       "description": "Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: BVH, BMP, FPT, GMD, HDB, KDH, STB, SHB, VNM, VHM.",
       "link": "http://vietstock.vn/2026/11/ngay-26112026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1517741.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Thu, 26 Nov 2026 10:00:00 +0700",
       "timestamp": 1795662000.0
     },
@@ -1004,7 +1116,7 @@
       "title": "Top cổ phiếu đáng chú ý đầu phiên 26/11",
       "description": "Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.",
       "link": "http://vietstock.vn/2026/11/top-co-phieu-dang-chu-y-dau-phien-2611-830-1517832.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Thu, 26 Nov 2026 08:00:00 +0700",
       "timestamp": 1795654800.0
     },
@@ -1044,7 +1156,7 @@
       "title": "26/11: Đọc gì trước giờ giao dịch chứng khoán?",
       "description": "Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong những ngày cuối tuần trước giờ giao dịch hôm nay.",
       "link": "http://vietstock.vn/2026/11/2611-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1517833.htm",
-      "source": "Vietstock - Chứng khoán",
+      "source": "Vietstock - Cổ phiếu",
       "published": "Thu, 26 Nov 2026 06:00:00 +0700",
       "timestamp": 1795647600.0
     },
@@ -1820,7 +1932,7 @@
       "title": "Mua bất động sản hay cổ phiếu, nhà đầu tư Trung Quốc đều thua lỗ",
       "description": "Thị trường bất động sản Trung Quốc vẫn chìm trong khủng hoảng, còn chỉ số CSI của thị trường chứng khoán chứng khoán nước này đến nay đã giảm hơn 30% so với mức đỉnh năm 2021...",
       "link": "https://vneconomy.vn/mua-bat-dong-san-hay-co-phieu-nha-dau-tu-trung-quoc-deu-thua-lo.htm",
-      "source": "VnEconomy - Chứng khoán",
+      "source": "VnEconomy - Kinh tế thế giới",
       "published": "Wed, 25 Nov 2026 00:42:36 +0000",
       "timestamp": 1795567356.0
     },
@@ -1828,7 +1940,7 @@
       "title": "Vốn hóa Nvidia tăng gần 1 nghìn tỷ USD sau khi ông Jensen Huang được phục chức CEO",
       "description": "Việc Nvidia đưa nhà sáng lập Jensen Huang trở lại vị trí CEO đã đưa giá cổ phiếu của hãng chip này tăng bùng nổ trong phiên giao dịch ngày thứ Hai (23/11), giúp giá trị vốn hóa thị trường của công ty tăng thêm gần 1 nghìn tỷ USD...",
       "link": "https://vneconomy.vn/von-hoa-nvidia-tang-gan-1-nghin-ty-usd-sau-khi-ong-jensen-huang-duoc-phuc-chuc-ceo.htm",
-      "source": "VnEconomy - Chứng khoán",
+      "source": "VnEconomy - Kinh tế thế giới",
       "published": "Wed, 25 Nov 2026 00:39:39 +0000",
       "timestamp": 1795567179.0
     },
@@ -1836,7 +1948,7 @@
       "title": "Giá vàng giảm mạnh trở lại vì mối lo lãi suất cao hơn lâu hơn",
       "description": "Thị trường chứng khoán Mỹ giảm điểm cũng gây áp lực bán lên thị trường kim loại quý, khi nhà đầu tư cần thanh khoản để bù lỗ cho danh mục cổ phiếu...",
       "link": "https://vneconomy.vn/gia-vang-giam-manh-tro-lai-vi-moi-lo-lai-suat-cao-hon-lau-hon.htm",
-      "source": "VnEconomy - Chứng khoán",
+      "source": "VnEconomy - Kinh tế thế giới",
       "published": "Wed, 25 Nov 2026 00:39:27 +0000",
       "timestamp": 1795567167.0
     },
@@ -2212,7 +2324,7 @@
       "title": "Chứng khoán Mỹ tăng bùng nổ sau khi ông Jensen Huang trở lại ghế CEO ở Nvidia, giá dầu tụt gần 4% vì dấu hiệu cung tăng",
       "description": "Thị trường chứng khoán Mỹ tăng điểm mạnh trong phiên giao dịch ngày thứ Hai (23/11), sau khi Nvidia đưa ông Jensen Huang trở lại ghế CEO - một động thái giúp hồi sinh giao dịch trí tuệ nhân tạo (AI) ở Phố Wall, sau khi cả ba chỉ số chính cùng rơi vào trạng thái thị trường điều chỉnh trong phiên trước...",
       "link": "https://vneconomy.vn/chung-khoan-my-tang-bung-no-sau-khi-ong-jensen-huang-tro-lai-ghe-ceo-o-nvidia-gia-dau-tut-gan-4-vi-dau-hieu-cung-tang.htm",
-      "source": "VnEconomy - Chứng khoán",
+      "source": "VnEconomy - Kinh tế thế giới",
       "published": "Tue, 24 Nov 2026 01:36:06 +0000",
       "timestamp": 1795484166.0
     },
@@ -2287,118 +2399,6 @@
       "source": "CafeF - Ngân hàng",
       "published": "Tue, 24 Nov 2026 01:00:00 +0700",
       "timestamp": 1795456800.0
-    },
-    {
-      "title": "Quỹ ngoại quy mô 23.000 tỷ chỉ ra yếu tố then chốt còn thiếu đối với chứng khoán Việt Nam",
-      "description": "Đây là yếu tố còn thiếu trong bối cảnh nhiều cổ phiếu Việt Nam có định giá hấp dẫn, tăng trưởng lợi nhuận của doanh nghiệp niêm yết khả quan, kinh tế Việt Nam tăng trưởng mạnh mẽ và tỷ lệ nợ công thấp.",
-      "link": "https://cafef.vn/quy-ngoai-quy-mo-23000-ty-chi-ra-yeu-to-then-chot-con-thieu-doi-voi-chung-khoan-viet-nam-188261123222109132.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 24 Nov 2026 00:05:00 +0700",
-      "timestamp": 1795453500.0
-    },
-    {
-      "title": "Ngày buồn của PNJ",
-      "description": "Từng được biết đến với vị thế dẫn đầu ngành trang sức, PNJ giờ đây đang phải đối diện hàng loạt thách thức, từ áp lực thanh khoản, kết quả kinh doanh sa sút đến những xáo trộn trong bộ máy lãnh đạo.",
-      "link": "https://cafef.vn/ngay-buon-cua-pnj-188261123224100841.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 24 Nov 2026 00:04:00 +0700",
-      "timestamp": 1795453440.0
-    },
-    {
-      "title": "Chuyên gia chỉ tên 3 nhóm cổ phiếu tiềm năng cho chu kỳ tăng trưởng mới",
-      "description": "Theo Tổng Giám đốc FIDT, đây là giai đoạn lựa chọn doanh nghiệp với tầm nhìn dài hạn, trong đó cơ hội tập trung vào hạ tầng, cảng biển – logistics và những doanh nghiệp có bước đột phá về đổi mới sáng tạo.",
-      "link": "https://cafef.vn/chuyen-gia-chi-ten-3-nhom-co-phieu-tiem-nang-cho-chu-ky-tang-truong-moi-188261123124304278.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 24 Nov 2026 00:03:00 +0700",
-      "timestamp": 1795453380.0
-    },
-    {
-      "title": "Chứng khoán Việt Nam sau 3 thập kỷ: Kênh dẫn vốn hàng triệu tỷ đồng cho nền kinh tế",
-      "description": "Thị trường chứng khoán Việt Nam đang đứng trước cơ hội chuyển mình từ một kênh đầu tư ngày càng sôi động thành một trụ cột quan trọng của hệ thống tài chính quốc gia.",
-      "link": "https://cafef.vn/chung-khoan-viet-nam-sau-3-thap-ky-kenh-dan-von-hang-trieu-ty-dong-cho-nen-kinh-te-188261123221347065.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Tue, 24 Nov 2026 00:01:00 +0700",
-      "timestamp": 1795453260.0
-    },
-    {
-      "title": "Ngân hàng SCB có chủ tịch mới",
-      "description": "Sau 4 năm làm Tổng giám đốc SCB, ông Phạm Quang Tiến được bổ nhiệm giữ chức Chủ tịch Hội đồng quản trị ngân hàng, thay ông Phạm Đình Điền.",
-      "link": "https://vnexpress.net/ngan-hang-scb-co-chu-tich-moi-5148245.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Tue, 24 Nov 2026 00:00:30 +0700",
-      "timestamp": 1795453230.0
-    },
-    {
-      "title": "Công an Tuyên Quang tìm nhà đầu tư liên quan vụ án tại Top One",
-      "description": "Cơ quan Cảnh sát điều tra (CSĐT) Công an tỉnh Tuyên Quang vừa thông báo truy tìm bị hại, người có quyền và nghĩa vụ liên quan trong vụ án chiếm đoạt hơn 64.7 tỷ đồng qua cổ phiếu CTCP Phân phối Top One (UPCoM: TOP).",
-      "link": "http://vietstock.vn/2026/11/cong-an-tuyen-quang-tim-nha-dau-tu-lien-quan-vu-an-tai-top-one-737-1517351.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Mon, 23 Nov 2026 23:47:00 +0700",
-      "timestamp": 1795452420.0
-    },
-    {
-      "title": "Cổ phiếu Nvidia tăng hơn 35% khi Jensen Huang trở về",
-      "description": "Cổ phiếu hãng chip Mỹ tăng vọt, giúp CEO Jensen Huang có thêm hơn 30 tỷ USD, sau thông tin ông được tái bổ nhiệm.",
-      "link": "https://vnexpress.net/co-phieu-nvidia-tang-hon-35-khi-jensen-huang-tro-ve-5148259.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Mon, 23 Nov 2026 23:18:04 +0700",
-      "timestamp": 1795450684.0
-    },
-    {
-      "title": "Giá vàng thế giới tăng vọt",
-      "description": "Mỗi ounce vàng tăng hơn 100 USD, tiến sát mốc 3.700 USD khi nhà đầu tư mua vào bắt đáy.",
-      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-vot-5148251.html",
-      "source": "VnExpress - Kinh doanh",
-      "published": "Mon, 23 Nov 2026 22:29:12 +0700",
-      "timestamp": 1795447752.0
-    },
-    {
-      "title": "Giá vàng nhẫn trơn, vàng miếng chiều tối 23/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải đồng loạt tăng",
-      "description": "Giá vàng trong nước khép lại phiên 23/11 với mức tăng mạnh, đưa giá vàng miếng SJC lên 135 triệu đồng/lượng, cao hơn 1,5 triệu đồng/lượng so với phiên trước. Giá vàng nhẫn cũng tăng tới 1,8 triệu đồng/lượng. Trên thị trường quốc tế, giá vàng thế giới bật tăng 3,6% lên 3.666 USD/ounce sau tuần lao dốc gần 9%.",
-      "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-23-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-dong-loat-tang-toi-15-trieu-dong-luong-188261122221338839.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Mon, 23 Nov 2026 21:18:00 +0700",
-      "timestamp": 1795443480.0
-    },
-    {
-      "title": "Thêm loạt thành viên HĐQT PNJ từ nhiệm, ông Mai Hữu Tín cũng rút lui",
-      "description": "Chỉ trong ít ngày, PNJ đã ghi nhận 7 nhân sự cấp cao xin từ nhiệm, giữa lúc doanh nghiệp gặp nhiều khó khăn về mặt tài chính và đang nỗ lực tái cấu trúc.",
-      "link": "https://cafef.vn/them-loat-thanh-vien-hdqt-pnj-tu-nhiem-ong-mai-huu-tin-cung-rut-lui-188261123204033609.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Mon, 23 Nov 2026 20:39:00 +0700",
-      "timestamp": 1795441140.0
-    },
-    {
-      "title": "Ông Phạm Quang Tiến đảm nhiệm vị trí Chủ tịch Hội đồng quản trị SCB",
-      "description": "Ngày 23/11, Phó Thống đốc Ngân hàng Nhà nước (NHNN) Việt Nam - Phạm Tiến Dũng trao quyết định bổ nhiệm ông Phạm Quang Tiến, Tổng Giám đốc SCB giữ chức Chủ tịch Hội đồng quản trị ngân hàng này thay ông Phan Đình Điền nhận nhiệm vụ tại Agribank.",
-      "link": "https://cafef.vn/ong-pham-quang-tien-dam-nhiem-vi-tri-chu-tich-hoi-dong-quan-tri-scb-188261123203040558.chn",
-      "source": "CafeF - Ngân hàng",
-      "published": "Mon, 23 Nov 2026 20:30:00 +0700",
-      "timestamp": 1795440600.0
-    },
-    {
-      "title": "Thêm 4 lãnh đạo PNJ xin từ nhiệm, cổ phiếu xuống đáy thập kỷ",
-      "description": "Ba thành viên độc lập HĐQT và Giám đốc Marketing cùng xin nghỉ, nâng số lãnh đạo cấp cao PNJ gửi đơn từ nhiệm trong tháng 11 lên tám người. Phiên 23/11, cổ phiếu giảm hết biên độ xuống 12,600 đồng/cp, thấp nhất kể từ năm 2016.",
-      "link": "http://vietstock.vn/2026/11/them-4-lanh-dao-pnj-xin-tu-nhiem-co-phieu-xuong-day-thap-ky-737-1517247.htm",
-      "source": "Vietstock - Doanh nghiệp",
-      "published": "Mon, 23 Nov 2026 20:02:00 +0700",
-      "timestamp": 1795438920.0
-    },
-    {
-      "title": "Theo dấu dòng tiền cá mập 23/11: Khối ngoại gom POW, tự doanh dồn tiền vào LPB",
-      "description": "POW được khối ngoại mua ròng hơn 176 tỷ đồng, trong khi tự doanh tập trung gần 295 tỷ đồng vào LPB. Trong phiên 23/11, khối ngoại bán ròng hơn 349 tỷ đồng, còn tự doanh mua ròng gần 377 tỷ đồng.",
-      "link": "http://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-2311-khoi-ngoai-gom-pow-tu-doanh-don-tien-vao-lpb-830-1517174.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Mon, 23 Nov 2026 19:34:34 +0700",
-      "timestamp": 1795437274.0
-    },
-    {
-      "title": "Tổng Giám đốc Dragon Capital gợi ý chiến lược phân bổ tài sản cho nhà đầu tư tại DNSE Future Tech Summit",
-      "description": "Thay vì cố dự báo từng nhịp tăng giảm của thị trường hay chạy theo tâm lý đám đông, tại sự kiện DNSE Future Tech Summit 2026 tổ chức ngày 20/11, TS. Lê Anh Tuấn - Tổng Giám đốc Dragon Capital cho rằng nhà đầu tư cá nhân cần tập trung vào nghệ thuật phân bổ tài sản.",
-      "link": "http://vietstock.vn/2026/11/tong-giam-doc-dragon-capital-goi-y-chien-luoc-phan-bo-tai-san-cho-nha-dau-tu-tai-dnse-future-tech-summit-145-1517272.htm",
-      "source": "Vietstock - Chứng khoán",
-      "published": "Mon, 23 Nov 2026 19:00:00 +0700",
-      "timestamp": 1795435200.0
     }
   ]
 }
