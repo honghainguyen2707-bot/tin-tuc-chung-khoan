@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Tạo dư địa giảm lãi suất bền vững",
+      "description": "Những chuyển biến tích cực trên thị trường tiền tệ đang tạo thêm cơ sở để kỳ vọng mặt bằng lãi suất diễn biến thuận lợi hơn. Cùng với các giải pháp điều hành của Ngân hàng Nhà nước (NHNN), việc chủ động cân đối nguồn vốn, tối ưu chi phí và nâng cao hiệu quả hoạt động của các ngân hàng sẽ góp phần hỗ trợ doanh nghiệp tiếp cận vốn với chi phí hợp lý.",
+      "link": "https://cafef.vn/tao-du-dia-giam-lai-suat-ben-vung-188261128215642479.chn",
+      "source": "CafeF - Ngân hàng",
+      "published": "Sat, 28 Nov 2026 21:56:00 +0700",
+      "timestamp": 1795877760.0
+    },
+    {
+      "title": "Chứng khoán có phiên giảm sâu vì tin thuế quan",
+      "description": "Phiên giao dịch chứng khoán ngày 26/11/2026 ghi nhận cú lao dốc mạnh khi VN-Index giảm 57.77 điểm (−3.42%), lùi về mốc 1,629.68 điểm. Diễn biến tiêu cực của thị trường xuất hiện sau thông tin Việt Nam bị Mỹ đề xuất áp thêm thuế tối đa 35%.",
+      "link": "http://vietstock.vn/2026/11/chung-khoan-co-phien-giam-sau-vi-tin-thue-quan-830-1518898.htm",
+      "source": "Vietstock - Chứng khoán",
+      "published": "Sat, 28 Nov 2026 21:02:00 +0700",
+      "timestamp": 1795874520.0
+    },
+    {
       "title": "Loạt cổ phiếu lớn kéo VN-Index mất gần 35 điểm tuần qua",
       "description": "Áp lực trên diện rộng, đặc biệt tại nhóm bất động sản và ngân hàng khiến VN-Index giảm gần 35 điểm trong tuần 23-27/11.",
       "link": "http://vietstock.vn/2026/11/loat-co-phieu-lon-keo-vn-index-mat-gan-35-diem-tuan-qua-830-1518889.htm",
@@ -15,6 +31,14 @@
       "source": "Vietstock - Doanh nghiệp",
       "published": "Sat, 28 Nov 2026 19:54:27 +0700",
       "timestamp": 1795870467.0
+    },
+    {
+      "title": "TP HCM mời các ngân hàng Đức tham gia trung tâm tài chính",
+      "description": "Trung tâm tài chính tại TP HCM mời các ngân hàng Đức tham gia và muốn hợp tác nhân lực, chuyên môn với Trung tâm Tài chính Frankfurt.",
+      "link": "https://vnexpress.net/tp-hcm-moi-cac-ngan-hang-duc-tham-gia-trung-tam-tai-chinh-5150006.html",
+      "source": "VnExpress - Kinh doanh",
+      "published": "Sat, 28 Nov 2026 19:42:26 +0700",
+      "timestamp": 1795869746.0
     },
     {
       "title": "Chứng khoán phái sinh tuần 30/11-04/12/2026: Xuất hiện các tín hiệu trái chiều",
@@ -2375,30 +2399,6 @@
       "source": "VnEconomy - Chứng khoán",
       "published": "Wed, 25 Nov 2026 06:57:07 +0000",
       "timestamp": 1795589827.0
-    },
-    {
-      "title": "TS Cấn Văn Lực: Cần nâng tầm SCIC trở thành quỹ đầu tư quốc gia, tương tự Temasek của Singapore",
-      "description": "Quan trọng hơn là cần nâng tầm SCIC trở thành quỹ đầu tư quốc gia, tương tự mô hình Temasek. Tôi rất mong nhận được sự ủng hộ đối với định hướng này.",
-      "link": "https://vneconomy.vn/ts-can-van-luc-can-nang-tam-scic-tro-thanh-quy-dau-tu-quoc-gia-tuong-tu-temasek-cua-singapore.htm",
-      "source": "VnEconomy - Chứng khoán",
-      "published": "Wed, 25 Nov 2026 06:56:49 +0000",
-      "timestamp": 1795589809.0
-    },
-    {
-      "title": "PNJ bán vàng với giá thấp nhất thị trường giữa lúc “tình hình tài chính hết sức khẩn cấp”",
-      "description": "Tính từ đầu tháng 11, PNJ cũng là thương hiệu giảm giá vàng nhẫn (theo chiều bán ra) mạnh nhất trong số các thương hiệu nổi tiếng trên thị trường.",
-      "link": "https://cafef.vn/pnj-ban-vang-voi-gia-thap-nhat-thi-truong-giua-luc-tinh-hinh-tai-chinh-het-suc-khan-cap-188261125131811819.chn",
-      "source": "CafeF - Chứng khoán",
-      "published": "Wed, 25 Nov 2026 13:18:00 +0700",
-      "timestamp": 1795587480.0
-    },
-    {
-      "title": "Phân tích kỹ thuật phiên chiều 25/11: Dòng tiền thận trọng",
-      "description": "VN-Index diễn biến giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ kèm theo khối lượng thường xuyên nằm dưới mức trung bình. Tương tự, HNX-Index giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ có bóng trên dài cho thấy áp lực bán vẫn hiện hữu.",
-      "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-2511-dong-tien-than-trong-585-1517549.htm",
-      "source": "Vietstock - Cổ phiếu",
-      "published": "Wed, 25 Nov 2026 12:50:52 +0700",
-      "timestamp": 1795585852.0
     }
   ]
 }
